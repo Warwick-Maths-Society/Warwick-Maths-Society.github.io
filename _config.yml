@@ -10,8 +10,8 @@ remote_theme: dieghernan/chulapa
 locale                  : en-GB    #default["en-US"] format language-TERRITORY , e.g fr, en-GB, es-MX, pt-BR
 title                   : Warwick Maths Society    #default["repository_name"]
 title_separator         :     #default [" | "]
-subtitle                :     #default [your-repository-tagline]  
-description             :     #default [your-repository-tagline]
+subtitle                : AAA    #default [your-repository-tagline]  
+description             : BBB    #default [your-repository-tagline]
 url                     :     #See baseurl - On Github Pages you may leave it blank - If you use CNAME use your domain
 baseurl                 :     #On Github Pages you may leave it blank. Have a look to: https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
 words_per_minute        :     #default[200]
@@ -19,11 +19,11 @@ timezone                : Europe/London    #"Europe/Madrid ,see https://jekyllrb
 
 # SEO
 og_image                :     #default[author.avatar (see below)] or [github-avatar]
-twitter_site            :     #Avoid @
+twitter_site            : https://x.com/mathssociety    #Avoid @
 author:
-  name                  : Kit Liu, Warwick Maths Society    # Name Surname Company
-  avatar                : https://github.com/Warwick-Maths-Society.png    # Try a square file. Info: Your github avatar on https://github.com/[USERNAME].png
-  location              : University of Warwick # New York, USA
+  name                  : Kit Liu, WMS
+  avatar                : https://github.com/Warwick-Maths-Society.png
+  location              : University of Warwick
 #  links:                
 #    - url:  #A link or email: https://twitter.com/jack, mail@example.com
 #      icon: # A Fontawesome 5 code: fab fa-twitter - see https://fontawesome.com/
@@ -96,41 +96,66 @@ navbar:
     title   : WMS # Title in navbar
     url     : # default["url/baseurl"]
     img     : "./assets/img/logo-large-transparent.png"
+    
   nav:
-  - title   : Blog
-    url     : /blog/ #url
-  - title   : Cheatsheets
-    url     : /cheatsheets
-  - title   : Extras
+  - title   : About
+    url     : /about
+  - title   : Events
+    url     : /events
+  - title   : Essays
+    url     : /essays
+  - title   : Module Reviews
+    url     : /module-reviews
+  - title   : Contact
+    url     : /contact
+  - title   : Other Links
     child   :
       - title : Tags
         url   : /tags
       - title : Categories
         url   : /categories
       - title : Archive
-        url   : /archive
-      - title : Current skin
-        url   : /current-skin
-  - title   : Docs
-    url     : https://dieghernan.github.io/chulapa/docs/01-install
-  - title   : Use this template
-    url     : https://github.com/dieghernan/chulapa-101/generate
-#  - title   : # Label submenu
-#    child:		
-#    - title: # Child label		
-#      url  : # child url	
-#    - title: # Child label		
-#      url  : # child url	
+        url   : /archives
+
+  # - title   : Blog
+  #   url     : /blog/ #url
+  # - title   : Cheatsheets
+  #   url     : /cheatsheets
+  # - title   : Extras  
+  #   child   :
+  #     - title : Tags
+  #       url   : /tags
+  #     - title : Categories
+  #       url   : /categories
+  #     - title : Archive
+  #       url   : /archive
+  #     - title : Current skin
+  #       url   : /current-skin
+  # - title   : Docs
+  #   url     : https://dieghernan.github.io/chulapa/docs/01-install
+  # - title   : Use this template
+  #   url     : https://github.com/dieghernan/chulapa-101/generate
+
+
 #Social links to be placed on your site footer
 footer:
   links:
     - label : Repo on Github # Label
       icon  : fab fa-github # Fontawesome 5 icon
-      url   : https://github.com/dieghernan/chulapa-101 # A link or email: https://twitter.com/jack, mail@example.com
-    - label: "RSS"
-      icon: "fa fa-rss"
-      url:  "./atom.xml"
-  copyright: # default is © <year> <name> 
+      url   : https://github.com/Warwick-Maths-Society # A link or email: https://twitter.com/jack, mail@example.com
+    - label : "Discord"
+      icon  : "fa-brands fa-discord"
+      url   : "https://discord.gg/UWrqB93gfh"
+    - label : "Instagram"
+      icon  : "fa-brands fa-instagram"
+      url   : "https://www.instagram.com/warwickmathssociety"
+    - label : "X (formerly Twitter)"
+      icon  : "fa-brands fa-x-twitter"
+      url   : "https://x.com/mathssociety"
+    - label : "Facebook"
+      icon  : "fa-brands fa-facebook"
+      url   : "https://www.facebook.com/warwickmathssociety"
+  copyright : # default is © <year> <name> 
   
 # C. Theme Settings
 # Google Fonts https://fonts.google.com/, add as many as you need
@@ -172,6 +197,8 @@ defaults:
       include_on_search   : false
       cloudtag_url        : /tags #This is where the link on tags would redirect
       cloudcategory_url   : /categories #This is where the link on categories would redirect
+      show_comments       : false
+      show_sociallinks    : false
   -
     scope:
       path: ""
@@ -183,8 +210,6 @@ defaults:
       show_date         : true
       show_related      : true
       show_bottomnavs   : true
-      show_sociallinks  : true
-      show_comments     : true
       show_tags         : true
       show_categories   : true
       show_author       : true
@@ -199,7 +224,6 @@ defaults:
     values:
       header_type       : "hero"
       show_bottomnavs   : true
-      show_sociallinks  : true
       include_on_search : true
       show_breadcrumb   : true
       breadcrumb_list   :
