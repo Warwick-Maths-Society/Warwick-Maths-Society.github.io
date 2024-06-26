@@ -10,8 +10,8 @@ remote_theme: dieghernan/chulapa
 locale                  : en-GB    #default["en-US"] format language-TERRITORY , e.g fr, en-GB, es-MX, pt-BR
 title                   : Warwick Maths Society    #default["repository_name"]
 title_separator         :     #default [" | "]
-subtitle                : AAA    #default [your-repository-tagline]  
-description             : BBB    #default [your-repository-tagline]
+subtitle                :     #default [your-repository-tagline]  
+description             :     #default [your-repository-tagline]
 url                     :     #See baseurl - On Github Pages you may leave it blank - If you use CNAME use your domain
 baseurl                 :     #On Github Pages you may leave it blank. Have a look to: https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
 words_per_minute        :     #default[200]
@@ -21,7 +21,7 @@ timezone                : Europe/London    #"Europe/Madrid ,see https://jekyllrb
 og_image                :     #default[author.avatar (see below)] or [github-avatar]
 twitter_site            : https://x.com/mathssociety    #Avoid @
 author:
-  name                  : Kit Liu, WMS
+  name                  : Kit Liu
   avatar                : https://github.com/Warwick-Maths-Society.png
   location              : University of Warwick
 #  links:                
@@ -98,10 +98,10 @@ navbar:
     img     : "./assets/img/logo-large-transparent.png"
     
   nav:
-  - title   : About
-    url     : /about
-  - title   : Events
-    url     : /events
+  - title   : Exec
+    url     : /exec
+  - title   : Code of Conduct
+    url     : /code_of_conduct
   - title   : Essays
     url     : /essays
   - title   : Module Reviews
@@ -199,6 +199,7 @@ defaults:
       cloudcategory_url   : /categories #This is where the link on categories would redirect
       show_comments       : false
       show_sociallinks    : false
+      show_author         : false
   -
     scope:
       path: ""
