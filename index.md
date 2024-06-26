@@ -27,7 +27,7 @@ project_links:
 <div class="text-center my-4 py-5 px-3 bg-primary rounded-lg chulapa-overlay-img"  style="background-image: url(https://dieghernan.github.io/chulapa/assets/img/iconbanner/github.svg)">
  <p><i class="fa-solid fa-mug-hot fa-3x"></i></p>
  <h2 class="font-weight-light py-3">Weekly Social Events</h2>
- <p class="lead font-weight-light py-2">Get some free food and academic help from our Academic Support officers at the <span class="font-weight-bold">Maths Café</span>, or socialise at <span class="font-weight-bold">Coffee and Cake</span>, both running every week during term</p>
+ <p class="lead font-weight-light py-2">Get some free food and academic help from our Academic Support officers at the <span class="font-weight-bold">Maths Café</span>, or socialise and relax at <span class="font-weight-bold">Coffee and Cake</span> run by our Equal Opportunities and Welfare officers</p>
 </div>
 
 <div class="text-center my-4 py-5 px-3 bg-primary rounded-lg chulapa-overlay-img" style="background-repeat: repeat;
@@ -39,49 +39,15 @@ background-image: url(https://dieghernan.github.io/chulapa/assets/img/iconbanner
 </div>
 
 <div class="text-center my-4 py-5 px-3 bg-primary rounded-lg chulapa-overlay-img"  style="background-image: url(https://dieghernan.github.io/chulapa/assets/img/iconbanner/th.svg)">
- <p><i class="fas fa-puzzle-piece fa-3x"></i></p>
+ <p><i class="fa-solid fa-book-bookmark fa-3x"></i></p>
  <h2 class="font-weight-light py-3">Revision Lectures</h2>
  <p class="lead font-weight-light py-2">We offer revision lectures for first and second year core modules, run by our Academic Support officers</p>
 </div>
 
 <div class="text-center my-4 py-5 px-3 bg-primary rounded-lg chulapa-overlay-img" style="
 background-image: url(https://dieghernan.github.io/chulapa/assets/img/iconbanner/palette.svg)">
- <p><i class="fas fa-cogs fa-3x"></i></p>
+ <p><i class="fa-solid fa-comments fa-3x"></i></p>
  <h2 class="font-weight-light py-3">Socials</h2>
  <p class="lead font-weight-light py-2">Get to know your coursemates at our socials, from boardgame nights to circles and bar crawls.</p>
  <p class="lead font-weight-light py-2">Many of our events are sober, so don't worry if you don't want to or can't drink!</p>
 </div>
-
-
-
-
-
-
-
-
-<!-- ---
-layout: default
-title: Chulapa on remote
-header_type: hero
-subtitle: Starter pack
---- -->
-
-
-
-<!-- Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
-
-Contains basic configuration to get you a site with:
-
-- Sample posts and [paginated blog index](./blog/).
-- Sample collection with Markdown and kramdown cheatsheets and [collection index](./cheatsheets).
-- Archive pages for posts grouped by year, category, and tag.
-- Demo page with the different Bootstrap components and how they look with the actual skin settings.
-- Sample 404 page.
-- Site search with Lunr.
-- Sample `_config` with minimal configuration. `primary` color is set to <span class="text-primary">LightSkyBlue</span> and `autothemer` is enabled. [Learn how to customize your site](https://dieghernan.github.io/chulapa/docs/03-theming).
-- Sample `algolia-search.yml` for using Algolia+GitHub Actions.
-- Sample files for extending the theme with your own scripts and css.
-
-On addition, `jekyll-sitemap` generates your sitemap on [./sitemap.xml](./sitemap.xml), and Chulapa generates an Atom feed on [./atom.xml](./atom.xml) and a RSS 2.0 feed on [./rss.xml](./rss.xml).
-
-[Configure as necessary](https://dieghernan.github.io/chulapa/docs/02-config) and replace sample content with your own. -->
