@@ -78,3 +78,16 @@ tbody{
 </table>
 
 <br/>
+
+We also have a collection of 3rd year essays:
+
+<table style="margin: 0px auto; width:100%;">
+  <tr>
+    <th>Mark</th>
+    <th>Title</th>
+  </tr>
+  <tr>
+    <td>tbd</td>
+    <td><a href="./assets/essays-3/tbd_-Structural-Foundations-in-Topoi.pdf">Structural Foundations in Topoi</a></td>
+  </tr>
+</table>

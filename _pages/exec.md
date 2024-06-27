@@ -13,7 +13,7 @@ show_breadcrumb   : true
 
 # Roles and Current Exec
 
-<br>
+---
 
 ### President&ensp;<small class="text-muted">Kitty Powel</small>
 

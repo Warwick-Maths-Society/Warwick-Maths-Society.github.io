@@ -104,22 +104,24 @@ navbar:
     url     : /exec
   - title   : Essays
     url     : /essays
-  - title   : Revision Guides
-    url     : https://drive.google.com/drive/u/3/folders/15cWYdWuzEWe67IeKdMhfGa260dhm1clE
-  - title   : Module Reviews
-    url     : /module-reviews
+  - title   : Modules
+    child   :
+      - title : Revision Guides
+        url   : https://drive.google.com/drive/u/3/folders/15cWYdWuzEWe67IeKdMhfGa260dhm1clE
+      - title : Module Reviews
+        url   : /module-reviews
   - title   : Contact
     url     : /contact
   - title   : Code of Conduct
     url     : /code_of_conduct
-  - title   : Other Links
-    child   :
-      - title : Tags
-        url   : /tags
-      - title : Categories
-        url   : /categories
-      - title : Archive
-        url   : /archives
+  # - title   : Other Links
+  #   child   :
+  #     - title : Tags
+  #       url   : /tags
+  #     - title : Categories
+  #       url   : /categories
+  #     - title : Archive
+  #       url   : /archives
 
         
 

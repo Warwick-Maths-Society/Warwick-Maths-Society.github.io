@@ -22,7 +22,7 @@ show_breadcrumb   : true
 
 ### Maths Café
 
-Every Wednesday, we run a drop-in help session in the undergraduate workroom with free snacks provided. Bring along some assignment sheets or any other mathematics that you might be struggling with, and you can seek help from our Academic support officers or other attendees.
+Every Wednesday, we run a drop-in help session in the undergraduate workroom with free snacks provided. Bring along some assignment sheets or any other mathematics that you might be struggling with, and you can seek help from our Academic Supports or other attendees.
 
 ### Revision Guides
 
@@ -44,5 +44,18 @@ We run academic talks in the department on a weekly basis, where you can learn a
 
 ## Social
 
+### Coffee and Cake
 
+Stop by for some hot drinks and snacks at our weekly Coffee and Cake welfare event, run by our Equal Opportunities & Welfare officers. Meet other students and relax
 
+### Board Games Night
+
+We run a termly Board Games night, where you meet other members and hustle your new friends at board games. 
+
+### Circles and Bar Crawls
+
+-
+
+### Integration Bee
+
+-
