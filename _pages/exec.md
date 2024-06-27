@@ -76,6 +76,8 @@ The Talks Coordinator is also responsible for organising the Warwick-Imperial Co
 
 The two Academic Supports organise and run the weekly **Maths Café** event where they assist other students with their academic studies. They are also responsible for organising the revision lectures later in the year.
 
+---
+
 ### Academic Events&ensp;<small class="text-muted">Ben Jordan</small>
 
 The Academic Events Coordinator organises academic collaborations with other societies, as well as overseeing several annual maths competitions.

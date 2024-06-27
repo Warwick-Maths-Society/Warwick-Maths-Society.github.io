@@ -11,7 +11,7 @@ show_date         : true
 show_breadcrumb   : true
 ---
 
-The second year essay is an opportunity to study topic of your choice, and to gain some experience in mathematical writing.
+The second year essay is an opportunity to study a topic of your choice, and to gain some experience in mathematical writing.
 
 Most of the advice that can be given about the essay is self evident, but is worth repeating.
 
