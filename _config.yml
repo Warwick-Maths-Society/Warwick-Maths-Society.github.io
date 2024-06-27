@@ -100,14 +100,14 @@ navbar:
   nav:
   - title   : Exec
     url     : /exec
-  - title   : Code of Conduct
-    url     : /code_of_conduct
   - title   : Essays
     url     : /essays
   - title   : Module Reviews
     url     : /module-reviews
   - title   : Contact
     url     : /contact
+  - title   : Code of Conduct
+    url     : /code_of_conduct
   - title   : Other Links
     child   :
       - title : Tags

@@ -53,11 +53,11 @@ tbody{
   </tr>
   <tr>
     <td>78</td>
-    <td><a href="./assets/essays-2/78_-The-Banach-Tarski-Paradox.pdf">The Banach Tarski Paradox</a></td>
+    <td><a href="./assets/essays-2/78_-The-Banach–Tarski-Paradox.pdf">The Banach Tarski Paradox</a></td>
   </tr>
   <tr>
     <td>80</td>
-    <td><a href="./assets/essays-2/80_-Mobius-Transformations.pdf">Mobius Transformations</a></td>
+    <td><a href="./assets/essays-2/80_-Möbius-Transformations.pdf">Mobius Transformations</a></td>
   </tr>
   <tr>
     <td>81</td>
