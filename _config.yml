@@ -110,8 +110,8 @@ navbar:
         url   : https://drive.google.com/drive/u/3/folders/15cWYdWuzEWe67IeKdMhfGa260dhm1clE
       - title : Module Reviews
         url   : /module-reviews
-  - title   : Contact
-    url     : /contact
+  # - title   : Contact
+  #   url     : /contact
   - title   : Code of Conduct
     url     : /code_of_conduct
   # - title   : Other Links
@@ -175,10 +175,12 @@ chulapa-skin:
   highlight     :  # default["default"]
   skin          : gitdev-dark # Optional predefined skins
   autothemer    :  true # Bool: Use autotheming
-  vars          :    
-    primary     : "#25338e" #default ["#007bff"] - Bootstrap blue
-    body-bg     : "#192361"
-    
+  # vars          :    
+  #   primary     : "#25338e" #default ["#007bff"] - Bootstrap blue
+  #   body-bg     : "#192361"
+  # >>>>> WIP
+
+
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
 
 # Blog pagination: on this site /blog/index.html. https://jekyllrb.com/docs/pagination/
