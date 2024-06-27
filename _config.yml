@@ -95,7 +95,7 @@ navbar:
   brand:
     title   : WMS # Title in navbar
     url     : # default["url/baseurl"]
-    img     : "./assets/img/logo-large-transparent.png"
+    img     : "./assets/img/logo-32x32.png"
     
   nav:
   - title   : Exec
