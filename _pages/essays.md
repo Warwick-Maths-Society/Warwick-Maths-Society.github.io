@@ -36,6 +36,10 @@ tbody{
     <th>Title</th>
   </tr>
   <tr>
+    <td>tbd</td>
+    <td><a href="./assets/essays-2/tbd_-Nowhere-Dense-Sets.pdf">Nowhere Dense Sets</a></td>
+  </tr>
+  <tr>
     <td>74</td>
     <td><a href="./assets/essays-2/74_-Curvature-of-Surfaces-in-R^3.pdf">Curvature of Surfaces in R^3</a></td>
   </tr>
