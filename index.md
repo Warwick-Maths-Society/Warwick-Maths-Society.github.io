@@ -2,7 +2,7 @@
 layout: landingpage
 title: Warwick Maths Society
 subtitle: University of Warwick
-excerpt: Jekyll template for fast creation of free site on Github Pages. Based on Bootstrap and shipped with lots of features
+excerpt: University of Warwick Maths Society Website
 header_type: splash
 header_img: "./assets/img/dan-cristian-padure-h3kuhYUCE9A-unsplash.jpg"
 og_image: "./assets/img/banner.png"

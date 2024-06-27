@@ -18,9 +18,11 @@ show_breadcrumb   : true
 # show_toc          : true
 ---
 
-Warwick Mathematics Society is here to help you! Whether you're studying maths and want an easy way to meet your course-mates, need some extra help, or want nothing to do with numbers - we're the society for you. Laid back, friendly and approachable, we aim to provide exciting opportunities for fun-filled socials to help you relax after a long day of lectures (or not, as the case may be!), whilst our fantastic academic team ensure you still get the grades you deserve...
-
 ## Academics
 
+
+
 ## Social
+
+
 
