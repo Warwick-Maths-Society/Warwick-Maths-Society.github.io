@@ -49,7 +49,7 @@ body {
  <p class="lead font-weight-light py-2">We offer revision lectures for first and second year core modules, run by our Academic Support officers</p>
 </div>
 
-<div class="text-center my-4 py-5 px-3 bg-primary rounded-lg chulapa-overlay-img" style="background-image: url(https://dieghernan.github.io/chulapa/assets/img/iconbanner/palette.svg)">
+<div class="text-center my-4 py-5 px-3 bg-primary rounded-lg chulapa-overlay-img" style="background-image: url(./assets/desync/cyan.png)">
  <p><i class="fa-solid fa-comments fa-3x"></i></p>
  <h2 class="font-weight-light py-3">Socials</h2>
  <p class="lead font-weight-light py-2">Get to know your coursemates at our socials, from boardgame nights to circles and bar crawls.</p>
