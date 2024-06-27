@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: https://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="192pt"
+    height="120pt"
+    viewBox="0 0 192 120"
+    style="background-color:#181e57">
+<defs/>
+<g id="group0" transform="translate(50.4, 9.24895703658171)" fill="none">
+  <path id="shape0" transform="translate(0.469263475510338, 26.0498146161494)" fill="none" stroke="#00d9ff" stroke-width="1.8" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M12.7279 7.25492L0 0"/>
+  <path id="shape1" transform="translate(77.1150083920497, 25.971045347311)" fill="none" stroke="#00d9ff" stroke-width="1.44" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 7.5075L13.125 0"/>
+  <path id="shape2" transform="translate(45.2818019512498, 88.744622731666)" fill="none" stroke="#00d9ff" stroke-width="1.8" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M3.05758e-29 14.6425C-1.42109e-14 9.76166 1.42109e-14 4.88083 0 0"/>
+  <path id="shape3" transform="translate(49.2172070763975, 77.8948859510334)" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M39.3293 0L0 6.78823"/>
+  <path id="shape4" transform="translate(75.6064281492569, 38.7510429634183)" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M13.2795 36.6831L0 0"/>
+  <path id="shape5" transform="translate(47.0110299766646, 38.7510429634183)" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 43.2L24.989 0"/>
+  <path id="shape6" transform="translate(20.2399682821484, 35.3836229004615)" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 6.23209e-07L50.095 0"/>
+  <path id="shape7" transform="translate(18.8398968387185, 1.65462928600751)" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 30.6531L25.2861 0"/>
+  <path id="shape8" transform="translate(46.5867639433423, 1.44249725638515)" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L25.0682 30.9185"/>
+  <path id="shape9" transform="translate(0.723820224308589, 38.7777354894908)" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M14.425 0L0 38.2262"/>
+  <path id="shape10" transform="translate(1.50000161844258, 78.0210456848342)" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L40.5047 7.34088"/>
+  <path id="shape11" transform="translate(18.4156318040723, 38.7510429634183)" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M24.7844 43.2L0 0"/>
+  <circle id="shape0" transform="matrix(0.999999937684525 0 0 0.999999937684525 42.1987023390192 82.3132395980224)" r="3.06530360443553" cx="3.06530360443553" cy="3.06530360443553" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <circle id="shape01" transform="matrix(0.999999988591146 0 0 0.999999988591146 71.0907445914297 32.2146804074165)" r="3.06530360443553" cx="3.06530360443553" cy="3.06530360443553" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <circle id="shape12" transform="translate(13.2900000011616, 32.1404363678963)" r="3.06530360443553" cx="3.06530360443553" cy="3.06530360443553" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <path id="shape13" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="square" stroke-linejoin="bevel" d="M45.6 0C36.48 5.35894 21.39 14.0301 0.330001 26.0134C0.330001 43.0183 1.42109e-14 60.8045 0 77.8095L45.6 104.199L90.1163 77.8945L90.2435 25.9223C75.3624 17.2816 60.4812 8.64078 45.6 0"/>
+ </g>
+</svg>

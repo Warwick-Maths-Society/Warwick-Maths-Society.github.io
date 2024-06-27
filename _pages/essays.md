@@ -40,6 +40,10 @@ tbody{
     <td><a href="./assets/essays-2/tbd_-Nowhere-Dense-Sets.pdf">Nowhere Dense Sets</a></td>
   </tr>
   <tr>
+    <td>tbd</td>
+    <td><a href="./assets/essays-2/tbd_-Generalised-Stokes-Theorem.pdf">Generalised Stokes Theorem</a></td>
+  </tr>
+  <tr>
     <td>74</td>
     <td><a href="./assets/essays-2/74_-Curvature-of-Surfaces-in-R^3.pdf">Curvature of Surfaces in R^3</a></td>
   </tr>
@@ -53,7 +57,7 @@ tbody{
   </tr>
   <tr>
     <td>78</td>
-    <td><a href="./assets/essays-2/78_-The-Banach–Tarski-Paradox.pdf">The Banach Tarski Paradox</a></td>
+    <td><a href="./assets/essays-2/78_-The-Banach–Tarski-Paradox.pdf">The Banach–Tarski Paradox</a></td>
   </tr>
   <tr>
     <td>80</td>
@@ -61,7 +65,7 @@ tbody{
   </tr>
   <tr>
     <td>81</td>
-    <td><a href="./assets/essays-2/81_-Squaring-the-Circle_-Ancient-Problems-and-Modern-Solutions.pdf">Squaring the Circle -- Ancient Problems and Modern Solutions</a></td>
+    <td><a href="./assets/essays-2/81_-Squaring-the-Circle_-Ancient-Problems-and-Modern-Solutions.pdf">Squaring the Circle - Ancient Problems and Modern Solutions</a></td>
   </tr>
   <tr>
     <td>83</td>

@@ -15,7 +15,7 @@ show_breadcrumb   : true
 
 <br>
 
-### President -- Kitty Powel
+### President&ensp;<small class="text-muted">Kitty Powel</small>
 
 The President is the overall leader of the society, and is in charge of:
 
@@ -25,7 +25,7 @@ The President is the overall leader of the society, and is in charge of:
 
 ---
 
-### Vice-President -- Rachel Walsh
+### Vice-President&ensp;<small class="text-muted">Rachel Walsh</small>
 
 The Vice-President is to assist the President with the general running of the society, including:
 
@@ -35,7 +35,7 @@ The Vice-President is to assist the President with the general running of the so
 
 ---
 
-### Treasurer -- Bert Jim Chang
+### Treasurer&ensp;<small class="text-muted">Bert Jim Chang</small>
 
 The Treasurer is to handle the finances of the society. This involves:
 
@@ -45,13 +45,14 @@ The Treasurer is to handle the finances of the society. This involves:
 
 ---
 
-### Equal Opportunities & Welfare -- Imogen Burch & Ingrid Loynes
+### Equal Opportunities & Welfare&ensp;<small class="text-muted">Imogen Burch & Ingrid Loynes</small>
 
 The Equal Opportunities & Welfare officers are responsible for planning and hosting events for underrepresented groups in Maths. This involves running the weekly **Coffee and Cake** welfare event. The Equal Opportunities & Welfare officers are also responsible for coordinating and planning the annual Ada Lovelace day, celebrating women and non-binary mathematicians.
 
 ---
 
-### Social Secretaries -- Lucy Parker, Sadie Ward, and Scott Iyengar
+### Social Secretaries&ensp;<small class="text-muted">Lucy Parker, Sadie Ward, and Scott Iyengar</small>
+
 The Social Secretaries work together to organise and run a variety of social events for the society. This involves:
 
 * Organising circles, bar crawls, board game nights, and other sober socials;
@@ -60,7 +61,7 @@ The Social Secretaries work together to organise and run a variety of social eve
 
 ---
 
-### Talks Coordinator -- Toby Williams
+### Talks Coordinator&ensp;<small class="text-muted">Toby Williams</small>
 The Talks Coordinator organises the weekly academic talks. This involves:
 
 * Contacting potential speakers;
@@ -71,11 +72,11 @@ The Talks Coordinator is also responsible for organising the Warwick-Imperial Co
 
 ---
 
-### Academic Support -- Kit Liu & Aris Mercier
+### Academic Support&ensp;<small class="text-muted">Kit Liu & Aris Mercier</small>
 
 The two Academic Supports organise and run the weekly **Maths Café** event where they assist other students with their academic studies. They are also responsible for organising the revision lectures later in the year.
 
-### Academic Events -- Ben Jordan
+### Academic Events&ensp;<small class="text-muted">Ben Jordan</small>
 
 The Academic Events Coordinator organises academic collaborations with other societies, as well as overseeing several annual maths competitions.
 
@@ -87,7 +88,7 @@ The Publications Officer is in charge of the general maintenance
 
 --- -->
 
-### Careers Officer -- Daphne Lavi
+### Careers Officer&ensp;<small class="text-muted">Daphne Lavi</small>
 
 The Careers Officer is to promote awareness of career options amongst members. This includes:
 
@@ -97,19 +98,19 @@ The Careers Officer is to promote awareness of career options amongst members. T
 
 ---
 
-### Sports Officer -- Will Corry
+### Sports Officer&ensp;<small class="text-muted">Will Corry</small>
 
 The Sports Officer manages the sports teams of the WMS. This includes ensuring that the teams have captains and are signed up to leagues, as well as managing any necessary equipment and publicising on the society sports Facebook page.
 
 ---
 
-### Marketing Officer -- Aalia Gupta
+### Marketing Officer&ensp;<small class="text-muted">Aalia Gupta</small>
 
 The Marketing Officer is responsible for the effective marketing of the society, mainly through Facebook, Instagram, and Discord. This involves creating graphic resources and scheduling posts for events to ensure information is clearly transmitted to society members.
 
 ---
 
-### Ball Secretary -- Lucien Asbury--Perret
+### Ball Secretary&ensp;<small class="text-muted">Lucien Asbury--Perret</small>
 
 The Ball Secretary is to plan and run the society's annual winter ball. This involves:
 
@@ -118,6 +119,6 @@ The Ball Secretary is to plan and run the society's annual winter ball. This inv
 
 ---
 
-### Freshers' Representatives -- tbd
+### Freshers' Representatives&ensp;<small class="text-muted">tbd</small>
 
 First year students (*freshers*) are often underrepresented or entirely absent from society execs; the Freshers' Representative is to serve as a liasion between freshers and the society.

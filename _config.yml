@@ -98,10 +98,14 @@ navbar:
     img     : "./assets/img/logo-32x32.png"
     
   nav:
+  - title   : About
+    url     : /about
   - title   : Exec
     url     : /exec
   - title   : Essays
     url     : /essays
+  - title   : Revision Guides
+    url     : https://drive.google.com/drive/u/3/folders/15cWYdWuzEWe67IeKdMhfGa260dhm1clE
   - title   : Module Reviews
     url     : /module-reviews
   - title   : Contact
@@ -116,6 +120,8 @@ navbar:
         url   : /categories
       - title : Archive
         url   : /archives
+
+        
 
   # - title   : Blog
   #   url     : /blog/ #url
@@ -168,7 +174,8 @@ chulapa-skin:
   skin          : gitdev-dark # Optional predefined skins
   autothemer    :  true # Bool: Use autotheming
   vars          :    
-    primary     : "#b103c0" #default ["#007bff"] - Bootstrap blue
+    primary     : "#25338e" #default ["#007bff"] - Bootstrap blue
+    body-bg     : "#192361"
     
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
 
