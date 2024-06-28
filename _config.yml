@@ -175,9 +175,10 @@ chulapa-skin:
   highlight     :  # default["default"]
   skin          : gitdev-dark # Optional predefined skins
   autothemer    :  true # Bool: Use autotheming
-  # vars          :    
-  #   primary     : "#25338e" #default ["#007bff"] - Bootstrap blue
-  #   body-bg     : "#192361"
+  vars          :    
+    navbar-chulapa-bg-color : "#161a1d"
+    # primary     : "#25338e" #default ["#007bff"] - Bootstrap blue
+    # body-bg     : "#192361"
   # >>>>> WIP
 
 

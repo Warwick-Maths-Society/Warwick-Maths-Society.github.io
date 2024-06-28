@@ -99,7 +99,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
-        review
+        review here
       </div>
     </div>
     <!-- -->
@@ -115,7 +115,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
-        review
+        review here
       </div>
     </div>
     <!-- -->
@@ -131,7 +131,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
-        review
+        review here
       </div>
     </div>
     <!-- -->
@@ -213,7 +213,23 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
-        review
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA266">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA266" aria-expanded="false" aria-controls="collapseMA266"
+        disabled>
+          <large>MA266 Multilinear Algebra</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA266" class="collapse" aria-labelledby="headingMA266" data-parent="#accordionY2">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
       </div>
     </div>
     <!-- -->
@@ -229,7 +245,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
-        review
+        review here
       </div>
     </div>
   </div>
@@ -240,7 +256,535 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
 
 <div class="accordion" id="accordionY3">
   <div class="card">
-    <div class="card-header" id="headingMAXYZ">
+    <div class="card-header" id="headingMA359">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA359" aria-expanded="false" aria-controls="collapseMA359"
+        disabled>
+          <large>MA359 Measure Theory</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA359" class="collapse" aria-labelledby="headingMA359" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA377">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA377" aria-expanded="false" aria-controls="collapseMA377"
+        disabled>
+          <large>MA377 Rings and Modules</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA377" class="collapse" aria-labelledby="headingMA377" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA390">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA390" aria-expanded="false" aria-controls="collapseMA390"
+        disabled>
+          <large>MA390 Mathematical Biology</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA390" class="collapse" aria-labelledby="headingMA390" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA398">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA398" aria-expanded="false" aria-controls="collapseMA398"
+        disabled>
+          <large>MA398 Matrix Analysis and Algorithms</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA398" class="collapse" aria-labelledby="headingMA398" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA3A6">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3A6" aria-expanded="false" aria-controls="collapseMA3A6"
+        disabled>
+          <large>MA3A6 Algebraic Number Theory</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA3A6" class="collapse" aria-labelledby="headingMA3A6" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA3B8">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3B8" aria-expanded="false" aria-controls="collapseMA3B8"
+        disabled>
+          <large>MA3B8 Complex Analysis</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA3B8" class="collapse" aria-labelledby="headingMA3B8" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA3D1">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3D1" aria-expanded="false" aria-controls="collapseMA3D1"
+        disabled>
+          <large>MA3D1 Fluid Dynamics</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA3D1" class="collapse" aria-labelledby="headingMA3D1" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA3D4">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3D4" aria-expanded="false" aria-controls="collapseMA3D4"
+        disabled>
+          <large>MA3D4 Fractal Geometry</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA3D4" class="collapse" aria-labelledby="headingMA3D4" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA3D5">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3D5" aria-expanded="false" aria-controls="collapseMA3D5"
+        disabled>
+          <large>MA3D5 Galois Theory</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA3D5" class="collapse" aria-labelledby="headingMA3D5" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA3D9">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3D9" aria-expanded="false" aria-controls="collapseMA3D9"
+        disabled>
+          <large>MA3D9 Geometry of Curves and Surfaces</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA3D9" class="collapse" aria-labelledby="headingMA3D9" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA3E1">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3E1" aria-expanded="false" aria-controls="collapseMA3E1"
+        disabled>
+          <large>MA3E1 Groups and Representations</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA3E1" class="collapse" aria-labelledby="headingMA3E1" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA3F1">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3F1" aria-expanded="false" aria-controls="collapseMA3F1"
+        disabled>
+          <large>MA3F1 Introduction to Topology</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA3F1" class="collapse" aria-labelledby="headingMA3F1" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA3G1">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3G1" aria-expanded="false" aria-controls="collapseMA3G1"
+        disabled>
+          <large>MA3G1 Theory of PDEs</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA3G1" class="collapse" aria-labelledby="headingMA3G1" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA3G6">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3G6" aria-expanded="false" aria-controls="collapseMA3G6"
+        disabled>
+          <large>MA3G6 Commutative Algebra I</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA3G6" class="collapse" aria-labelledby="headingMA3G6" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA3G7">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3G7" aria-expanded="false" aria-controls="collapseMA3G7"
+        disabled>
+          <large>MA3G7 Functional Analysis I</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA3G7" class="collapse" aria-labelledby="headingMA3G7" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA3G8">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3G8" aria-expanded="false" aria-controls="collapseMA3G8"
+        disabled>
+          <large>MA3G8 Functional Analysis II</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA3G8" class="collapse" aria-labelledby="headingMA3G8" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA3H0">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3H0" aria-expanded="false" aria-controls="collapseMA3H0"
+        disabled>
+          <large>MA3H0 Numerical Analysis and PDEs</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA3H0" class="collapse" aria-labelledby="headingMA3H0" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA3H2">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3H2" aria-expanded="false" aria-controls="collapseMA3H2"
+        disabled>
+          <large>MA3H2 Markov Processes and Percolation Theory</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA3H2" class="collapse" aria-labelledby="headingMA3H2" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA3H3">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3H3" aria-expanded="false" aria-controls="collapseMA3H3"
+        disabled>
+          <large>MA3H3 Set Theory</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA3H3" class="collapse" aria-labelledby="headingMA3H3" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA3H5">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3H5" aria-expanded="false" aria-controls="collapseMA3H5"
+        disabled>
+          <large>MA3H5 Manifolds</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA3H5" class="collapse" aria-labelledby="headingMA3H5" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA3H6">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3H6" aria-expanded="false" aria-controls="collapseMA3H6"
+        disabled>
+          <large>MA3H6 Algebraic Topology</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA3H6" class="collapse" aria-labelledby="headingMA3H6" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA3H7">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3H7" aria-expanded="false" aria-controls="collapseMA3H7"
+        disabled>
+          <large>MA3H7 Control Theory</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA3H7" class="collapse" aria-labelledby="headingMA3H7" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA3J2">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3J2" aria-expanded="false" aria-controls="collapseMA3J2"
+        disabled>
+          <large>MA3J2 Combinatorics II</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA3J2" class="collapse" aria-labelledby="headingMA3J2" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA3J3">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3J3" aria-expanded="false" aria-controls="collapseMA3J3"
+        disabled>
+          <large>MA3J3 Bifurcations, Catastrophes, and Symmetry</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA3J3" class="collapse" aria-labelledby="headingMA3J3" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA3J3">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3J3" aria-expanded="false" aria-controls="collapseMA3J3"
+        disabled>
+          <large>MA3J3 Mathematical Modelling and PDEs</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA3J3" class="collapse" aria-labelledby="headingMA3J3" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA3K0">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3K0" aria-expanded="false" aria-controls="collapseMA3K0"
+        disabled>
+          <large>MA3K0 High-Dimensional Probability</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA3K0" class="collapse" aria-labelledby="headingMA3K0" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA3K1">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3K1" aria-expanded="false" aria-controls="collapseMA3K1"
+        disabled>
+          <large>MA3K1 Mathematics of Machine Learning</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA3K1" class="collapse" aria-labelledby="headingMA3K1" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA3K4">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3K4" aria-expanded="false" aria-controls="collapseMA3K4"
+        disabled>
+          <large>MA3K4 Introduction to Group Theory</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA3K4" class="collapse" aria-labelledby="headingMA3K4" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA3K6">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3K6" aria-expanded="false" aria-controls="collapseMA3K6"
+        disabled>
+          <large>MA3K6 Boolean Functions</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA3K6" class="collapse" aria-labelledby="headingMA3K6" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA3K7">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3K7" aria-expanded="false" aria-controls="collapseMA3K7"
+        disabled>
+          <large>MA3K7 Problem Solving in Python</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA3K7" class="collapse" aria-labelledby="headingMA3K7" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA3K8">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3K8" aria-expanded="false" aria-controls="collapseMA3K8"
+        disabled>
+          <large>MA3K8 Variational Principles</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA3K8" class="collapse" aria-labelledby="headingMA3K8" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA3K9">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3K9" aria-expanded="false" aria-controls="collapseMA3K9"
+        disabled>
+          <large>MA3K9 Mathematics of Digital Signal Processing</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA3K9" class="collapse" aria-labelledby="headingMA3K9" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA3L1">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3L1" aria-expanded="false" aria-controls="collapseMA3L1"
+        disabled>
+          <large>MA3L1 Topics in Set Theory</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA3L1" class="collapse" aria-labelledby="headingMA3L1" data-parent="#accordionY3">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <!-- <div class="card-header" id="headingMAXYZ">
       <h2 class="m-0">
         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMAXYZ" aria-expanded="false" aria-controls="collapseMAXYZ"
         disabled>
@@ -252,9 +796,9 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
-        review
+        review here
       </div>
-    </div>
+    </div> -->
     <!-- -->
   </div>
 </div>
