@@ -84,11 +84,14 @@ The Academic Events Coordinator organises academic collaborations with other soc
 
 ---
 
-<!-- ## Publications Officer -- tbd
+## Publications Officer -- tbd
 
-The Publications Officer is in charge of the general maintenance 
+The Publications Officer is in charge of the general maintenance and upkeep of the society webpage. This involves:
 
---- -->
+* Updating revision resources and society contact information;
+* Updating relevant website sections on a termly basis.
+
+---
 
 ### Careers Officer&ensp;<small class="text-muted">Daphne Lavi</small>
 
