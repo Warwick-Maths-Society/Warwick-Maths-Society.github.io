@@ -5,8 +5,6 @@ permalink: /module-reviews
 date: 2024-06-27
 last_modified_at: 2024-06-28
 header_type:
-tags:
-categories:
 show_date         : true
 show_breadcrumb   : true
 ---
@@ -155,7 +153,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         In the year I took this module, the notes were handwritten and unreadable, and the lectures were dull and unengaging; one some occasions, mistakes would be found near the end of an example, upon which the lecturer would erase the board and then repeat the last 20 minutes of the lecture with the mistake amended. The notes and lecturer have changed (improved) in the 23/24 academic year, but the content has remained largely unchanged.
         <br/>
         <br/>
-        If you are interested in algorithms and graph theory, which the bulk of this module concerns itself with, you would be better off taking <i>CS260 Algorithms</i> and <i>CS254 Algorithmic Graph Theory</i>; and if you are interested in complexity theory (NP-hardness, complexity classes, etc. which <i>used</i> to be in this module before being removed), then I recommend taking <i>CS301 Complexity of Algorithms</i>, or alternatively for computability theory, <i>C259 Formal Languages</i>, <i>PH345 Computability Theory</i>, and <i>PH349 Logic III: Incompleteness & Undecidability</i>.
+        If you are interested in algorithms and graph theory, which the bulk of this module concerns itself with, you would be better off taking <i>CS260 Algorithms</i> and <i>CS254 Algorithmic Graph Theory</i>; and if you are interested in complexity theory (NP-hardness, complexity classes, etc. which <i>used</i> to be in this module before being replaced with linear programming), then I recommend taking <i>CS301 Complexity of Algorithms</i>, or alternatively for computability theory, <i>C259 Formal Languages</i>, <i>PH345 Computability Theory</i>, and <i>PH349 Logic III: Incompleteness & Undecidability</i>.
       </div>
     </div>
     <!-- -->
@@ -168,7 +166,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
     </div>
     <div id="collapseMA254" class="collapse" aria-labelledby="headingMA254" data-parent="#accordionY2">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">23/24</large>
         <br/>
         This optional module is a great choice for anyone who liked and did well in previous analysis modules and Modelling 1! It also goes well with the core MA260 Norms, Metrics & Topologies that takes place in the same term. There is a decent balance between proof and computation -- the module begins more proof orientated, proving results such as the contraction mapping theorem and Picard theorems (all of which are also seen at the end of MA260) and later is more computational, such as determining the stability of fixed points and drawing their phase portraits. There are also sections on Lyapunov functions, Hamiltonian systems, Lotka-Volterra equations and the Stable Manifold Theorem, which will interest those who enjoy physics and multivariable analysis.
         <br/>

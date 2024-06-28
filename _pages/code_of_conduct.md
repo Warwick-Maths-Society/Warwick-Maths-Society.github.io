@@ -5,17 +5,8 @@ permalink: /code_of_conduct
 date: 2024-06-26
 last_modified_at: 2024-06-27
 header_type:
-tags:
-categories:
 show_date         : true
-# show_bottomnavs   : true
-# show_sociallinks  : true
-# show_comments     : true
-# show_tags         : true
-# show_categories   : true
-# show_author       : false
 show_breadcrumb   : true
-# show_toc          : true
 ---
 
 As a member of our society, we will expect you to follow our Code of Conduct on all of our online platforms and at all of our events.

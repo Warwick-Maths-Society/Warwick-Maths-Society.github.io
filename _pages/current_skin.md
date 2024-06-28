@@ -5,8 +5,7 @@ permalink: /current-skin
 date: 2015-03-03
 last_modified_at: 2018-02-07
 header_type: splash
-tags: [skin, bootstrap, current-theme, header-hero, image]
-categories: [skins]
+categories: [dev]
 show_date         : true
 show_bottomnavs   : true
 show_sociallinks  : true

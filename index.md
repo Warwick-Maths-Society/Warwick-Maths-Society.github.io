@@ -14,7 +14,7 @@ project_links:
       label: Join us!
 ---
 
-**This site is a work-in-progress**
+**This site is a work-in-progress (especially this front page)**
 {: .alert .alert-info .p-3 .mx-2 .mb-3}
 
 <style>

@@ -5,8 +5,6 @@ permalink: /about
 date: 2024-06-26
 last_modified_at: 2024-06-27
 header_type: hero
-tags:
-categories:
 show_date         : true
 show_breadcrumb   : true
 ---

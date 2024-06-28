@@ -2,8 +2,7 @@
 title: kramdown cheatsheet
 subtitle: Beyond Markdown
 excerpt: kramdown supercharges Markdown with some interesting features.
-categories: [tutorial]
-tags: [starter,syntax,kramdown]
+categories: [dev]
 ---
 
 ## What’s kramdown?
