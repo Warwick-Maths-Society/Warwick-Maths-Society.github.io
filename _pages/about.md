@@ -28,9 +28,9 @@ If you would like to contribute some notes, or gain access to a WMX guide templa
 
 <br/>
 
-### Second Year Essay Archive
+### Essay Archive
 
-We have compiled a collection of previous essays that you can use for reference. You can use it to see past topics covered; to gauge how difficult or accessible topics should be; how long the essay should be; or just to read at leisure to learn about some new maths from other students -- after all, second year essays should be accessible to other second year students.
+We have compiled a collection of previous essays that you can use for reference. You can use it to see past topics covered; to gauge how difficult or accessible topics should be; how long your essay should be; or just to read at leisure to learn about some new maths from other students -- after all, (second year) essays should be accessible to other second year students.
 
 <br/>
 

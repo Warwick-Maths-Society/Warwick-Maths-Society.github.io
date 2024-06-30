@@ -35,43 +35,47 @@ tbody{
   </tr>
   <tr>
     <td>tbd</td>
-    <td><a href="./assets/essays-2/tbd_-Nowhere-Dense-Sets.pdf">Nowhere Dense Sets</a></td>
+    <td><a href="./assets/essays-2/tbd - Nowhere Dense Sets.pdf">Nowhere Dense Sets</a></td>
   </tr>
   <tr>
     <td>tbd</td>
-    <td><a href="./assets/essays-2/tbd_-Generalised-Stokes-Theorem.pdf">Generalised Stokes Theorem</a></td>
+    <td><a href="./assets/essays-2/tbd - Generalised Stokes Theorem.pdf">Generalised Stokes Theorem</a></td>
   </tr>
   <tr>
     <td>74</td>
-    <td><a href="./assets/essays-2/74_-Curvature-of-Surfaces-in-R^3.pdf">Curvature of Surfaces in R^3</a></td>
+    <td><a href="./assets/essays-2/74 - Curvature of Surfaces in R^3.pdf">Curvature of Surfaces in R^3</a></td>
   </tr>
   <tr>
     <td>75</td>
-    <td><a href="./assets/essays-2/75_-The-Distribution-of-Prime-Numbers-and-the-Gaps-Between-Primes.pdf">The Distribution of Prime Numbers and the Gaps Between Primes</a></td>
+    <td><a href="./assets/essays-2/75 - The Distribution of Prime Numbers and the Gaps Between Primes.pdf">The Distribution of Prime Numbers and the Gaps Between Primes</a></td>
   </tr>
   <tr>
     <td>78</td>
-    <td><a href="./assets/essays-2/78_-Octonions.pdf">Octonions</a></td>
+    <td><a href="./assets/essays-2/78 - Octonions.pdf">Octonions</a></td>
   </tr>
   <tr>
     <td>78</td>
-    <td><a href="./assets/essays-2/78_-The-Banach–Tarski-Paradox.pdf">The Banach–Tarski Paradox</a></td>
+    <td><a href="./assets/essays-2/78 - The Banach Tarski Paradox.pdf">The Banach–Tarski Paradox</a></td>
+  </tr>
+  <tr>
+    <td>79</td>
+    <td><a href="./assets/essays-2/79 - An Introduction to Monte Carlo Methods.pdf">An Introduction to Monte Carlo Methods</a></td>
   </tr>
   <tr>
     <td>80</td>
-    <td><a href="./assets/essays-2/80_-Möbius-Transformations.pdf">Mobius Transformations</a></td>
+    <td><a href="./assets/essays-2/80 - Möbius Transformations.pdf">Mobius Transformations</a></td>
   </tr>
   <tr>
     <td>81</td>
-    <td><a href="./assets/essays-2/81_-Squaring-the-Circle_-Ancient-Problems-and-Modern-Solutions.pdf">Squaring the Circle - Ancient Problems and Modern Solutions</a></td>
+    <td><a href="./assets/essays-2/81 - Squaring the Circle - Ancient Problems and Modern Solutions.pdf">Squaring the Circle - Ancient Problems and Modern Solutions</a></td>
   </tr>
   <tr>
     <td>83</td>
-    <td><a href="./assets/essays-2/83_-Arithmetical-Functions-and-Dirichlet-Series.pdf">Arithmetical Functions and Dirichlet Series</a></td>
+    <td><a href="./assets/essays-2/83 - Arithmetical Functions and Dirichlet Series.pdf">Arithmetical Functions and Dirichlet Series</a></td>
   </tr>
   <tr>
     <td>100</td>
-    <td><a href="./assets/essays-2/100_-The-Yoneda-Lemma.pdf">The Yoneda Lemma</a></td>
+    <td><a href="./assets/essays-2/100 - The Yoneda Lemma.pdf">The Yoneda Lemma</a></td>
   </tr>
 </table>
 
@@ -86,6 +90,6 @@ We also have a collection of 3rd year essays:
   </tr>
   <tr>
     <td>tbd</td>
-    <td><a href="./assets/essays-3/tbd_-Structural-Foundations-in-Topoi.pdf">Structural Foundations in Topoi</a></td>
+    <td><a href="./assets/essays-3/tbd - Structural Foundations in Topoi.pdf">Structural Foundations in Topoi</a></td>
   </tr>
 </table>
