@@ -3,7 +3,7 @@ title: Module Reviews
 subtitle: 
 permalink: /module-reviews
 date: 2024-06-27
-last_modified_at: 2024-06-28
+last_modified_at: 2024-06-30
 header_type:
 show_date         : true
 show_breadcrumb   : true
@@ -544,17 +544,22 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
     <!-- -->
     <div class="card-header" id="headingMA3H3">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3H3" aria-expanded="false" aria-controls="collapseMA3H3"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3H3" aria-expanded="false" aria-controls="collapseMA3H3">
           <large>MA3H3 Set Theory</large>
         </button>
       </h2>
     </div>
     <div id="collapseMA3H3" class="collapse" aria-labelledby="headingMA3H3" data-parent="#accordionY3">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">23/24</large>
         <br/>
-        review here
+        This module covers an axiomatic treatment of set theory using ZFC. After introducing some axioms, the majority of the module is spent on encoding various structures in the pure hereditary sets of ZFC, starting with pairs and relations, then constructing numbers. Some time is then spent on the notion of cardinality, finiteness, and well-ordering, as well as exploring the equivalences of various forms of Choice. Finally, cardinals and ordinals are encoded, and some basic results in cardinal and ordinal arithmetic are proved.
+        <br/>
+        <br/>
+        The notes are well-written and interesting, with lots of clearly-marked non-examinable extension material for interested readers, and the lectures complimented the notes well. The worksheets and exercises are generally relatively easy, though many of the earlier ones simply involve routine algebraic manipulations with little creativity or thought required.
+        <br/>
+        <br/>
+        The course focusses somewhat excessively on construction, and covers relatively little on set theory outside of its use in encoding other mathematical structures. Aside from this, the module is well-taught and is suitable for students over a wide range of mathematical interests. This module is on the easier side of things, but beware that <i>MA3L1 Topics in Set Theory</i> is much more difficult and involved.
       </div>
     </div>
     <!-- -->
@@ -576,17 +581,25 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
     <!-- -->
     <div class="card-header" id="headingMA3H6">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3H6" aria-expanded="false" aria-controls="collapseMA3H6"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3H6" aria-expanded="false" aria-controls="collapseMA3H6">
           <large>MA3H6 Algebraic Topology</large>
         </button>
       </h2>
     </div>
     <div id="collapseMA3H6" class="collapse" aria-labelledby="headingMA3H6" data-parent="#accordionY3">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">23/24</large>
         <br/>
-        review here
+        This module is incredibly dense compared to <i>MA3F1 Introduction to Topology</i>, though it should be noted that relatively little from that module is required for this one; <i>MA3F1</i> is concerned entirely with homotopy theory, while this module covers homology theory. Only the basic notion of a homotopy, and the Seifert-van Kampen theorem are assumed in this course, and these can be learnt separately without much issue.
+        <br/>
+        <br/>
+        The module introduces the idea of homology, beginning with semi-simplicial structures and simplicial homology, before introducing the more general concept of a chain complex, and the more flexible singular homology, which is used for much of the remainder of the course. Two main results in singular homology then take up a large proportion of the middle section of the middle: proving Homotopy Invariance with chain homotopies and the prism operator; and the Mayer-Vietoris Long Exact Sequence with barycentric subdivision. Using these results, the Jordan Curve theorem is finally proved, having been mentioned since the foundations notes in first year.
+        <br/>
+        <br/>
+        The most difficult parts of the module are then covered: degrees and orientations. Some experience with manifolds and complex analysis may help in these sections. Finally, cellular homology and a proof of the equivalence of the simplicial and singular homology theories is given, along with a very brief introduction to category theory and a short epilogue on generalised (co)homology theories.
+        <br/>
+        <br/>
+        The notes are dense and often skip over many details -- in particular, many canonical maps are never explicitly given, along with other similar constructions, so some experience with category theory may help here. The lectures are very fast-paced and similarly skip over many details, leaving things as exercises or just marked as "obvious". Many interesting and beautiful results are covered in this module, but the sheer quantity and speed of content asks a lot of the students taking the module: overall, the module is difficult, but rewarding.
       </div>
     </div>
     <!-- -->
@@ -608,17 +621,25 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
     <!-- -->
     <div class="card-header" id="headingMA3J2">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3J2" aria-expanded="false" aria-controls="collapseMA3J2"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3J2" aria-expanded="false" aria-controls="collapseMA3J2">
           <large>MA3J2 Combinatorics II</large>
         </button>
       </h2>
     </div>
     <div id="collapseMA3J2" class="collapse" aria-labelledby="headingMA3J2" data-parent="#accordionY3">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">23/24</large>
         <br/>
-        review here
+        This module covers a variety of topics and is very different in flavour from <i>MA241 Combinatorics</i>: this module has a much weaker focus on enumerative combinatorics, instead covering much more general theories of discrete structures -- indeed, the first half of the module is simply titled "Patterns" in the notes.
+        <br/>
+        <br/>
+        We begin with finite projective planes and a surprising link to Latin squares, before moving to error-correcting codes and Shannon's coding theorem. Next, some discrete and convex geometry is covered, proving the equivalence of polyhedra and polytopes in Euclidean spaces, as well as Radon's lemma, Helly's theorem, and the Colourful Carathéodory theorem. Then, some poset and set systems are covered, where we see Sperner's theorem, Dilworth's theorem, and the Sauer-Shelah lemma.
+        <br/>
+        <br/>
+        As is traditional for a combinatorics module, the second half is occupied with graph theory. Brooks' theorem is finally proved, having been stated in various previous combinatorics/graph theory modules, and some chromatic polynomial theory is introduced. Some interesting links to algorithms is also shown in a short section on matroids, covering Rado's theorem, Horn's theorem, and the greedy matroid theorem. The last section covers some random graph theory -- in particular, some probabilistic bounds on random graphs with large chromatic number and girth, as well as exploring some limits and bounds on other graph properties like connectedness.
+        <br/>
+        <br/>
+        This module links to a variety of other modules: <i>MA243 Geometry</i> with some of the projective geometries; <i>MA3G8 Functional Analysis II</i> with convex geometry; <i>MA3H3 Set Theory</i> with posets and chains; and <i>MA3K1 Mathematics of Machine Learning</i> with VC-dimension and the Sauer-Shelah lemma. The notes are generally-well written, and the lecturer is enthusiastic and engaging throughout the term. The module is certainly more difficult than <i>MA241 Combinatorics</i>, but is equally as enjoyable -- if not more so -- with almost all of the problems encountered in this module requiring some creativity and thought to solve. Many of the proofs covered are also elegant and interesting to read -- in particular, the trick at the end of the polytope/polyhedra equivalence proof is not one to be skipped.
       </div>
     </div>
     <!-- -->
