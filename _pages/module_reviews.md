@@ -20,10 +20,17 @@ a:link {
 
 The mathematics courses at Warwick offer a wide variety of optional modules -- there are no compulsory modules in the third year -- but this can make it difficult to choose which modules to take. Below, you can find a collection of reviews of various maths modules to help you make your decision.
 
+Note that only the most popular optional external modules have been listed below: if you would like to contribute a review for a module that is not listed, please get in touch!
+
+<br/>
+
 # Year 1
 
-<div class="accordion" id="accordionY1">
+### Maths Modules
+
+<div class="accordion" id="accordionY1maths">
   <div class="card">
+    <!-- -->
     <div class="card-header" id="headingMA117">
       <h2 class="m-0">
         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA117" aria-expanded="false" aria-controls="collapseMA117">
@@ -31,14 +38,14 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA117" class="collapse" aria-labelledby="headingMA117" data-parent="#accordionY1">
+    <div id="collapseMA117" class="collapse" aria-labelledby="headingMA117" data-parent="#accordionY1maths">
       <div class="card-body">
         <large class="text-muted">22/23</large>
         <br/>
         This is a 100% coursework coding introductory Java course, with a maths module code but taught by the DCS. The module assessment consists of three programming assignments, worth 25%, 35% and 40% of the module mark respectively -- these assignments are harder than anything in MA124 Maths by Computer, but are very doable if you put in the time and don't leave them until the night before they are due! The assignments are mainly focused on using Java to solve computational maths problems, rather than programming in Java for its own sake.
         <br/>
         <br/>
-        For anyone who has already coded in Java (or has any significant programming experience) I would absolutely recommend this module more than any other first year optional, its 100% coursework nature means that it is very possible to get almost all, if not full, marks and it is one less exam to worry about in the summer.
+        For anyone who has already coded in Java (or has any significant programming experience) I would absolutely recommend this module more than any other first year optional: its 100% coursework nature means that it is very possible to get almost all, if not full, marks and it is one less exam to worry about in the summer.
         <br/>
         <br/>
         Second years can also take this module, so if you are confident in Java you might want to save it for then to increase the degree credit you get from it (as second year is worth more than first). I'd still recommend it to anyone who hasn't done much programming but enjoyed MA124 in term 1, provided you are prepared to put in the time to learn Java and do the assignments alongside your other modules. The lectures for this module are entirely online and have PowerPoints that you can read through too, there are also in-person drop in labs run by TAs too -- personally I found the latter a lot more helpful, but both are potentially useful resources. In the end though, like maths, coding is not a spectator sport -- you'll get the most out of this module by putting in the time and trying the assignments!
@@ -50,12 +57,142 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         review 2 -->
       </div>
     </div>
+    <!-- -->
   </div>
 </div>
 
-# Year 2
 
-<div class="accordion" id="accordionY2">
+
+### External Modules
+
+<div class="accordion" id="accordionY1misc">
+  <div class="card">
+    <!-- -->
+    <div class="card-header" id="headingCS137">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS137" aria-expanded="false" aria-controls="collapseCS137"
+        disabled>
+          <large>CS137 Discrete Mathematics II</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseCS137" class="collapse" aria-labelledby="headingCS137" data-parent="#accordionY1misc">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingCS141">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS141" aria-expanded="false" aria-controls="collapseCS141"
+        disabled>
+          <large>CS141 Functional Programming</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseCS141" class="collapse" aria-labelledby="headingCS141" data-parent="#accordionY1misc">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingPX155">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX155" aria-expanded="false" aria-controls="collapsePX155"
+        disabled>
+          <large>PX155 Classical Mechanics and Special Relativity</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapsePX155" class="collapse" aria-labelledby="headingPX155" data-parent="#accordionY1misc">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingPX156">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX156" aria-expanded="false" aria-controls="collapsePX156"
+        disabled>
+          <large>PX156 Quantum Phenomena</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapsePX156" class="collapse" aria-labelledby="headingPX156" data-parent="#accordionY1misc">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingPX157">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX157" aria-expanded="false" aria-controls="collapsePX157"
+        disabled>
+          <large>PX157 Electricity and Magnetism</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapsePX157" class="collapse" aria-labelledby="headingPX157" data-parent="#accordionY1misc">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingPX158">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX158" aria-expanded="false" aria-controls="collapsePX158"
+        disabled>
+          <large>PX158 Astronomy</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapsePX158" class="collapse" aria-labelledby="headingPX158" data-parent="#accordionY1misc">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingPH136">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePH136" aria-expanded="false" aria-controls="collapsePH136"
+        disabled>
+          <large>PH136 Logic I: Introduction to Symbolic Logic</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapsePH136" class="collapse" aria-labelledby="headingPH136" data-parent="#accordionY1misc">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+  </div>
+</div>
+
+
+<br/>
+<br/>
+<br/>
+
+
+# Year 2
+## Maths Modules
+
+<div class="accordion" id="accordionY2maths">
   <div class="card">
     <!-- -->
     <div class="card-header" id="headingMA241">
@@ -65,7 +202,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA241" class="collapse" aria-labelledby="headingMA241" data-parent="#accordionY2">
+    <div id="collapseMA241" class="collapse" aria-labelledby="headingMA241" data-parent="#accordionY2maths">
       <div class="card-body">
         <large class="text-muted">22/23</large>
         <br/>
@@ -93,7 +230,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA243" class="collapse" aria-labelledby="headingMA243" data-parent="#accordionY2">
+    <div id="collapseMA243" class="collapse" aria-labelledby="headingMA243" data-parent="#accordionY2maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -109,7 +246,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA250" class="collapse" aria-labelledby="headingMA250" data-parent="#accordionY2">
+    <div id="collapseMA250" class="collapse" aria-labelledby="headingMA250" data-parent="#accordionY2maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -125,7 +262,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA256" class="collapse" aria-labelledby="headingMA256" data-parent="#accordionY2">
+    <div id="collapseMA256" class="collapse" aria-labelledby="headingMA256" data-parent="#accordionY2maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -140,7 +277,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA252" class="collapse" aria-labelledby="headingMA252" data-parent="#accordionY2">
+    <div id="collapseMA252" class="collapse" aria-labelledby="headingMA252" data-parent="#accordionY2maths">
       <div class="card-body">
         <large class="text-muted">22/23</large>
         <br/>
@@ -164,7 +301,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA254" class="collapse" aria-labelledby="headingMA254" data-parent="#accordionY2">
+    <div id="collapseMA254" class="collapse" aria-labelledby="headingMA254" data-parent="#accordionY2maths">
       <div class="card-body">
         <large class="text-muted">23/24</large>
         <br/>
@@ -185,7 +322,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA257" class="collapse" aria-labelledby="headingMA257" data-parent="#accordionY2">
+    <div id="collapseMA257" class="collapse" aria-labelledby="headingMA257" data-parent="#accordionY2maths">
       <div class="card-body">
         <large class="text-muted">23/24</large>
         <br/>
@@ -207,7 +344,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA263" class="collapse" aria-labelledby="headingMA263" data-parent="#accordionY2">
+    <div id="collapseMA263" class="collapse" aria-labelledby="headingMA263" data-parent="#accordionY2maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -223,7 +360,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA266" class="collapse" aria-labelledby="headingMA266" data-parent="#accordionY2">
+    <div id="collapseMA266" class="collapse" aria-labelledby="headingMA266" data-parent="#accordionY2maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -239,7 +376,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA269" class="collapse" aria-labelledby="headingMA269" data-parent="#accordionY2">
+    <div id="collapseMA269" class="collapse" aria-labelledby="headingMA269" data-parent="#accordionY2maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -249,11 +386,188 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
   </div>
 </div>
 
+## External Modules
+
+
+<div class="accordion" id="accordionY2misc">
+  <div class="card">
+    <!-- -->
+    <div class="card-header" id="headingCS254">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS254" aria-expanded="false" aria-controls="collapseCS254"
+        disabled>
+          <large>CS254 Algorithmic Graph Theory</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseCS254" class="collapse" aria-labelledby="headingCS254" data-parent="#accordionY2misc">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingCS259">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS259" aria-expanded="false" aria-controls="collapseCS259"
+        disabled>
+          <large>CS259 Formal Languages</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseCS259" class="collapse" aria-labelledby="headingCS259" data-parent="#accordionY2misc">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingCS260">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS260" aria-expanded="false" aria-controls="collapseCS260"
+        disabled>
+          <large>CS260 Algorithms</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseCS260" class="collapse" aria-labelledby="headingCS260" data-parent="#accordionY2misc">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingCS262">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS262" aria-expanded="false" aria-controls="collapseCS262"
+        disabled>
+          <large>CS262 Logic and Verification</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseCS262" class="collapse" aria-labelledby="headingCS262" data-parent="#accordionY2misc">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingPH210">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePH210" aria-expanded="false" aria-controls="collapsePH210"
+        disabled>
+          <large>PH210 Logic II: Metatheory</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapsePH210" class="collapse" aria-labelledby="headingPH210" data-parent="#accordionY2misc">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingPX262">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX262" aria-expanded="false" aria-controls="collapsePX262"
+        disabled>
+          <large>PX262 Quantum Mechanics and its Applications   </large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapsePX262" class="collapse" aria-labelledby="headingPX262" data-parent="#accordionY2misc">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingPX281">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX281" aria-expanded="false" aria-controls="collapsePX281"
+        disabled>
+          <large>PX281 Computational Physics</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapsePX281" class="collapse" aria-labelledby="headingPX281" data-parent="#accordionY2misc">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingST227">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseST227" aria-expanded="false" aria-controls="collapseST227"
+        disabled>
+          <large>ST227 Stochastic Processes</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseST227" class="collapse" aria-labelledby="headingST227" data-parent="#accordionY2misc">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingST232">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseST232" aria-expanded="false" aria-controls="collapseST232"
+        disabled>
+          <large>ST232 Introduction to Mathematical Statistics</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseST232" class="collapse" aria-labelledby="headingST232" data-parent="#accordionY2misc">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingST234">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseST234" aria-expanded="false" aria-controls="collapseST234"
+        disabled>
+          <large>ST234 Games and Decisions</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseST234" class="collapse" aria-labelledby="headingST234" data-parent="#accordionY2misc">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+  </div>
+</div>
+
+
+<br/>
+<br/>
+<br/>
+
 
 # Year 3
 
-<div class="accordion" id="accordionY3">
+## Maths Modules
+
+<div class="accordion" id="accordionY3maths">
   <div class="card">
+    <!-- -->
     <div class="card-header" id="headingMA359">
       <h2 class="m-0">
         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA359" aria-expanded="false" aria-controls="collapseMA359"
@@ -262,7 +576,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA359" class="collapse" aria-labelledby="headingMA359" data-parent="#accordionY3">
+    <div id="collapseMA359" class="collapse" aria-labelledby="headingMA359" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -278,7 +592,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA377" class="collapse" aria-labelledby="headingMA377" data-parent="#accordionY3">
+    <div id="collapseMA377" class="collapse" aria-labelledby="headingMA377" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -294,7 +608,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA390" class="collapse" aria-labelledby="headingMA390" data-parent="#accordionY3">
+    <div id="collapseMA390" class="collapse" aria-labelledby="headingMA390" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -310,7 +624,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA398" class="collapse" aria-labelledby="headingMA398" data-parent="#accordionY3">
+    <div id="collapseMA398" class="collapse" aria-labelledby="headingMA398" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -326,7 +640,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3A6" class="collapse" aria-labelledby="headingMA3A6" data-parent="#accordionY3">
+    <div id="collapseMA3A6" class="collapse" aria-labelledby="headingMA3A6" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -342,7 +656,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3B8" class="collapse" aria-labelledby="headingMA3B8" data-parent="#accordionY3">
+    <div id="collapseMA3B8" class="collapse" aria-labelledby="headingMA3B8" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -358,7 +672,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3D1" class="collapse" aria-labelledby="headingMA3D1" data-parent="#accordionY3">
+    <div id="collapseMA3D1" class="collapse" aria-labelledby="headingMA3D1" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -374,7 +688,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3D4" class="collapse" aria-labelledby="headingMA3D4" data-parent="#accordionY3">
+    <div id="collapseMA3D4" class="collapse" aria-labelledby="headingMA3D4" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -390,7 +704,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3D5" class="collapse" aria-labelledby="headingMA3D5" data-parent="#accordionY3">
+    <div id="collapseMA3D5" class="collapse" aria-labelledby="headingMA3D5" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -406,7 +720,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3D9" class="collapse" aria-labelledby="headingMA3D9" data-parent="#accordionY3">
+    <div id="collapseMA3D9" class="collapse" aria-labelledby="headingMA3D9" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -422,7 +736,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3E1" class="collapse" aria-labelledby="headingMA3E1" data-parent="#accordionY3">
+    <div id="collapseMA3E1" class="collapse" aria-labelledby="headingMA3E1" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -438,7 +752,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3F1" class="collapse" aria-labelledby="headingMA3F1" data-parent="#accordionY3">
+    <div id="collapseMA3F1" class="collapse" aria-labelledby="headingMA3F1" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -454,7 +768,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3G1" class="collapse" aria-labelledby="headingMA3G1" data-parent="#accordionY3">
+    <div id="collapseMA3G1" class="collapse" aria-labelledby="headingMA3G1" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -470,7 +784,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3G6" class="collapse" aria-labelledby="headingMA3G6" data-parent="#accordionY3">
+    <div id="collapseMA3G6" class="collapse" aria-labelledby="headingMA3G6" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -486,7 +800,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3G7" class="collapse" aria-labelledby="headingMA3G7" data-parent="#accordionY3">
+    <div id="collapseMA3G7" class="collapse" aria-labelledby="headingMA3G7" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -502,7 +816,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3G8" class="collapse" aria-labelledby="headingMA3G8" data-parent="#accordionY3">
+    <div id="collapseMA3G8" class="collapse" aria-labelledby="headingMA3G8" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -518,7 +832,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3H0" class="collapse" aria-labelledby="headingMA3H0" data-parent="#accordionY3">
+    <div id="collapseMA3H0" class="collapse" aria-labelledby="headingMA3H0" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -534,7 +848,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3H2" class="collapse" aria-labelledby="headingMA3H2" data-parent="#accordionY3">
+    <div id="collapseMA3H2" class="collapse" aria-labelledby="headingMA3H2" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -549,7 +863,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3H3" class="collapse" aria-labelledby="headingMA3H3" data-parent="#accordionY3">
+    <div id="collapseMA3H3" class="collapse" aria-labelledby="headingMA3H3" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">23/24</large>
         <br/>
@@ -571,7 +885,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3H5" class="collapse" aria-labelledby="headingMA3H5" data-parent="#accordionY3">
+    <div id="collapseMA3H5" class="collapse" aria-labelledby="headingMA3H5" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -586,7 +900,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3H6" class="collapse" aria-labelledby="headingMA3H6" data-parent="#accordionY3">
+    <div id="collapseMA3H6" class="collapse" aria-labelledby="headingMA3H6" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">23/24</large>
         <br/>
@@ -611,7 +925,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3H7" class="collapse" aria-labelledby="headingMA3H7" data-parent="#accordionY3">
+    <div id="collapseMA3H7" class="collapse" aria-labelledby="headingMA3H7" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -626,7 +940,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3J2" class="collapse" aria-labelledby="headingMA3J2" data-parent="#accordionY3">
+    <div id="collapseMA3J2" class="collapse" aria-labelledby="headingMA3J2" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">23/24</large>
         <br/>
@@ -654,7 +968,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3J3" class="collapse" aria-labelledby="headingMA3J3" data-parent="#accordionY3">
+    <div id="collapseMA3J3" class="collapse" aria-labelledby="headingMA3J3" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -670,7 +984,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3J3" class="collapse" aria-labelledby="headingMA3J3" data-parent="#accordionY3">
+    <div id="collapseMA3J3" class="collapse" aria-labelledby="headingMA3J3" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -686,7 +1000,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3K0" class="collapse" aria-labelledby="headingMA3K0" data-parent="#accordionY3">
+    <div id="collapseMA3K0" class="collapse" aria-labelledby="headingMA3K0" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -702,7 +1016,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3K1" class="collapse" aria-labelledby="headingMA3K1" data-parent="#accordionY3">
+    <div id="collapseMA3K1" class="collapse" aria-labelledby="headingMA3K1" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -718,7 +1032,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3K4" class="collapse" aria-labelledby="headingMA3K4" data-parent="#accordionY3">
+    <div id="collapseMA3K4" class="collapse" aria-labelledby="headingMA3K4" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -734,7 +1048,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3K6" class="collapse" aria-labelledby="headingMA3K6" data-parent="#accordionY3">
+    <div id="collapseMA3K6" class="collapse" aria-labelledby="headingMA3K6" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -750,7 +1064,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3K7" class="collapse" aria-labelledby="headingMA3K7" data-parent="#accordionY3">
+    <div id="collapseMA3K7" class="collapse" aria-labelledby="headingMA3K7" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -766,7 +1080,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3K8" class="collapse" aria-labelledby="headingMA3K8" data-parent="#accordionY3">
+    <div id="collapseMA3K8" class="collapse" aria-labelledby="headingMA3K8" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -782,7 +1096,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3K9" class="collapse" aria-labelledby="headingMA3K9" data-parent="#accordionY3">
+    <div id="collapseMA3K9" class="collapse" aria-labelledby="headingMA3K9" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -798,7 +1112,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3L1" class="collapse" aria-labelledby="headingMA3L1" data-parent="#accordionY3">
+    <div id="collapseMA3L1" class="collapse" aria-labelledby="headingMA3L1" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -814,7 +1128,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3L2" class="collapse" aria-labelledby="headingMA3L2" data-parent="#accordionY3">
+    <div id="collapseMA3L2" class="collapse" aria-labelledby="headingMA3L2" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -830,7 +1144,7 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMA3L3" class="collapse" aria-labelledby="headingMA3L3" data-parent="#accordionY3">
+    <div id="collapseMA3L3" class="collapse" aria-labelledby="headingMA3L3" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -846,13 +1160,166 @@ The mathematics courses at Warwick offer a wide variety of optional modules -- t
         </button>
       </h2>
     </div>
-    <div id="collapseMAXYZ" class="collapse" aria-labelledby="headingMAXYZ" data-parent="#accordionY3">
+    <div id="collapseMAXYZ" class="collapse" aria-labelledby="headingMAXYZ" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
         review here
       </div>
     </div> -->
+    <!-- -->
+  </div>
+</div>
+
+## External Modules
+
+
+<div class="accordion" id="accordionY3misc">
+  <div class="card">
+    <!-- -->
+    <div class="card-header" id="headingCS301">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS301" aria-expanded="false" aria-controls="collapseCS301"
+        disabled>
+          <large>CS301 Complexity of Algorithms</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseCS301" class="collapse" aria-labelledby="headingCS301" data-parent="#accordionY3misc">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingCS356">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS356" aria-expanded="false" aria-controls="collapseCS356"
+        disabled>
+          <large>CS356 Approximation and Randomised Algorithms</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseCS356" class="collapse" aria-labelledby="headingCS356" data-parent="#accordionY3misc">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingEP304">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseEP304" aria-expanded="false" aria-controls="collapseEP304"
+        disabled>
+          <large>EP304 Introduction to Secondary Maths Teaching/Education</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseEP304" class="collapse" aria-labelledby="headingEP304" data-parent="#accordionY3misc">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingPH340">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePH340" aria-expanded="false" aria-controls="collapsePH340"
+        disabled>
+          <large>PH340 Logic III: Incompleteness and Undecidability</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapsePH340" class="collapse" aria-labelledby="headingPH340" data-parent="#accordionY3misc">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingPH345">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePH345" aria-expanded="false" aria-controls="collapsePH345"
+        disabled>
+          <large>PH345 Computability Theory</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapsePH345" class="collapse" aria-labelledby="headingPH345" data-parent="#accordionY3misc">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingPX390">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX390" aria-expanded="false" aria-controls="collapsePX390"
+        disabled>
+          <large>PX390 Scientific Programming</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapsePX390" class="collapse" aria-labelledby="headingPX390" data-parent="#accordionY3misc">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingST301">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseST301" aria-expanded="false" aria-controls="collapseST301"
+        disabled>
+          <large>ST301 Bayesian Statistics and Decision Theory</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseST301" class="collapse" aria-labelledby="headingST301" data-parent="#accordionY3misc">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingST318">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseST318" aria-expanded="false" aria-controls="collapseST318"
+        disabled>
+          <large>ST318 Probability Theory</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseST318" class="collapse" aria-labelledby="headingST318" data-parent="#accordionY3misc">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingST343">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseST343" aria-expanded="false" aria-controls="collapseST343"
+        disabled>
+          <large>ST343 Topics in Data Science</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseST343" class="collapse" aria-labelledby="headingST343" data-parent="#accordionY3misc">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div>
     <!-- -->
   </div>
 </div>
