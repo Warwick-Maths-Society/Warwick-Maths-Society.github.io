@@ -3,10 +3,8 @@ title: Essays
 subtitle: 
 permalink: /essays
 date: 2024-06-26
-last_modified_at: 2024-06-27
+last_modified_at: 2024-07-02
 header_type:
-show_date         : true
-show_breadcrumb   : true
 ---
 
 The second year essay is an opportunity to study a topic of your choice, and to gain some experience in mathematical writing.

@@ -5,8 +5,6 @@ permalink: /exec
 date: 2024-06-26
 last_modified_at: 2024-06-27
 header_type:
-show_date         : true
-show_breadcrumb   : true
 ---
 
 # Roles and Current Exec

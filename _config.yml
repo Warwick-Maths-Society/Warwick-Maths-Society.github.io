@@ -182,6 +182,20 @@ defaults:
       show_comments       : false
       show_sociallinks    : false
       show_author         : false
+      show_date           : true
+      show_breadcrumb     : true
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      include_on_search   : true
+      show_comments       : false
+      show_sociallinks    : false
+      show_author         : false
+      show_date           : true
+      show_breadcrumb     : true
+      show_bottomnavs     : true
   -
     scope:
       path: ""
@@ -194,9 +208,8 @@ defaults:
       show_related      : true
       show_bottomnavs   : true
       show_tags         : true
-      show_categories   : true
-      show_author       : true
       show_breadcrumb   : true
+      show_author       : false
       breadcrumb_list   :
         - label: Blog
           url: /blog/
@@ -207,7 +220,7 @@ defaults:
     values:
       header_type       : "hero"
       show_bottomnavs   : true
-      include_on_search : true
+      include_on_search : false
       show_breadcrumb   : true
       breadcrumb_list   :
         - label: Cheatsheets
