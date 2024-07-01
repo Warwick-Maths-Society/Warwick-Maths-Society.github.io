@@ -92,4 +92,8 @@ We also have a collection of 3rd year essays:
     <td>tbd</td>
     <td><a href="./assets/essays-3/tbd - Structural Foundations in Topoi.pdf">Structural Foundations in Topoi</a></td>
   </tr>
+  <tr>
+    <td>83</td>
+    <td><a href="./assets/essays-3/83 - Eulerian and Hamiltonian Cycles in Cayley Graphs.pdf">Eulerian and Hamiltonian Cycles in Cayley Graphs</a></td>
+  </tr>
 </table>
