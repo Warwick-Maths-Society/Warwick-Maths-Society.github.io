@@ -74,10 +74,16 @@ tbody{
     <td><a href="./assets/essays-2/83 - Arithmetical Functions and Dirichlet Series.pdf">Arithmetical Functions and Dirichlet Series</a></td>
   </tr>
   <tr>
+    <td>84</td>
+    <td><a href="./assets/essays-2/84 - Gauss’ Theorema Egregium.pdf">Gauss’ Theorema Egregium</a></td>
+  </tr>
+  <tr>
     <td>100</td>
     <td><a href="./assets/essays-2/100 - The Yoneda Lemma.pdf">The Yoneda Lemma</a></td>
   </tr>
 </table>
+
+
 
 <br/>
 
