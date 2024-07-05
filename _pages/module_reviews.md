@@ -336,17 +336,18 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA263">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA263" aria-expanded="false" aria-controls="collapseMA263"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA263" aria-expanded="false" aria-controls="collapseMA263">
           <large>MA263 Multivariable Analysis</large>
         </button>
       </h2>
     </div>
     <div id="collapseMA263" class="collapse" aria-labelledby="headingMA263" data-parent="#accordionY2maths">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">23/24</large>
         <br/>
-        review here
+        This module, optional core for BSc (along with MA266) and (thankfully) core for MMath, is a fantastic choice for anyone who has enjoyed previous courses in analysis, vector calculus, and partial differential equations, and is invaluable for any future analysis, modelling, or applied mathematics modules! The module begins by rehashing some material from Analysis 3 -- in particular, the definitions of continuity and differentiability in <i>n</i>-dimensions; a comparison of the directional, frechet and partial derivatives; operator norms; and dual spaces. You are then introduced to the powerful inverse and implicit function theorems, which are proved thoroughly and then are demonstrated in their use with multiple examples. The later half of the module then explores some topics previously seen in Modelling 2, but focusses on proof as well as application: the notion of the Hessian, the commutativity of partial derivatives, the second order Taylor expansion, critical point classification, integrating in higher dimensions (i.e. higher dimensional Riemann integration) and Fubini's theorem, the notion of flux, and the divergence theorem are all studied rigorously and proved. The notion of measure is also first hinted at along the way, with the idea of measure zero sets.
+        <br/><br/>
+        The notes are very well written and make use of a good balance of proofs and examples, and work well with the worksheets - an excellent course text recommended by the lecturer, <i> Calculus on Manifolds</i> by Spivak, also complements these well. The greatest strength of this module however is the lecturer himself, who takes a potentially very difficult subject which you would expect to be unintuitive and makes it not just seem intuitive, but also fascinating and worthy of further exploration - the lectures for this were some of the best I have attended in my 2 years here so far. The 23/24 exam for this module was a very good mix of bookwork and computation, but this was the first year this module has run in its current form, so future papers might be slightly different. While similar, the question style especially is rather different to the prior equivalent of this module, so there might not be many past papers available, but the worksheets are very good for practice. If you are a BSc student or a joint degree at all interested in potentially doing any analysis, partial differential equations, physics, or mathematical modelling that involves vector calculus in third year, it is not just recommended but essential to take this module (it is core for MMath for a reason) and I would thoroughly recommend it!
       </div>
     </div>
     <!-- -->
@@ -368,17 +369,20 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA269">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA269" aria-expanded="false" aria-controls="collapseMA269"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA269" aria-expanded="false" aria-controls="collapseMA269">
           <large>MA269 Asymptotics and Integral Transforms</large>
         </button>
       </h2>
     </div>
     <div id="collapseMA269" class="collapse" aria-labelledby="headingMA269" data-parent="#accordionY2maths">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">23/24</large>
         <br/>
-        review here
+        This module, as the name suggests, focusses on two topics. Most people find the first five weeks of the module to be the hardest since at the start, asymptotics can feel a bit like educated guessing. I found that after practicing a bit, this feeling went away and it became relatively intuitive. The latter half of the module focuses on integral transforms, beginning by recapping some complex methods introduced in Analysis 3. These methods, as well as general integration techniques you should know already, are then used to apply Fourier and Laplace transforms. The second half of this module is incredibly fun since it's just messing around with different integrals and differential equations and gives a nice break to the proof based courses you take. 
+        <br/><br/>
+        The problem sheets and examples in the notes are great however some can be a bit tedious to work through. Since there is very little content in the module it is easy to revise and doesn't take up much time compared to other second term modules. The exams also follow a similar structure each year so it is an easy module to revise. 
+        <br/><br/>
+        I felt like this was one of the easiest and most enjoyable modules I took in second year and really recommend it.
       </div>
     </div>
   </div>
@@ -520,17 +524,18 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingST232">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseST232" aria-expanded="false" aria-controls="collapseST232"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseST232" aria-expanded="false" aria-controls="collapseST232">
           <large>ST232 Introduction to Mathematical Statistics</large>
         </button>
       </h2>
     </div>
     <div id="collapseST232" class="collapse" aria-labelledby="headingST232" data-parent="#accordionY2misc">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">23/24</large>
         <br/>
-        review here
+        This module is a requirement if you want to do further stats modules in years 3 and 4. It begins by recapping most of the usual distributions, as well as one or two new ones I had not seen before. The second half of the module is then applying these distributions with an emphasis on likelihood methods of estimation and testing. The module is primarily focused on applying the content taught and proofs do not form a large part of the syllabus. 
+        <br/><br/>
+        I did not find this module enjoyable at all: the lecture notes were not very good and had few useful examples; and the problem sheets were also fairly useless in teaching the content as most were far too convoluted to be of any help when revising. The bi-weekly online assignments were reasonable, if a bit long. The best source of questions for this module are the past papers since the questions tend to be fairly similar.
       </div>
     </div>
     <!-- -->
@@ -948,7 +953,7 @@ Note that only the most popular optional external modules have been listed below
         We begin with finite projective planes and a surprising link to Latin squares, before moving to error-correcting codes and Shannon's coding theorem. Next, some discrete and convex geometry is covered, proving the equivalence of polyhedra and polytopes in Euclidean spaces, as well as Radon's lemma, Helly's theorem, and the Colourful Carathéodory theorem. Then, some poset and set systems are covered, where we see Sperner's theorem, Dilworth's theorem, and the Sauer-Shelah lemma.
         <br/>
         <br/>
-        As is traditional for a combinatorics module, the second half is occupied with graph theory. Brooks' theorem is finally proved, having been stated in various previous combinatorics/graph theory modules, and some chromatic polynomial theory is introduced. Some interesting links to algorithms is also shown in a short section on matroids, covering Rado's theorem, Horn's theorem, and the greedy matroid theorem. The last section covers some random graph theory -- in particular, some probabilistic bounds on random graphs with large chromatic number and girth, as well as exploring some limits and bounds on other graph properties like connectedness.
+        As is traditional for a combinatorics module, the second half is occupied with graph theory. Brooks' theorem is finally proved, having been stated in various previous combinatorics/graph theory modules, and some chromatic polynomial theory is introduced. Some interesting links to algorithms are also shown in a short section on matroids that covers Rado's theorem, Horn's theorem, and the greedy matroid theorem. The last section covers some random graph theory -- in particular, some probabilistic bounds on random graphs with large chromatic number and girth, as well as exploring some limits and bounds on other graph properties like connectedness.
         <br/>
         <br/>
         This module links to a variety of other modules: <i>MA243 Geometry</i> with some of the projective geometries; <i>MA3G8 Functional Analysis II</i> with convex geometry; <i>MA3H3 Set Theory</i> with posets and chains; and <i>MA3K1 Mathematics of Machine Learning</i> with VC-dimension and the Sauer-Shelah lemma.
