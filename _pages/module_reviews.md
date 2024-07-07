@@ -345,7 +345,7 @@ Note that only the most popular optional external modules have been listed below
       <div class="card-body">
         <large class="text-muted">23/24</large>
         <br/>
-        This module, optional core for BSc (along with MA266) and (thankfully) core for MMath, is a fantastic choice for anyone who has enjoyed previous courses in analysis, vector calculus, and partial differential equations, and is invaluable for any future analysis, modelling, or applied mathematics modules! The module begins by rehashing some material from Analysis 3 -- in particular, the definitions of continuity and differentiability in <i>n</i>-dimensions; a comparison of the directional, frechet and partial derivatives; operator norms; and dual spaces. You are then introduced to the powerful inverse and implicit function theorems, which are proved thoroughly and then are demonstrated in their use with multiple examples. The later half of the module then explores some topics previously seen in Modelling 2, but focusses on proof as well as application: the notion of the Hessian, the commutativity of partial derivatives, the second order Taylor expansion, critical point classification, integrating in higher dimensions (i.e. higher dimensional Riemann integration) and Fubini's theorem, the notion of flux, and the divergence theorem are all studied rigorously and proved. The notion of measure is also first hinted at along the way, with the idea of measure zero sets.
+        This module -- optional core for BSc (along with MA266) and (thankfully) core for MMath -- is a fantastic choice for anyone who has enjoyed previous courses in analysis, vector calculus, and partial differential equations, and is invaluable for any future analysis, modelling, or applied mathematics modules! The module begins by rehashing some material from Analysis 3 -- in particular, the definitions of continuity and differentiability in <i>n</i>-dimensions; a comparison of the directional, frechet and partial derivatives; operator norms; and dual spaces. You are then introduced to the powerful inverse and implicit function theorems, which are proved thoroughly and then are demonstrated in their use with multiple examples. The later half of the module then explores some topics previously seen in Modelling 2, but focusses on proof as well as application: the notion of the Hessian, the commutativity of partial derivatives, the second order Taylor expansion, critical point classification, integrating in higher dimensions (i.e. higher dimensional Riemann integration) and Fubini's theorem, the notion of flux, and the divergence theorem are all studied rigorously and proved. The notion of measure is also first hinted at along the way, with the idea of measure zero sets.
         <br/><br/>
         The notes are very well written and make use of a good balance of proofs and examples, and work well with the worksheets - an excellent course text recommended by the lecturer, <i> Calculus on Manifolds</i> by Spivak, also complements these well. The greatest strength of this module however is the lecturer himself, who takes a potentially very difficult subject which you would expect to be unintuitive and makes it not just seem intuitive, but also fascinating and worthy of further exploration - the lectures for this were some of the best I have attended in my 2 years here so far. The 23/24 exam for this module was a very good mix of bookwork and computation, but this was the first year this module has run in its current form, so future papers might be slightly different. While similar, the question style especially is rather different to the prior equivalent of this module, so there might not be many past papers available, but the worksheets are very good for practice. If you are a BSc student or a joint degree at all interested in potentially doing any analysis, partial differential equations, physics, or mathematical modelling that involves vector calculus in third year, it is not just recommended but essential to take this module (it is core for MMath for a reason) and I would thoroughly recommend it!
       </div>
@@ -503,8 +503,7 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingPX281">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX281" aria-expanded="false" aria-controls="collapsePX281"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX281" aria-expanded="false" aria-controls="collapsePX281">
           <large>PX281 Computational Physics</large>
         </button>
       </h2>
@@ -513,7 +512,16 @@ Note that only the most popular optional external modules have been listed below
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
-        review here
+        This module is 100% coursework, assessed as a series of short assignments and a longer project at the end. The module is entirely in Python and also requires little physics background to complete.
+        <br/>
+        <br/>
+        The assignments are generally quite easy, with most of the difficulty stemming from deciphering what the question is asking; implementation is generally not a problem.
+        <br/>
+        <br/>
+        There is a choice of projects at the end, but each one will be more involved than the assignments, and will likely take several cycles of debugging and troubleshooting. Again, much of the time cost of the project is in deciphering the questions. A portion of the marks for the project is also allocated to parallelisation or multiprocessing (note that if you work on the project as a Jupyter notebook, you will need to write to an auxiliary .py file as multiprocessing is not supported on interactive interpreters like Juypter).
+        <br/>
+        <br/>
+        Overall, the module is on the easier side, and a high mark can likely be consistently achieved without much issue.
       </div>
     </div>
     <!-- -->
