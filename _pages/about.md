@@ -22,7 +22,7 @@ We have <a href="/module-reviews">a collection</a> of condensed module notes/add
 
 A more complete reference book which may also be useful can be found <a href="https://desyncthethird.github.io/Reference.pdf">here</a>.
 
-If you would like to contribute some notes, or gain access to a WMX guide template LaTeX file, please get in touch with `@.desync` on the WMS or WMX Discord server.
+If you would like to contribute some notes, or gain access to a WMX guide template LaTeX file, please get in touch with `.desync` on the WMS/WMX Discord servers.
 
 <br/>
 
