@@ -18,7 +18,9 @@ a:link {
 
 The mathematics courses at Warwick offer a wide variety of optional modules -- there are no compulsory modules in the third year -- but this can make it difficult to choose which modules to take. Below, you can find a collection of reviews of various maths modules to help you make your decision.
 
-Note that only the most popular optional external modules have been listed below: if you would like to contribute a review for a module that is not listed, please get in touch!
+If you would like to contribute a module review to this page, please open a pull request on our github, or otherwise contact `.desync` on the WMS/WMX Discord servers.
+
+Note that only the most popular optional external modules have been listed below: if you would like to have a module added, please also get in touch!
 
 <br/>
 
