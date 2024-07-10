@@ -1050,17 +1050,23 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3K4">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3K4" aria-expanded="false" aria-controls="collapseMA3K4"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3K4" aria-expanded="false" aria-controls="collapseMA3K4">
           <large>MA3K4 Introduction to Group Theory</large>
         </button>
       </h2>
     </div>
     <div id="collapseMA3K4" class="collapse" aria-labelledby="headingMA3K4" data-parent="#accordionY3maths">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">
+        23/24</large>
         <br/>
-        review here
+        This module is concerned almost exclusively with finite groups. Most of the content is in the year 2 algebra module, but is covered in more detail and some proofs omitted in previous modules are covered here. Apart from this, the new material is on soluble groups, composition series and the Jordan-Hölder theorem, and classifying finite groups of small order.
+        <br/>
+        <br/>
+        The lectures were good, but the notes, exercises, and general contents are where this module falls short. The notes frequently refer to results scattered throughout the exercise sheets, making them extremely difficult and time consuming to read through. The exercises are dull and uninteresting, and the exam is almost entirely bookwork or otherwise require memorisation of every obscure result from the exercise sheets and are otherwise completely inaccessible. There is very little room for actual problem solving in the module, and all the questions merely require you to regurgitate results and definitions without much user input required.
+        <br/>
+        <br/>
+        This module is much easier than most other MA3 modules, with very little new content, and an exam consisting of almost entirely bookwork. However, the content is exceedingly dull and uninteresting (though the lectures are generally very good). Because so many other more interesting algebra modules are available, I find it difficult to recommend this module, though of course, your milage may vary.
       </div>
     </div>
     <!-- -->
