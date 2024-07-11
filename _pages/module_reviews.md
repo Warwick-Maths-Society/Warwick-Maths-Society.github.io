@@ -894,10 +894,10 @@ Note that only the most popular optional external modules have been listed below
         This module covers an axiomatic treatment of set theory using ZFC. After introducing some axioms, the majority of the module is spent on encoding various structures in the pure hereditary sets of ZFC, starting with pairs and relations, before constructing numbers. Some time is then spent on the notion of cardinality, finiteness, and well-ordering, as well as exploring the equivalences of various forms of Choice. Finally, cardinals and ordinals are encoded, and some basic results in cardinal and ordinal arithmetic are proved.
         <br/>
         <br/>
-        The notes are well-written and interesting, with lots of clearly-marked non-examinable extension material for interested readers, and the lectures complimented the notes well. The worksheets and exercises are generally relatively easy, though many of the earlier ones simply involve routine algebraic manipulations with little creativity or thought required.
+        The notes are well-written and interesting, with lots of clearly-marked non-examinable extension material for interested readers, and the lectures complemented the notes well. The worksheets and exercises are generally relatively easy, though many of the earlier ones simply involve routine algebraic manipulations with little creativity or thought required.
         <br/>
         <br/>
-        The course focusses somewhat excessively on construction, and covers relatively little on set theory outside of its use in encoding other mathematical structures -- but at the same time, these constructions aren't very interesting foundationally, and <i>PH342 Philosophy of Mathematics</i> or <i>PH340 Logic III</i> would be a better pick for those interested in set-theoretic foundations. Aside from this, the module is well-taught and is suitable for students over a wide range of mathematical interests. This module is on the easier side of things, but beware that <i>MA3L1 Topics in Set Theory</i> is much more difficult and involved.
+        The course focusses somewhat excessively on construction, and covers relatively little on set theory outside of its use in encoding other mathematical structures -- but at the same time, these particular constructions aren't very interesting foundationally, and <i>PH342 Philosophy of Mathematics</i> or <i>PH340 Logic III</i> would be a better pick for those interested in set-theoretic foundations. Aside from this, the module is well-taught and is suitable for students over a wide range of mathematical interests. This module is on the easier side of things, but beware that <i>MA3L1 Topics in Set Theory</i> is much more difficult and involved.
       </div>
     </div>
     <!-- -->
@@ -1004,7 +1004,7 @@ Note that only the most popular optional external modules have been listed below
       <h2 class="m-0">
         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3J3" aria-expanded="false" aria-controls="collapseMA3J3"
         disabled>
-          <large>MA3J3 Mathematical Modelling and PDEs</large>
+          <large>MA3J4 Mathematical Modelling and PDEs</large>
         </button>
       </h2>
     </div>
