@@ -452,9 +452,15 @@ Note that only the most popular optional external modules have been listed below
     </div>
     <div id="collapseCS260" class="collapse" aria-labelledby="headingCS260" data-parent="#accordionY2misc">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">23/24</large>
         <br/>
-        review here
+        The module closely follows the Kleinberg and Tardos Algorithms textbook. The textbook is clear and well-written, so CS260 references the book in place of official course notes. However, the slides, weekly seminar sheets, solutions, past exam papers and past class tests are all made freely available for practice. The module requires you to produce rigorous proofs of correctness and runtime analysis, with much less emphasis and importance placed on actual implementation details. The exam requires very little memorisation and is heavily focused on applying the techniques shown in lectures to unseen problems.
+
+The module is split into two halves. The first half looks at general problem solving methods such as: greedy algorithms, divide and conquer, dynamic programming, graph algorithms and other classic approaches. Lectures in the first half consist almost entirely of many worked examples of each method, diving straight into their use on specific problems. I found this an effective way of actually learning how to apply these approaches to problems. Even if you go into the module with an understanding of what the methods are, the variety of the examples will show you new and interesting applications. However, the examples in lectures are not to be memorised. They are used to build you intution around the overarching methods, as you will be required to use these teqniques on unseen problems. This leads to satisfying and engaging assessed content, where you solve unseen problems using your knowledge bank of similar examples from lectures/ the textbook.
+
+The second half looks into complexity classes of algorithms, P, NP, NP-Complete, NP-Hard and their relationships, providing an understanding of the statement and the importance of the P vs NP problem. We study polynomial reductions between algorithmic problems, and the exam/ problem sheets will expect you to produce a reduction (and more importantly, a correctness proof) between two unseen problems. Again, many concrete examples and reductions are shown in lecture, covering some of Karp's 21 NP-Complete Problems and Satisfiability. The content is very interesting, and once you get your head around the big idea with reductions and completeness, the module clicks and the content becomes much more approachable. 
+
+The module ends with a look into Flow Networks for some reason. I strongly reccomend this module, it's a solid and core foundation for the theoretical study of algorithms, and what types problems are solvable. 
       </div>
     </div>
     <!-- -->
