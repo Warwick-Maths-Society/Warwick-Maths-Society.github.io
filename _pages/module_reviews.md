@@ -3,7 +3,7 @@ title: Module Reviews
 subtitle: 
 permalink: /module-reviews
 date: 2024-06-27
-last_modified_at: 2024-07-06
+last_modified_at: 2024-07-11
 header_type:
 ---
 
@@ -1069,7 +1069,7 @@ Note that only the most popular optional external modules have been listed below
         The lectures were good, but the notes, exercises, and general contents are where this module falls short. The notes frequently refer to results scattered throughout the exercise sheets, making them extremely difficult and time consuming to read through. The exercises are dull and uninteresting, and the exam is almost entirely bookwork or otherwise require memorisation of every obscure result from the exercise sheets and are otherwise completely inaccessible. There is very little room for actual problem solving in the module, and all the questions merely require you to regurgitate results and definitions without much user input required.
         <br/>
         <br/>
-        This module is much easier than most other MA3 modules, with very little new content, and an exam consisting of almost entirely bookwork. However, the content is exceedingly dull and uninteresting (though the lectures are generally very good). Because so many other more interesting algebra modules are available, I find it difficult to recommend this module, though of course, your milage may vary.
+        This module is much easier than most other MA3 modules, with very little new content, and an exam consisting of almost entirely bookwork. However, the content is exceedingly dull and uninteresting (though the lectures are generally very good). Because so many other more interesting algebra modules are available, I find it difficult to recommend this module -- though of course, your milage may vary.
       </div>
     </div>
     <!-- -->
