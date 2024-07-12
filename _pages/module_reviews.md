@@ -460,17 +460,22 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingCS262">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS262" aria-expanded="false" aria-controls="collapseCS262"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS262" aria-expanded="false" aria-controls="collapseCS262">
           <large>CS262 Logic and Verification</large>
         </button>
       </h2>
     </div>
     <div id="collapseCS262" class="collapse" aria-labelledby="headingCS262" data-parent="#accordionY2misc">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">22/23</large>
         <br/>
-        review here
+        The module begins with an introduction to propositional and predicate logic, covering various normal forms and proof techniques like resolution, semantic tableau, and natural deduction. Next, we have a section on Boolean satisfiability (SAT), mainly covering the DPLL and CDCL algorithms. The second part of the module covers Hoare logic and program verification.
+        <br/>
+        <br/>
+        The coursework involves writing a SAT solver in the logic programming language Prolog. At least one of the questions on the exam is also always on Prolog (e.g. deciphering a given Prolog predicate, writing a short Prolog predicate, etc.) so it is worth spending time learning Prolog in some detail. Getting good marks in the coursework is relatively easy, but attaining the top scores will likely require many hours of optimisation. The exam is also the same consistent format every year -- with one question being able to be skipped -- and the logic and Prolog sections are usually easy to score well in, but the satisfiability question is often very difficult if you don't spot the trick.
+        <br/>
+        <br/>
+        There are no official notes for this module, but there are some comprehensive student notes available, and the recommended textbooks cover the content well. The module ties in well with <i>CS260 Algorithms</i> with the satisfiability section. Also note that the logic section in this module is much more rigourous than <i>PH136 Introduction to Symbolic Logic</i>.
       </div>
     </div>
     <!-- -->
