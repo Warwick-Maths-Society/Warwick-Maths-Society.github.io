@@ -786,17 +786,22 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3F1">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3F1" aria-expanded="false" aria-controls="collapseMA3F1"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3F1" aria-expanded="false" aria-controls="collapseMA3F1">
           <large>MA3F1 Introduction to Topology</large>
         </button>
       </h2>
     </div>
     <div id="collapseMA3F1" class="collapse" aria-labelledby="headingMA3F1" data-parent="#accordionY3maths">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">23/24</large>
         <br/>
-        review here
+        Unlike <i>MA260 Norms, Metrics, and Topologies</i>, this module is not analysis module, and is in fact the first time students have the opportunity to see any algebraic topology at all. This module covers the fundamental group and roughly follows the second chapter of Hatcher.
+        <br/>
+        <br/>
+        The module begins with an introduction to paths and loops; and retraction and free/relative homotopies; before introducing the basic notion of a fundamental group of a pointed space. Covering spaces and lifting are then covered, along with the homotopy and path lifting properties. Functoriality and homotopy invariance of the fundamental group is the proved, followed by the famous Brouwer fixed-point theorem and Borsuk-Ulam theorem. After a short section on fundamental groups of wedge sums and products and on the Galois connection, the Seifert-van Kampen theorem is introduced.
+        <br/>
+        <br/>
+        In this year I took this module, the lectures were highly disorganised and unhelpful, and the typed notes from previous years were partially dispensed with and replaced by handwritten notes full of mistakes. The last part of the module on CW complexes and generators/relators was completely removed and replaced with extra covering space theory. (This also made <i>MA3H3 Algebraic Topology</i> significantly more difficult, as that modules assumes knowledge of CW complexes.) However, the lecturer has since changed, so the quality of this module will likely improve.
       </div>
     </div>
     <!-- -->
@@ -944,13 +949,13 @@ Note that only the most popular optional external modules have been listed below
       <div class="card-body">
         <large class="text-muted">23/24</large>
         <br/>
-        This module is incredibly dense compared to <i>MA3F1 Introduction to Topology</i>, though it should be noted that relatively little from that module is required for this one; <i>MA3F1</i> is concerned entirely with homotopy theory, while this module covers homology theory. Only the basic notion of a homotopy, and the Seifert-van Kampen theorem are assumed in this course, and these can be learnt separately without much issue.
+        This module is incredibly dense compared to <i>MA3F1 Introduction to Topology</i>, though it should be noted that relatively little from that module is required for this one; <i>MA3F1</i> is concerned entirely with homotopy theory, while this module covers homology theory. Only the basic notion of a homotopy, and the Seifert-van Kampen theorem are assumed in this course, and these can be learnt separately without much issue. This module roughly covers the third chapter of Hatcher.
         <br/>
         <br/>
         The module introduces the idea of homology, beginning with semi-simplicial structures and simplicial homology, before introducing the more general concept of a chain complex, and the more flexible singular homology, which is used for much of the remainder of the course. Two main results in singular homology then take up a large proportion of the middle section of the middle: proving Homotopy Invariance with chain homotopies and the prism operator; and the Mayer-Vietoris Long Exact Sequence with barycentric subdivision. Using these results, the Jordan Curve theorem is finally proved, having been mentioned since the foundations notes in first year.
         <br/>
         <br/>
-        The most difficult parts of the module are then covered: degrees and orientations. Some experience with manifolds and complex analysis may help in these sections. Finally, cellular homology and a proof of the equivalence of the simplicial and singular homology theories is given, along with a very brief introduction to category theory and a short epilogue on generalised (co)homology theories.
+        The most difficult parts of the module are then covered: degrees and orientations. Some experience with manifolds and complex analysis may help in these sections. Finally, Euler characteristics, cellular homology, and a proof of the equivalence of the simplicial and singular homology theories is given, along with a very brief introduction to category theory and a short epilogue on generalised (co)homology theories.
         <br/>
         <br/>
         The notes are dense and often skip over many details -- in particular, many canonical maps are never explicitly given, along with other similar constructions, so some experience with category theory may help here. The lectures are very fast-paced and similarly skip over many details, leaving things as exercises or just marked as "obvious". Many interesting and beautiful results are covered in this module, but the sheer quantity and speed of content asks a lot of the students taking the module: overall, the module is difficult, but rewarding.
