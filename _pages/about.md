@@ -3,10 +3,10 @@ title: About
 subtitle: 
 permalink: /about
 date: 2024-06-26
-last_modified_at: 2024-06-27
+last_modified_at: 2024-07-13
 header_type: hero
 ---
-The mission of WMS is to continue to serve students of all years and departments at Warwick who are interested in mathematics through its academic resources, talks, and social events. We aim to promote the communication and uses of mathematics; support mathematical education at all levels; encourage and facilitate full participation of all individuals; and foster an awareness and appreciation of mathematics and its connections to other disciplines and everyday life.
+The mission of WMS is to serve students of all years and departments at Warwick who are interested in mathematics through its academic resources, talks, and social events. We aim to promote the communication and uses of mathematics; support mathematical education at all levels; encourage and facilitate full participation of all individuals; and foster an awareness and appreciation of mathematics and its connections to other disciplines and everyday life.
 
 # Academics
 
@@ -36,6 +36,8 @@ We have compiled <a href="/essays">a collection</a> of previous essays that you 
 
 We run academic talks in the department on a weekly basis, where you can learn about the research of current lecturers, PhD students, and other guest speakers.
 
+We also help organise the Warwick Imperial Conference (WIMP), where guest speakers from Warwick and Imperial present their research.
+
 <br/>
 
 ---
@@ -44,7 +46,7 @@ We run academic talks in the department on a weekly basis, where you can learn a
 
 ### Coffee and Cake
 
-Stop by for some hot drinks and snacks at our weekly Coffee and Cake welfare event, run by our Equal Opportunities & Welfare officers. Meet other students and relax
+Stop by for some hot drinks and snacks at our weekly Coffee and Cake welfare event, run by our Equal Opportunities & Welfare officers, where you can meet other students and relax for a while.
 
 <br/>
 
