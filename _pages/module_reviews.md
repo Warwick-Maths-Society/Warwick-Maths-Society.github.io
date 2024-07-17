@@ -254,22 +254,6 @@ Note that only the most popular optional external modules have been listed below
       </div>
     </div>
     <!-- -->
-    <div class="card-header" id="headingMA256">
-      <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA256" aria-expanded="false" aria-controls="collapseMA256"
-        disabled>
-          <large>MA256 Introduction to Mathematical Biology</large>
-        </button>
-      </h2>
-    </div>
-    <div id="collapseMA256" class="collapse" aria-labelledby="headingMA256" data-parent="#accordionY2maths">
-      <div class="card-body">
-        <large class="text-muted">YY/YY</large>
-        <br/>
-        review here
-      </div>
-    </div>
-    <!-- -->
     <div class="card-header" id="headingMA252">
       <h2 class="m-0">
         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA252" aria-expanded="false" aria-controls="collapseMA252">
@@ -312,6 +296,32 @@ Note that only the most popular optional external modules have been listed below
         <br/>
         <br/>
         As someone who likes analysis and modelling, I enjoyed this module and would recommend it to anyone who found themselves asking under what circumstances we can guarantee a well-posed solution to the initial value problems from Modelling 1, as well as to those considering exploring 3rd/4th year modules in analysis, dynamical systems, physics and mathematical biology!
+      </div>
+    </div>
+    <!-- -->    <div class="card-header" id="headingMA256">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA256" aria-expanded="false" aria-controls="collapseMA256">
+          <large>MA256 Introduction to Mathematical Biology</large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA256" class="collapse" aria-labelledby="headingMA256" data-parent="#accordionY2maths">
+      <div class="card-body">
+        <large class="text-muted">23/24</large>
+        <br/>
+        This module covers a large range of topics which come under the umbrella of mathematical biology. Each week the lecturer covers a small number of these topics, which are arranged in increasing scale, beginning with enzymes and diffusion, then moving through electrophysiology and cellular communication, and finishing with population and disease modelling. For me, it felt that time was disproportionately weighted towards electrophysiology and cellular communication, possibly because it aligned with the lecturer’s research interests.
+        <br/>
+        <br/>
+        Lectures were enjoyable to attend, and he was encouraging of student participation. They were not recorded although, instead he provided video summaries of the lecture in which he annotated his handwritten notes. The lecture notes were provided weekly and also included roughly 3 questions for each week. They were written in LaTeX and very readable. The questions were a mixture of theory and also some coding, which we would then go through in the weekly support class. One should be aware that lots of diagrams, especially phase planes, would only be provided in lectures and would not appear in the recap videos or lecture notes. Similarly, in some cases, the explanations provided in the notes and videos for certain derivations/calculations would be a lot briefer than in the lectures.
+        <br/>
+        <br/>
+        Having not learnt any Biology since taking GCSEs, I did not feel to be at any disadvantage compared to people who had studied it further than that. Any knowledge of biology was thoroughly explained and felt intuitive.
+        <br/>
+        <br/>
+        In preparation for the exam, the lecturer dedicated week 10 to revision, provided a mock paper (we did not have any available relevant past papers), and also ran a revision session in term 3. The exam itself felt fair, with lots of marks for bookwork.
+        <br/>
+        <br/>
+        I would strongly recommend this module for anyone with interests in applied maths. Other modules which I felt went nicely with this one are Theory of ODEs, and Intro to PDEs.
       </div>
     </div>
     <!-- -->
