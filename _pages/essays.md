@@ -28,18 +28,6 @@ tbody{
 
 <table style="margin: 0px auto; width:100%;">
   <tr>
-    <th>Mark</th>
-    <th>Title</th>
-  </tr>
-  <tr>
-    <td>tbd</td>
-    <td><a href="./assets/essays-2/tbd - Nowhere Dense Sets.pdf">Nowhere Dense Sets</a></td>
-  </tr>
-  <tr>
-    <td>tbd</td>
-    <td><a href="./assets/essays-2/tbd - Generalised Stokes Theorem.pdf">Generalised Stokes Theorem</a></td>
-  </tr>
-  <tr>
     <td>74</td>
     <td><a href="./assets/essays-2/74 - Curvature of Surfaces in R^3.pdf">Curvature of Surfaces in R^3</a></td>
   </tr>
@@ -68,12 +56,24 @@ tbody{
     <td><a href="./assets/essays-2/81 - Squaring the Circle - Ancient Problems and Modern Solutions.pdf">Squaring the Circle - Ancient Problems and Modern Solutions</a></td>
   </tr>
   <tr>
+    <td>82</td>
+    <td><a href="./assets/essays-2/tbd - Generalised Stokes Theorem.pdf">Generalised Stokes Theorem</a></td>
+  </tr>
+  <tr>
     <td>83</td>
     <td><a href="./assets/essays-2/83 - Arithmetical Functions and Dirichlet Series.pdf">Arithmetical Functions and Dirichlet Series</a></td>
   </tr>
   <tr>
     <td>84</td>
     <td><a href="./assets/essays-2/84 - Gauss’ Theorema Egregium.pdf">Gauss’ Theorema Egregium</a></td>
+  </tr>
+  <tr>
+    <th>Mark</th>
+    <th>Title</th>
+  </tr>
+  <tr>
+    <td>88</td>
+    <td><a href="./assets/essays-2/tbd - Nowhere Dense Sets.pdf">Nowhere Dense Sets</a></td>
   </tr>
   <tr>
     <td>100</td>
@@ -93,7 +93,7 @@ We also have a collection of 3rd year essays:
     <th>Title</th>
   </tr>
   <tr>
-    <td>tbd</td>
+    <td>82</td>
     <td><a href="./assets/essays-3/tbd - Structural Foundations in Topoi.pdf">Structural Foundations in Topoi</a></td>
   </tr>
   <tr>
