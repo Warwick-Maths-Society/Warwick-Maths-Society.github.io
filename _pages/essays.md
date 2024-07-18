@@ -28,6 +28,10 @@ tbody{
 
 <table style="margin: 0px auto; width:100%;">
   <tr>
+    <th>Mark</th>
+    <th>Title</th>
+  </tr>
+  <tr>
     <td>74</td>
     <td><a href="./assets/essays-2/74 - Curvature of Surfaces in R^3.pdf">Curvature of Surfaces in R^3</a></td>
   </tr>
@@ -66,10 +70,6 @@ tbody{
   <tr>
     <td>84</td>
     <td><a href="./assets/essays-2/84 - Gauss’ Theorema Egregium.pdf">Gauss’ Theorema Egregium</a></td>
-  </tr>
-  <tr>
-    <th>Mark</th>
-    <th>Title</th>
   </tr>
   <tr>
     <td>88</td>
