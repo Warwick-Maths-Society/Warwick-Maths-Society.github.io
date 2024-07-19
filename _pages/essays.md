@@ -94,10 +94,14 @@ We also have a collection of 3rd year essays:
   </tr>
   <tr>
     <td>82</td>
-    <td><a href="./assets/essays-3/tbd - Structural Foundations in Topoi.pdf">Structural Foundations in Topoi</a></td>
+    <td><a href="./assets/essays-3/82 - Structural Foundations in Topoi.pdf">Structural Foundations in Topoi</a></td>
   </tr>
   <tr>
     <td>83</td>
     <td><a href="./assets/essays-3/83 - Eulerian and Hamiltonian Cycles in Cayley Graphs.pdf">Eulerian and Hamiltonian Cycles in Cayley Graphs</a></td>
+  </tr>
+  <tr>
+    <td>92</td>
+    <td><a href="./assets/essays-3/92 - Riemann Surfaces.pdf">Riemann Surfaces</a></td>
   </tr>
 </table>
