@@ -73,7 +73,11 @@ tbody{
   </tr>
   <tr>
     <td>88</td>
-    <td><a href="./assets/essays-2/tbd - Nowhere Dense Sets.pdf">Nowhere Dense Sets</a></td>
+    <td><a href="./assets/essays-2/88 - The Elliptic Curve Group.pdf">The Elliptic Curve Group</a></td>
+  </tr>
+  <tr>
+    <td>88</td>
+    <td><a href="./assets/essays-2/88 - Nowhere Dense Sets.pdf">Nowhere Dense Sets</a></td>
   </tr>
   <tr>
     <td>100</td>
