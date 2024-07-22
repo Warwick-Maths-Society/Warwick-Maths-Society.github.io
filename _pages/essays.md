@@ -56,6 +56,10 @@ tbody{
     <td><a href="./assets/essays-2/80 - Möbius Transformations.pdf">Mobius Transformations</a></td>
   </tr>
   <tr>
+    <td>80</td>
+    <td><a href="./assets/essays-2/80 - Sieve Theory and Application to Grun's Theorem.pdf">Sieve Theory and Application to Grun's Theorem</a></td>
+  </tr>
+  <tr>
     <td>81</td>
     <td><a href="./assets/essays-2/81 - Squaring the Circle - Ancient Problems and Modern Solutions.pdf">Squaring the Circle - Ancient Problems and Modern Solutions</a></td>
   </tr>
