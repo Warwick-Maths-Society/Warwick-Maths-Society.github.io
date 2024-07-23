@@ -102,7 +102,7 @@ We also have a collection of 3rd year essays:
   </tr>\overbrace{}_{} 
   <tr>
     <td>74</td>
-    <td><a target="_blank" href="./assets/essays-3/74 - Algebraic Differential Forms.pdf">Structural Foundations in Topoi</a></td>
+    <td><a target="_blank" href="./assets/essays-3/74 - Algebraic Differential Forms.pdf">Algebraic Differential Forms</a></td>
   </tr>
   <tr>
     <td>82</td>
