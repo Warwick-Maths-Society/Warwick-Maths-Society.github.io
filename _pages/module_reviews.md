@@ -374,10 +374,10 @@ Note that only the most popular optional external modules have been listed below
       <div class="card-body">
         <large class="text-muted">23/24</large>
         <br/>
-        This module follows the first year linear algebra courses. The module is essentially split into 3 sub parts. The first few weeks focus on introducing and developing the Jordan canonical form, generalising matrix diagonalisation. A few practical applications then follow. You then move onto bilinear maps and quadratic forms, a second look at the Gram-Schmidt process naturally follows. The module concludes by looking at the dual vector space as well as tensors and the exterior and symmetric algebras.
+        This module follows the first year linear algebra courses. The module is essentially split into 3 sub-parts. The first few weeks focus on introducing and developing the Jordan canonical form, generalising matrix diagonalisation. A few practical applications then follow. You then move onto bilinear maps and quadratic forms; a second look at the Gram-Schmidt process naturally follows. The module concludes by looking at the dual vector space, as well as tensors and the exterior and symmetric algebras.
         <br/>
         <br/>
-        On the whole the module is fairly enjoyable with an ok mix of theory and application, the assignments however, are almost entirely computational and are a complete pain to do. Several require working with large matrices and frankly feel like a huge waste of time. The final chapter was rushed in lectures and lacks examples/exercise questions. Everything before the final chapter was well explained and the notes are thorough with many examples to help you get to grips with the many algorithms in the module. The module pairs well with theory of odes since much of the work on the Jordan form is applied.
+        On the whole, the module is fairly enjoyable with an okay mix of theory and application. The assignments, however, are almost entirely computational and are a complete pain to do. Several require working with large matrices and frankly feel like a huge waste of time. The final chapter was rushed in lectures and lacks examples/exercise questions. Everything before the final chapter was well explained and the notes are thorough with many examples to help you get to grips with the many algorithms in the module. The module pairs well with Theory of ODEs where much of the work on the Jordan form is applied.
       </div>
     </div>
     <!-- -->
