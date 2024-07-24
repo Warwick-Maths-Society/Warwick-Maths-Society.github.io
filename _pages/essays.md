@@ -99,7 +99,7 @@ We also have a collection of 3rd year essays:
   <tr>
     <th>Mark</th>
     <th>Title</th>
-  </tr>\overbrace{}_{} 
+  </tr>
   <tr>
     <td>74</td>
     <td><a target="_blank" href="./assets/essays-3/74 - Algebraic Differential Forms.pdf">Algebraic Differential Forms</a></td>
