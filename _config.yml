@@ -100,6 +100,8 @@ navbar:
   nav:
   - title   : About
     url     : /about
+  - title   : Posts
+    url     : /blog
   - title   : Exec
     url     : /exec
   - title   : Essays
@@ -211,7 +213,7 @@ defaults:
       show_breadcrumb   : true
       show_author       : false
       breadcrumb_list   :
-        - label: Blog
+        - label: Posts
           url: /blog/
   -
     scope:
