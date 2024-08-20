@@ -12,6 +12,13 @@ The sources for the essay, module review, exec, etc., pages can be found in the 
 
 The template for new posts can be found [here](https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io/blob/main/_posts/YYYY-MM-DD-template.md), and quick reference sheets for markdown/kramdown can be found [here](https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io/tree/develop/_cheatsheet) ([live](http://localhost:4000/cheatsheets/)).
 
+Please tag your posts with some or all of the following
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| Tag | [year]    |`events`                | `updates`             | `talks`      |
+| For | all posts | socials, weekly events | elections, ball, WIMP | weekly talks |
+
 # Maintainers
 
 This website is developed and maintained by [Kit Liu](https://github.com/DesyncTheThird), with various content contributions (module reviews, essays, etc.) from the wider WMS community.
