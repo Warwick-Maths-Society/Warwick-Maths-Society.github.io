@@ -2,22 +2,24 @@
 
 [![Current Version](https://img.shields.io/github/tag/Warwick-Maths-Society/Warwick-Maths-Society.github.io.svg)](https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io/tags)
 [![Discord](https://img.shields.io/discord/1102960469934870560.svg)](https://discord.gg/UWrqB93gfh)
-[![GitHub contributors](https://img.shields.io/github/contributors/Warwick-Maths-Society/Warwick-Maths-Society.github.io.svg)](https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io/pulse/monthly)
+[![Open Issues](https://img.shields.io/github/issues/Warwick-Maths-Society/Warwick-Maths-Society.github.io.svg)](https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io/issues)
+[![Contributors](https://img.shields.io/github/contributors/Warwick-Maths-Society/Warwick-Maths-Society.github.io.svg)](https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io/pulse/monthly)
+[![pages-build-deployment](https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io/actions/workflows/pages/pages-build-deployment)
 
 This is the official website for the Warwick Maths Society.
 
-You can request changes by making a fork of the `develop` branch and opening a [pull request](https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io/pulls).
+You can add posts or request changes by making a fork of the `develop` branch and opening a [pull request](https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io/pulls).
 
 The sources for the essay, module review, exec, etc., pages can be found in the [_pages](https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io/tree/develop/_pages) directory.
 
 The template for new posts can be found [here](https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io/blob/main/_posts/YYYY-MM-DD-template.md), and quick reference sheets for markdown/kramdown can be found [here](https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io/tree/develop/_cheatsheet) ([live](http://localhost:4000/cheatsheets/)).
 
-Please tag your posts with some or all of the following
+Please tag your posts with some or all of the following:
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-| Tag | [year]    |`events`                | `updates`             | `talks`      |
-| For | all posts | socials, weekly events | elections, ball, WIMP | weekly talks |
+| Tag | [year]    |`events`                        | `updates`             | `talks`      |
+| For | all posts | socials, circles, competitions | elections, ball, WIMP | weekly talks |
 
 # Maintainers
 
