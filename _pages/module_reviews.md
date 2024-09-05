@@ -93,7 +93,7 @@ Note that only the most popular optional external modules have been listed below
     </div>
     <div id="collapseCS141" class="collapse" aria-labelledby="headingCS141" data-parent="#accordionY1misc">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">23/24</large>
         <br/>
         CS141 features a fast-paced introduction to the programming language Haskell and functional programming concepts (via lectures & labs), two courseworks (weighted 15% and 25% respectively) which change topic every year, and an exam (weighted 60%). Despite references to abstract algebra and category theory, previous knowledge of semigroups, monoids, functors, and monads is not required. Despite references to computational theory, previous knowledge of the lambda calculus and turing completeness is not required. 
         <br/>
