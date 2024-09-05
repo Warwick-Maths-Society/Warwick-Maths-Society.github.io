@@ -96,7 +96,28 @@ Note that only the most popular optional external modules have been listed below
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
-        review here
+        CS141 features a fast-paced introduction to the programming language Haskell and functional programming concepts (via lectures & labs), two courseworks (weighted 15% and 25% respectively) which change topic every year, and an exam (weighted 60%). 
+        
+        Despite references to abstract algebra and category theory, previous knowledge of semigroups, monoids, functors, and monads is not required. Despite references to computational theory, previous knowledge of the lambda calculus and turing completeness is not required. 
+
+        <br/>
+        <br/>
+        
+        I would recommend this to anyone with experience (and an interest) in programming; it is possible to keep up with no programming experience if you are well-suited to logic and don't mind putting in a few hours of extra study (outside of lectures/labs/coursework). Even those with experience in programming (and none in functional languages) will find it challenging as functional programming is quite different from procedural programming and requires you to reprogram your brain. 
+
+        <br/>
+        <br/>
+        
+        Regardless of the difficulty of the content, it is very well taught and the lectures notes and labs (by Alex Dixon) are extremely well-made. In addition, you can find supplemental resources on the webpage (I would recommend Learn You A Haskell). The content is highly rewarding and there is huge scope to delve further into functional programming than is necessary for the marks; the last couple weeks of lectures are essentially optional (won't be examinable) though are very interesting and will develop your understanding of functional programming greatly. 
+
+        <br/>
+        <br/>
+        
+        The module is generous with marks (provided you keep pace). It is feasible to get 100% in the courseworks if you complete the tasks to a high standard, and also go above and beyond the specification. The exam has 6 questions ranging in content from the basics of Haskell to the complex content at the end of the module; you answer 4 questions. This allows students who wish for easier marks to go for the questions examining harder content (which should be simple provided you understand the content) as opposed to the questions examining easier content (which will be less leniently marked and feature harder problem solving). Even without trying especially hard on the module or understanding a lot of the harder content, it is not hard to obtain a high grade. 
+
+        <br/>
+
+        Learning functional programming will also make you a better programmer, prime you for computational projects, and provide you with 2 courseworks to add to your CV. 
       </div>
     </div>
     <!-- -->
