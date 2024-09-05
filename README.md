@@ -10,7 +10,7 @@ You can request changes by making a fork of the `develop` branch and opening a [
 
 The sources for the essay, module review, exec, etc., pages can be found in the [_pages](https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io/tree/develop/_pages) directory.
 
-The template for new posts can be found [here](https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io/blob/main/_posts/YYYY-MM-DD-template.md), and quick reference sheets for markdown/kramdown can be found [here](https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io/tree/develop/_cheatsheet) ([live](http://localhost:4000/cheatsheets/)).
+The template for new posts can be found [here](https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io/blob/main/_posts/YYYY-MM-DD-template.md), and quick reference sheets for markdown/kramdown can be found [here](https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io/tree/develop/_cheatsheet) ([live](https://warwick-maths-society.github.io/cheatsheets)).
 
 # Maintainers
 
