@@ -13,6 +13,10 @@ a:link {
   background-color: transparent;
   text-decoration: none;
 }
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 4rem;
+}
 </style>
 
 
@@ -33,8 +37,8 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA117">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA117" aria-expanded="false" aria-controls="collapseMA117">
-          <large>MA117 Programming for Scientists</large>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA117" aria-expanded="false" aria-controls="collapseMA117" id="MA117">
+          <large><a href="#MA117">MA117 Programming for Scientists</a></large>
         </button>
       </h2>
     </div>
@@ -70,9 +74,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingCS137">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS137" aria-expanded="false" aria-controls="collapseCS137"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS137" aria-expanded="false" aria-controls="collapseCS137" id="CS137"
         disabled>
-          <large>CS137 Discrete Mathematics II</large>
+          <large><a href="#CS137">CS137 Discrete Mathematics II</a></large>
         </button>
       </h2>
     </div>
@@ -86,8 +90,8 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingCS141">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS141" aria-expanded="false" aria-controls="collapseCS141">
-          <large>CS141 Functional Programming</large>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS141" aria-expanded="false" aria-controls="collapseCS141" id="CS141">
+          <large><a href="#CS141">CS141 Functional Programming</a></large>
         </button>
       </h2>
     </div>
@@ -113,9 +117,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingPX155">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX155" aria-expanded="false" aria-controls="collapsePX155"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX155" aria-expanded="false" aria-controls="collapsePX155" id="PX155"
         disabled>
-          <large>PX155 Classical Mechanics and Special Relativity</large>
+          <large><a href="#PX155">PX155 Classical Mechanics and Special Relativity</a></large>
         </button>
       </h2>
     </div>
@@ -129,9 +133,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingPX156">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX156" aria-expanded="false" aria-controls="collapsePX156"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX156" aria-expanded="false" aria-controls="collapsePX156" id="PX156"
         disabled>
-          <large>PX156 Quantum Phenomena</large>
+          <large><a href="#PX156">PX156 Quantum Phenomena</a></large>
         </button>
       </h2>
     </div>
@@ -145,9 +149,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingPX157">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX157" aria-expanded="false" aria-controls="collapsePX157"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX157" aria-expanded="false" aria-controls="collapsePX157" id="PX157"
         disabled>
-          <large>PX157 Electricity and Magnetism</large>
+          <large><a href="#PX157">PX157 Electricity and Magnetism</a></large>
         </button>
       </h2>
     </div>
@@ -161,9 +165,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingPX158">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX158" aria-expanded="false" aria-controls="collapsePX158"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX158" aria-expanded="false" aria-controls="collapsePX158" id="PX158"
         disabled>
-          <large>PX158 Astronomy</large>
+          <large><a href="#PX158">PX158 Astronomy</a></large>
         </button>
       </h2>
     </div>
@@ -177,9 +181,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingPH136">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePH136" aria-expanded="false" aria-controls="collapsePH136"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePH136" aria-expanded="false" aria-controls="collapsePH136" id="PH136"
         disabled>
-          <large>PH136 Logic I: Introduction to Symbolic Logic</large>
+          <large><a href="#PH136">PH136 Logic I: Introduction to Symbolic Logic</a></large>
         </button>
       </h2>
     </div>
@@ -208,8 +212,8 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA241">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA241" aria-expanded="false" aria-controls="collapseMA241">
-          <large>MA241 Combinatorics I</large>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA241" aria-expanded="false" aria-controls="collapseMA241" id="MA241">
+          <large><a href="#MA241">MA241 Combinatorics I</a></large>
         </button>
       </h2>
     </div>
@@ -235,9 +239,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA243">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA243" aria-expanded="false" aria-controls="collapseMA243"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA243" aria-expanded="false" aria-controls="collapseMA243" id="MA243"
         disabled>
-          <large>MA243 Geometry</large>
+          <large><a href="#MA243">MA243 Geometry</a></large>
         </button>
       </h2>
     </div>
@@ -251,9 +255,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA250">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA250" aria-expanded="false" aria-controls="collapseMA250"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA250" aria-expanded="false" aria-controls="collapseMA250" id="MA250"
         disabled>
-          <large>MA250 Introduction to PDEs</large>
+          <large><a href="#MA250">MA250 Introduction to PDEs</a></large>
         </button>
       </h2>
     </div>
@@ -267,8 +271,8 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA252">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA252" aria-expanded="false" aria-controls="collapseMA252">
-          <large>MA252 Combinatorial Optimisation</large>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA252" aria-expanded="false" aria-controls="collapseMA252" id="MA252">
+          <large><a href="#MA252">MA252 Combinatorial Optimisation</a></large>
         </button>
       </h2>
     </div>
@@ -291,8 +295,8 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA254">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA254" aria-expanded="false" aria-controls="collapseMA254">
-          <large>MA254 Theory of ODEs</large>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA254" aria-expanded="false" aria-controls="collapseMA254" id="MA254">
+          <large><a href="#MA254">MA254 Theory of ODEs</a></large>
         </button>
       </h2>
     </div>
@@ -311,8 +315,8 @@ Note that only the most popular optional external modules have been listed below
     </div>
     <!-- -->    <div class="card-header" id="headingMA256">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA256" aria-expanded="false" aria-controls="collapseMA256">
-          <large>MA256 Introduction to Mathematical Biology</large>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA256" aria-expanded="false" aria-controls="collapseMA256" id="MA256">
+          <large><a href="#MA256">MA256 Introduction to Mathematical Biology</a></large>
         </button>
       </h2>
     </div>
@@ -338,8 +342,8 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA257">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA257" aria-expanded="false" aria-controls="collapseMA257">
-          <large>MA257 Introduction to Number Theory</large>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA257" aria-expanded="false" aria-controls="collapseMA257" id="MA257">
+          <large><a href="#MA257">MA257 Introduction to Number Theory</a></large>
         </button>
       </h2>
     </div>
@@ -359,8 +363,8 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA263">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA263" aria-expanded="false" aria-controls="collapseMA263">
-          <large>MA263 Multivariable Analysis</large>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA263" aria-expanded="false" aria-controls="collapseMA263" id="MA263">
+          <large><a href="#MA263">MA263 Multivariable Analysis</a></large>
         </button>
       </h2>
     </div>
@@ -376,8 +380,8 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA266">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA266" aria-expanded="false" aria-controls="collapseMA266">
-          <large>MA266 Multilinear Algebra</large>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA266" aria-expanded="false" aria-controls="collapseMA266" id="MA266">
+          <large><a href="#MA266">MA266 Multilinear Algebra</a></large>
         </button>
       </h2>
     </div>
@@ -394,8 +398,8 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA269">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA269" aria-expanded="false" aria-controls="collapseMA269">
-          <large>MA269 Asymptotics and Integral Transforms</large>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA269" aria-expanded="false" aria-controls="collapseMA269" id="MA269">
+          <large><a href="#MA269">MA269 Asymptotics and Integral Transforms</a></large>
         </button>
       </h2>
     </div>
@@ -421,9 +425,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingCS254">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS254" aria-expanded="false" aria-controls="collapseCS254"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS254" aria-expanded="false" aria-controls="collapseCS254" id="CS254"
         disabled>
-          <large>CS254 Algorithmic Graph Theory</large>
+          <large><a href="#CS254">CS254 Algorithmic Graph Theory</a></large>
         </button>
       </h2>
     </div>
@@ -437,8 +441,8 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingCS259">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS259" aria-expanded="false" aria-controls="collapseCS259">
-          <large>CS259 Formal Languages</large>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS259" aria-expanded="false" aria-controls="collapseCS259" id="CS259">
+          <large><a href="#CS259">CS259 Formal Languages</a></large>
         </button>
       </h2>
     </div>
@@ -467,8 +471,8 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingCS260">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS260" aria-expanded="false" aria-controls="collapseCS260">
-          <large>CS260 Algorithms</large>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS260" aria-expanded="false" aria-controls="collapseCS260" id="CS260">
+          <large><a href="#CS260">CS260 Algorithms</a></large>
         </button>
       </h2>
     </div>
@@ -491,8 +495,8 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingCS262">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS262" aria-expanded="false" aria-controls="collapseCS262">
-          <large>CS262 Logic and Verification</large>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS262" aria-expanded="false" aria-controls="collapseCS262" id="CS262">
+          <large><a href="#CS262">CS262 Logic and Verification</a></large>
         </button>
       </h2>
     </div>
@@ -512,9 +516,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingPH210">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePH210" aria-expanded="false" aria-controls="collapsePH210"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePH210" aria-expanded="false" aria-controls="collapsePH210" id="PH210"
         disabled>
-          <large>PH210 Logic II: Metatheory</large>
+          <large><a href="#PH210">PH210 Logic II: Metatheory</a></large>
         </button>
       </h2>
     </div>
@@ -528,9 +532,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingPX262">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX262" aria-expanded="false" aria-controls="collapsePX262"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX262" aria-expanded="false" aria-controls="collapsePX262" id="PX262"
         disabled>
-          <large>PX262 Quantum Mechanics and its Applications   </large>
+          <large><a href="#PX262">PX262 Quantum Mechanics and its Applications   </a></large>
         </button>
       </h2>
     </div>
@@ -544,8 +548,8 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingPX281">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX281" aria-expanded="false" aria-controls="collapsePX281">
-          <large>PX281 Computational Physics</large>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX281" aria-expanded="false" aria-controls="collapsePX281" id="PX281">
+          <large><a href="#PX281">PX281 Computational Physics</a></large>
         </button>
       </h2>
     </div>
@@ -568,9 +572,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingST227">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseST227" aria-expanded="false" aria-controls="collapseST227"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseST227" aria-expanded="false" aria-controls="collapseST227" id="ST227"
         disabled>
-          <large>ST227 Stochastic Processes</large>
+          <large><a href="#ST227">ST227 Stochastic Processes</a></large>
         </button>
       </h2>
     </div>
@@ -584,8 +588,8 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingST232">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseST232" aria-expanded="false" aria-controls="collapseST232">
-          <large>ST232 Introduction to Mathematical Statistics</large>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseST232" aria-expanded="false" aria-controls="collapseST232" id="ST232">
+          <large><a href="#ST232">ST232 Introduction to Mathematical Statistics</a></large>
         </button>
       </h2>
     </div>
@@ -601,9 +605,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingST234">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseST234" aria-expanded="false" aria-controls="collapseST234"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseST234" aria-expanded="false" aria-controls="collapseST234" id="ST234"
         disabled>
-          <large>ST234 Games and Decisions</large>
+          <large><a href="#ST234">ST234 Games and Decisions</a></large>
         </button>
       </h2>
     </div>
@@ -633,9 +637,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA359">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA359" aria-expanded="false" aria-controls="collapseMA359"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA359" aria-expanded="false" aria-controls="collapseMA359" id="MA359"
         disabled>
-          <large>MA359 Measure Theory</large>
+          <large><a href="#MA359">MA359 Measure Theory</a></large>
         </button>
       </h2>
     </div>
@@ -649,9 +653,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA377">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA377" aria-expanded="false" aria-controls="collapseMA377"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA377" aria-expanded="false" aria-controls="collapseMA377" id="MA377"
         disabled>
-          <large>MA377 Rings and Modules</large>
+          <large><a href="#MA377">MA377 Rings and Modules</a></large>
         </button>
       </h2>
     </div>
@@ -665,9 +669,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA390">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA390" aria-expanded="false" aria-controls="collapseMA390"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA390" aria-expanded="false" aria-controls="collapseMA390" id="MA390"
         disabled>
-          <large>MA390 Mathematical Biology</large>
+          <large><a href="#MA390">MA390 Mathematical Biology</a></large>
         </button>
       </h2>
     </div>
@@ -681,9 +685,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA398">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA398" aria-expanded="false" aria-controls="collapseMA398"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA398" aria-expanded="false" aria-controls="collapseMA398" id="MA398"
         disabled>
-          <large>MA398 Matrix Analysis and Algorithms</large>
+          <large><a href="#MA398">MA398 Matrix Analysis and Algorithms</a></large>
         </button>
       </h2>
     </div>
@@ -697,9 +701,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3A6">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3A6" aria-expanded="false" aria-controls="collapseMA3A6"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3A6" aria-expanded="false" aria-controls="collapseMA3A6" id="MA3A6"
         disabled>
-          <large>MA3A6 Algebraic Number Theory</large>
+          <large><a href="#MA3A6">MA3A6 Algebraic Number Theory</a></large>
         </button>
       </h2>
     </div>
@@ -713,9 +717,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3B8">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3B8" aria-expanded="false" aria-controls="collapseMA3B8"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3B8" aria-expanded="false" aria-controls="collapseMA3B8" id="MA3B8"
         disabled>
-          <large>MA3B8 Complex Analysis</large>
+          <large><a href="#MA3B8">MA3B8 Complex Analysis</a></large>
         </button>
       </h2>
     </div>
@@ -729,9 +733,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3D1">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3D1" aria-expanded="false" aria-controls="collapseMA3D1"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3D1" aria-expanded="false" aria-controls="collapseMA3D1" id="MA3D1"
         disabled>
-          <large>MA3D1 Fluid Dynamics</large>
+          <large><a href="#MA3D1">MA3D1 Fluid Dynamics</a></large>
         </button>
       </h2>
     </div>
@@ -745,9 +749,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3D4">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3D4" aria-expanded="false" aria-controls="collapseMA3D4"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3D4" aria-expanded="false" aria-controls="collapseMA3D4" id="MA3D4"
         disabled>
-          <large>MA3D4 Fractal Geometry</large>
+          <large><a href="#MA3D4">MA3D4 Fractal Geometry</a></large>
         </button>
       </h2>
     </div>
@@ -761,9 +765,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3D5">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3D5" aria-expanded="false" aria-controls="collapseMA3D5"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3D5" aria-expanded="false" aria-controls="collapseMA3D5" id="MA3D5"
         disabled>
-          <large>MA3D5 Galois Theory</large>
+          <large><a href="#MA3D5">MA3D5 Galois Theory</a></large>
         </button>
       </h2>
     </div>
@@ -777,9 +781,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3D9">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3D9" aria-expanded="false" aria-controls="collapseMA3D9"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3D9" aria-expanded="false" aria-controls="collapseMA3D9" id="MA3D9"
         disabled>
-          <large>MA3D9 Geometry of Curves and Surfaces</large>
+          <large><a href="#MA3D9">MA3D9 Geometry of Curves and Surfaces</a></large>
         </button>
       </h2>
     </div>
@@ -793,9 +797,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3E1">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3E1" aria-expanded="false" aria-controls="collapseMA3E1"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3E1" aria-expanded="false" aria-controls="collapseMA3E1" id="MA3E1"
         disabled>
-          <large>MA3E1 Groups and Representations</large>
+          <large><a href="#MA3E1">MA3E1 Groups and Representations</a></large>
         </button>
       </h2>
     </div>
@@ -809,8 +813,8 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3F1">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3F1" aria-expanded="false" aria-controls="collapseMA3F1">
-          <large>MA3F1 Introduction to Topology</large>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3F1" aria-expanded="false" aria-controls="collapseMA3F1" id="MA3F1">
+          <large><a href="#MA3F1">MA3F1 Introduction to Topology</a></large>
         </button>
       </h2>
     </div>
@@ -830,9 +834,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3G1">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3G1" aria-expanded="false" aria-controls="collapseMA3G1"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3G1" aria-expanded="false" aria-controls="collapseMA3G1" id="MA3G1"
         disabled>
-          <large>MA3G1 Theory of PDEs</large>
+          <large><a href="#MA3G1">MA3G1 Theory of PDEs</a></large>
         </button>
       </h2>
     </div>
@@ -846,9 +850,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3G6">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3G6" aria-expanded="false" aria-controls="collapseMA3G6"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3G6" aria-expanded="false" aria-controls="collapseMA3G6" id="MA3G6"
         disabled>
-          <large>MA3G6 Commutative Algebra I</large>
+          <large><a href="#MA3G6">MA3G6 Commutative Algebra I</a></large>
         </button>
       </h2>
     </div>
@@ -862,9 +866,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3G7">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3G7" aria-expanded="false" aria-controls="collapseMA3G7"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3G7" aria-expanded="false" aria-controls="collapseMA3G7" id="MA3G7"
         disabled>
-          <large>MA3G7 Functional Analysis I</large>
+          <large><a href="#MA3G7">MA3G7 Functional Analysis I</a></large>
         </button>
       </h2>
     </div>
@@ -878,9 +882,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3G8">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3G8" aria-expanded="false" aria-controls="collapseMA3G8"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3G8" aria-expanded="false" aria-controls="collapseMA3G8" id="MA3G8"
         disabled>
-          <large>MA3G8 Functional Analysis II</large>
+          <large><a href="#MA3G8">MA3G8 Functional Analysis II</a></large>
         </button>
       </h2>
     </div>
@@ -894,9 +898,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3H0">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3H0" aria-expanded="false" aria-controls="collapseMA3H0"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3H0" aria-expanded="false" aria-controls="collapseMA3H0" id="MA3H0"
         disabled>
-          <large>MA3H0 Numerical Analysis and PDEs</large>
+          <large><a href="#MA3H0">MA3H0 Numerical Analysis and PDEs</a></large>
         </button>
       </h2>
     </div>
@@ -910,9 +914,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3H2">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3H2" aria-expanded="false" aria-controls="collapseMA3H2"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3H2" aria-expanded="false" aria-controls="collapseMA3H2" id="MA3H2"
         disabled>
-          <large>MA3H2 Markov Processes and Percolation Theory</large>
+          <large><a href="#MA3H2">MA3H2 Markov Processes and Percolation Theory</a></large>
         </button>
       </h2>
     </div>
@@ -926,8 +930,8 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3H3">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3H3" aria-expanded="false" aria-controls="collapseMA3H3">
-          <large>MA3H3 Set Theory</large>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3H3" aria-expanded="false" aria-controls="collapseMA3H3" id="MA3H3">
+          <large><a href="#MA3H3">MA3H3 Set Theory</a></large>
         </button>
       </h2>
     </div>
@@ -947,9 +951,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3H5">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3H5" aria-expanded="false" aria-controls="collapseMA3H5"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3H5" aria-expanded="false" aria-controls="collapseMA3H5" id="MA3H5"
         disabled>
-          <large>MA3H5 Manifolds</large>
+          <large><a href="#MA3H5">MA3H5 Manifolds</a></large>
         </button>
       </h2>
     </div>
@@ -963,8 +967,8 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3H6">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3H6" aria-expanded="false" aria-controls="collapseMA3H6">
-          <large>MA3H6 Algebraic Topology</large>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3H6" aria-expanded="false" aria-controls="collapseMA3H6" id="MA3H6">
+          <large><a href="#MA3H6">MA3H6 Algebraic Topology</a></large>
         </button>
       </h2>
     </div>
@@ -987,9 +991,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3H7">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3H7" aria-expanded="false" aria-controls="collapseMA3H7"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3H7" aria-expanded="false" aria-controls="collapseMA3H7" id="MA3H7"
         disabled>
-          <large>MA3H7 Control Theory</large>
+          <large><a href="#MA3H7">MA3H7 Control Theory</a></large>
         </button>
       </h2>
     </div>
@@ -1003,8 +1007,8 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3J2">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3J2" aria-expanded="false" aria-controls="collapseMA3J2">
-          <large>MA3J2 Combinatorics II</large>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3J2" aria-expanded="false" aria-controls="collapseMA3J2" id="MA3J2">
+          <large><a href="#MA3J2">MA3J2 Combinatorics II</a></large>
         </button>
       </h2>
     </div>
@@ -1030,9 +1034,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3J3">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3J3" aria-expanded="false" aria-controls="collapseMA3J3"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3J3" aria-expanded="false" aria-controls="collapseMA3J3" id="MA3J3"
         disabled>
-          <large>MA3J3 Bifurcations, Catastrophes, and Symmetry</large>
+          <large><a href="#MA3J3">MA3J3 Bifurcations, Catastrophes, and Symmetry</a></large>
         </button>
       </h2>
     </div>
@@ -1044,15 +1048,15 @@ Note that only the most popular optional external modules have been listed below
       </div>
     </div>
     <!-- -->
-    <div class="card-header" id="headingMA3J3">
+    <div class="card-header" id="headingMA3J4">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3J3" aria-expanded="false" aria-controls="collapseMA3J3"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3J4" aria-expanded="false" aria-controls="collapseMA3J4" id="MA3J4"
         disabled>
-          <large>MA3J4 Mathematical Modelling and PDEs</large>
+          <large><a href="#MA3J4">MA3J4 Mathematical Modelling and PDEs</a></large>
         </button>
       </h2>
     </div>
-    <div id="collapseMA3J3" class="collapse" aria-labelledby="headingMA3J3" data-parent="#accordionY3maths">
+    <div id="collapseMA3J4" class="collapse" aria-labelledby="headingMA3J4" data-parent="#accordionY3maths">
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
@@ -1062,9 +1066,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3K0">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3K0" aria-expanded="false" aria-controls="collapseMA3K0"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3K0" aria-expanded="false" aria-controls="collapseMA3K0" id="MA3K0"
         disabled>
-          <large>MA3K0 High-Dimensional Probability</large>
+          <large><a href="#MA3K0">MA3K0 High-Dimensional Probability</a></large>
         </button>
       </h2>
     </div>
@@ -1078,9 +1082,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3K1">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3K1" aria-expanded="false" aria-controls="collapseMA3K1"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3K1" aria-expanded="false" aria-controls="collapseMA3K1" id="MA3K1"
         disabled>
-          <large>MA3K1 Mathematics of Machine Learning</large>
+          <large><a href="#MA3K1">MA3K1 Mathematics of Machine Learning</a></large>
         </button>
       </h2>
     </div>
@@ -1094,8 +1098,8 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3K4">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3K4" aria-expanded="false" aria-controls="collapseMA3K4">
-          <large>MA3K4 Introduction to Group Theory</large>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3K4" aria-expanded="false" aria-controls="collapseMA3K4" id="MA3K4">
+          <large><a href="#MA3K4">MA3K4 Introduction to Group Theory</a></large>
         </button>
       </h2>
     </div>
@@ -1116,9 +1120,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3K6">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3K6" aria-expanded="false" aria-controls="collapseMA3K6"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3K6" aria-expanded="false" aria-controls="collapseMA3K6" id="MA3K6"
         disabled>
-          <large>MA3K6 Boolean Functions</large>
+          <large><a href="#MA3K6">MA3K6 Boolean Functions</a></large>
         </button>
       </h2>
     </div>
@@ -1132,9 +1136,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3K7">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3K7" aria-expanded="false" aria-controls="collapseMA3K7"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3K7" aria-expanded="false" aria-controls="collapseMA3K7" id="MA3K7"
         disabled>
-          <large>MA3K7 Problem Solving in Python</large>
+          <large><a href="#MA3K7">MA3K7 Problem Solving in Python</a></large>
         </button>
       </h2>
     </div>
@@ -1148,9 +1152,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3K8">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3K8" aria-expanded="false" aria-controls="collapseMA3K8"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3K8" aria-expanded="false" aria-controls="collapseMA3K8" id="MA3K8"
         disabled>
-          <large>MA3K8 Variational Principles</large>
+          <large><a href="#MA3K8">MA3K8 Variational Principles</a></large>
         </button>
       </h2>
     </div>
@@ -1164,9 +1168,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3K9">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3K9" aria-expanded="false" aria-controls="collapseMA3K9"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3K9" aria-expanded="false" aria-controls="collapseMA3K9" id="MA3K9"
         disabled>
-          <large>MA3K9 Mathematics of Digital Signal Processing</large>
+          <large><a href="#MA3K9">MA3K9 Mathematics of Digital Signal Processing</a></large>
         </button>
       </h2>
     </div>
@@ -1180,9 +1184,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3L1">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3L1" aria-expanded="false" aria-controls="collapseMA3L1"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3L1" aria-expanded="false" aria-controls="collapseMA3L1" id="MA3L1"
         disabled>
-          <large>MA3L1 Topics in Set Theory</large>
+          <large><a href="#MA3L1">MA3L1 Topics in Set Theory</a></large>
         </button>
       </h2>
     </div>
@@ -1196,9 +1200,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3L2">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3L2" aria-expanded="false" aria-controls="collapseMA3L2"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3L2" aria-expanded="false" aria-controls="collapseMA3L2" id="MA3L2"
         disabled>
-          <large>MA3L2 Optimisation</large>
+          <large><a href="#MA3L2">MA3L2 Optimisation</a></large>
         </button>
       </h2>
     </div>
@@ -1212,9 +1216,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3L3">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3L3" aria-expanded="false" aria-controls="collapseMA3L3"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3L3" aria-expanded="false" aria-controls="collapseMA3L3" id="MA3L3"
         disabled>
-          <large>MA3L3 Communicating Mathematics</large>
+          <large><a href="#MA3L3">MA3L3 Communicating Mathematics</a></large>
         </button>
       </h2>
     </div>
@@ -1228,9 +1232,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <!-- <div class="card-header" id="headingMAXYZ">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMAXYZ" aria-expanded="false" aria-controls="collapseMAXYZ"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMAXYZ" aria-expanded="false" aria-controls="collapseMAXYZ"  id="MAXYZ"
         disabled>
-          <large>MAXYZ</large>
+          <large><a href="#MAXYZ">MAXYZ</a></large>
         </button>
       </h2>
     </div>
@@ -1253,9 +1257,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingCS301">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS301" aria-expanded="false" aria-controls="collapseCS301"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS301" aria-expanded="false" aria-controls="collapseCS301" id="CS301"
         disabled>
-          <large>CS301 Complexity of Algorithms</large>
+          <large><a href="#CS301">CS301 Complexity of Algorithms <a href="#CS301">#</a></a></large>
         </button>
       </h2>
     </div>
@@ -1269,9 +1273,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingCS356">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS356" aria-expanded="false" aria-controls="collapseCS356"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS356" aria-expanded="false" aria-controls="collapseCS356" id="CS356"
         disabled>
-          <large>CS356 Approximation and Randomised Algorithms</large>
+          <large><a href="#CS356">CS356 Approximation and Randomised Algorithms</a></large>
         </button>
       </h2>
     </div>
@@ -1285,9 +1289,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingEP304">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseEP304" aria-expanded="false" aria-controls="collapseEP304"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseEP304" aria-expanded="false" aria-controls="collapseEP304" id="EP304"
         disabled>
-          <large>EP304 Introduction to Secondary Maths Teaching/Education</large>
+          <large><a href="#EP304">EP304 Introduction to Secondary Maths Teaching/Education</a></large>
         </button>
       </h2>
     </div>
@@ -1301,9 +1305,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingPH340">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePH340" aria-expanded="false" aria-controls="collapsePH340"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePH340" aria-expanded="false" aria-controls="collapsePH340" id="PH340"
         disabled>
-          <large>PH340 Logic III: Incompleteness and Undecidability</large>
+          <large><a href="#PH340">PH340 Logic III: Incompleteness and Undecidability</a></large>
         </button>
       </h2>
     </div>
@@ -1317,9 +1321,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingPH345">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePH345" aria-expanded="false" aria-controls="collapsePH345"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePH345" aria-expanded="false" aria-controls="collapsePH345" id="PH345"
         disabled>
-          <large>PH345 Computability Theory</large>
+          <large><a href="#PH345">PH345 Computability Theory</a></large>
         </button>
       </h2>
     </div>
@@ -1333,9 +1337,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingPX390">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX390" aria-expanded="false" aria-controls="collapsePX390"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX390" aria-expanded="false" aria-controls="collapsePX390" id="PX390"
         disabled>
-          <large>PX390 Scientific Programming</large>
+          <large><a href="#PX390">PX390 Scientific Programming</a></large>
         </button>
       </h2>
     </div>
@@ -1349,9 +1353,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingST301">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseST301" aria-expanded="false" aria-controls="collapseST301"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseST301" aria-expanded="false" aria-controls="collapseST301" id="ST301"
         disabled>
-          <large>ST301 Bayesian Statistics and Decision Theory</large>
+          <large><a href="#ST301">ST301 Bayesian Statistics and Decision Theory</a></large>
         </button>
       </h2>
     </div>
@@ -1365,9 +1369,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingST318">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseST318" aria-expanded="false" aria-controls="collapseST318"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseST318" aria-expanded="false" aria-controls="collapseST318" id="ST318"
         disabled>
-          <large>ST318 Probability Theory</large>
+          <large><a href="#ST318">ST318 Probability Theory</a></large>
         </button>
       </h2>
     </div>
@@ -1381,9 +1385,9 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingST343">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseST343" aria-expanded="false" aria-controls="collapseST343"
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseST343" aria-expanded="false" aria-controls="collapseST343" id="ST343"
         disabled>
-          <large>ST343 Topics in Data Science</large>
+          <large><a href="#ST343">ST343 Topics in Data Science</a></large>
         </button>
       </h2>
     </div>
