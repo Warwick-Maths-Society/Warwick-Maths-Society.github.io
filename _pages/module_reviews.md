@@ -13,6 +13,21 @@ a:link {
   background-color: transparent;
   text-decoration: none;
 }
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
 html {
   scroll-behavior: smooth;
   scroll-padding-top: 4rem;
