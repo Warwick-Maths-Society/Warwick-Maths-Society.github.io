@@ -9,7 +9,6 @@
 - [ ] New post
 - [ ] Essay contribution
 - [ ] Module Review contribution
-
 - [ ] Bugfix
 - [ ] Added graphics
 - [ ] New feature
