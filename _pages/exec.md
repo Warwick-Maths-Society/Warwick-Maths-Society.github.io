@@ -11,7 +11,7 @@ header_type:
 
 ---
 
-### President&ensp;<small class="text-muted">Kitty Powel</small>
+### President&ensp;<small class="text-muted">Kitty Powell</small>
 
 The President is the overall leader of the society, and is in charge of:
 
