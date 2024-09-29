@@ -8,7 +8,7 @@
 
 This is the official website for the Warwick Maths Society.
 
-You can add posts or request changes by making a fork of the `develop` branch and opening a [pull request](https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io/pulls).
+You can add posts or request changes by making a fork of the `main` branch and opening a [pull request](https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io/pulls).
 
 The sources for the essay, module review, exec, etc., pages can be found in the [_pages](https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io/tree/develop/_pages) directory.
 
