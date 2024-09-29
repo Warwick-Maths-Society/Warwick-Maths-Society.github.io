@@ -67,7 +67,7 @@ body {
     {% assign post = site.posts.first %}
     <a href="{{ post.url }}">
         <h3>{{ post.title }}</h3>
-        <p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
     </a>
-    <div>{{ post.content | truncatehtml | truncatewords: 60 }}</div>
+    <p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
+    <p>{{ post.content | strip_html | truncatewords: 60 }}</p>
 </div>
