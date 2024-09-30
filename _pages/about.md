@@ -64,6 +64,9 @@ We run a termly Board Games night, where you meet other members and hustle your 
 
 ### Integration Bee
 
--
+Interested in showing off your integration skills? Teams of two or three students can represent Warwick in the annual UK University Integration Bee. Round I takes place late in Term 1 here at Warwick, with the best teams moving on to Round II, which is hosted at the University of Cambridge in Term 2.
+
+We also host a Drunk Integration Bee each year, where individual students compete against each other in an MIT-style competition. Bring your own booze!
+
 
 <br/>
