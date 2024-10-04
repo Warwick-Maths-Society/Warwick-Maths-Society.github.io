@@ -1274,7 +1274,7 @@ Note that only the most popular optional external modules have been listed below
       <h2 class="m-0">
         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS301" aria-expanded="false" aria-controls="collapseCS301" id="CS301"
         disabled>
-          <large><a href="#CS301">CS301 Complexity of Algorithms <a href="#CS301">#</a></a></large>
+          <large><a href="#CS301">CS301 Complexity of Algorithms</a></large>
         </button>
       </h2>
     </div>
