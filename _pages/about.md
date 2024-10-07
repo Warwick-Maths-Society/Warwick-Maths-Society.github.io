@@ -18,7 +18,7 @@ Every Wednesday, we run a drop-in help session in the undergraduate workroom wit
 
 ### Revision Guides
 
-We have <a href="/module-reviews">a collection</a> of condensed module notes/additional revision material. The majority of these were written by Kit L. who was in the 21/22 intake, and the curriculum has changed since they were created, so some of the older guides are slightly dated. However, they should still serve as useful revision material.
+We have <a href="https://drive.google.com/drive/folders/15cWYdWuzEWe67IeKdMhfGa260dhm1clE">a collection</a> of condensed module notes/additional revision material. The majority of these were written by Kit L. (21/22 intake) and the curriculum has changed since they were created, so some of the older guides are slightly dated. However, they should still serve as useful revision material.
 
 A more complete reference book which may also be useful can be found <a href="https://desyncthethird.github.io/Reference.pdf">here</a>.
 
