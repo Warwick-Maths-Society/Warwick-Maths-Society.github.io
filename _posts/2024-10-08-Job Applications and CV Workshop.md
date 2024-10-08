@@ -18,7 +18,7 @@ author:
 # include_on_search : false
 ---
 
-In a collaboration between WMS and the Careers Service, we are tunning a job applications and CV writing workshop at **1400**
+In a collaboration between WMS and the Careers Service, we are running a job applications and CV writing workshop at **1400** today.
 
 In this Mathematics Society/Careers service event, we will discuss how to create effective CVs and cover letters. We will also look at using the *STAR* technique to answer on line competency style questions.
 
