@@ -22,4 +22,4 @@ Applications for joining the **WMS Netball team** are now open! The WMS Netball 
 
 Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdpAz5pnO22NLS5NjvCOb_gE9cuoqNMt7-Yjo9dyXdaS3kxfQ/viewform) if you are interested in joining us!
 
-See also [this link](https://warwick.ac.uk/services/sport/active/leagues/netball-rules/) for the university rules and regulations for netball
+See also [this link](https://warwick.ac.uk/services/sport/active/leagues/netball-rules/) for the university rules and regulations for netball.

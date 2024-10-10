@@ -16,10 +16,10 @@ The template for new posts can be found [here](https://github.com/Warwick-Maths-
 
 Please tag your posts with some or all of the following:
 
-|     |     |     |     |     |
-| --- | --- | --- | --- | --- |
-| Tag | [year]    |`events`                        | `updates`             | `talks`      |
-| For | all posts | socials, circles, competitions | elections, ball, WIMP | weekly talks |
+|     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- |
+| Tag | [year]    |`events`                        | `updates`             | `talks`      | `sport` |
+| For | all posts | socials, circles, competitions | elections, ball, WIMP | weekly talks | sport   |
 
 # Maintainers
 
