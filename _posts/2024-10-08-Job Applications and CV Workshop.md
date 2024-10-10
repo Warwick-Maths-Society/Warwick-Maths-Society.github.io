@@ -1,7 +1,7 @@
 ---
 title: Job Applications and CV Workshop
 subtitle: Careers Service Collaboration
-tags: [2024] # events, year, updates, talks
+tags: [2024, events] # events, year, updates, talks
 
 # Uncomment if post needs to be amended
 # last_modified_at: 2024-10-03
