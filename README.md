@@ -10,9 +10,9 @@ This is the official website for the Warwick Maths Society.
 
 You can add posts or request changes by making a fork of the `main` branch and opening a [pull request](https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io/pulls).
 
-The sources for the essay, module review, exec, etc., pages can be found in the [_pages](https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io/tree/develop/_pages) directory.
+The sources for the essay, module review, exec, etc., pages can be found in the [_pages](https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io/tree/main/_pages) directory.
 
-The template for new posts can be found [here](https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io/blob/main/_posts/YYYY-MM-DD-template.md), and quick reference sheets for markdown/kramdown can be found [here](https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io/tree/develop/_cheatsheet) ([live](https://warwick-maths-society.github.io/cheatsheets)).
+The template for new posts can be found [here](https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io/blob/main/_posts/YYYY-MM-DD-template.md), and quick reference sheets for markdown/kramdown can be found [here](https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io/tree/main/_cheatsheet) ([live](https://warwick-maths-society.github.io/cheatsheets)).
 
 Please tag your posts with some or all of the following:
 
