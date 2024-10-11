@@ -668,17 +668,19 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA377">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA377" aria-expanded="false" aria-controls="collapseMA377" id="MA377"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA377" aria-expanded="false" aria-controls="collapseMA377" id="MA377">
           <large><a href="#MA377">MA377 Rings and Modules</a></large>
         </button>
       </h2>
     </div>
     <div id="collapseMA377" class="collapse" aria-labelledby="headingMA377" data-parent="#accordionY3maths">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">23/24</large>
         <br/>
-        review here
+        This is a module where you will very much want to go to lectures - the pace is fairly fast and the Modules half of the module title does a lot of heavy lifting. There is also a fairly long section on division rings, which you may find interesting if you have ever looked at quaternions before.
+        <br/><br/>
+        There are also lots of smaller topics, often just strung together because they are vaguely related. On the other hand, there aren't many long nasty proofs, and if you enjoy following your nose to prove definitions make sense, you will definitely like this module. I recommend this module for anyone who enjoys learning lots of definitions.
+The exam was fairly hard but doable, although this may change with the new lecturer. I suggest trying the past papers well in advance.
       </div>
     </div>
     <!-- -->
@@ -788,9 +790,9 @@ Note that only the most popular optional external modules have been listed below
     </div>
     <div id="collapseMA3D5" class="collapse" aria-labelledby="headingMA3D5" data-parent="#accordionY3maths">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">23/24</large>
         <br/>
-        review here
+I found this module fascinating, but rather disorganised (although that may have changed as Gavin is no longer lecturing). The exam was really great, and the example sheets were also very nice. The main focus of the module is field extensions and using them to do things like prove that there is no general formula for the roots of a quintic; it's a really nice module if you're interested why such things are true. That said, there are a lot of new definitions, and a fair bit of time is spent reviewing stuff from previous modules.
       </div>
     </div>
     <!-- -->
@@ -820,9 +822,11 @@ Note that only the most popular optional external modules have been listed below
     </div>
     <div id="collapseMA3E1" class="collapse" aria-labelledby="headingMA3E1" data-parent="#accordionY3maths">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">23/24</large>
         <br/>
-        review here
+The module starts, as most algebra modules do, with a sweeping review of basic definitions, but after that it picks up and dives straight into group representations and their characters (these are less scary than they may sound). You will encounter lots of new definitions, but nothing particularly onerous is done with them theoretically; the module is mostly engaged in the practical finding of representations and characters. 
+      <br/><br/>
+The lecture notes are excellent; the lectures were less so, I found, although part of it was that they were either late or early and everyone was tired.
       </div>
     </div>
     <!-- -->
@@ -1057,9 +1061,13 @@ Note that only the most popular optional external modules have been listed below
     </div>
     <div id="collapseMA3J3" class="collapse" aria-labelledby="headingMA3J3" data-parent="#accordionY3maths">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">23/24</large>
         <br/>
-        review here
+        The best part of this module for me was Dave. In all seriousness, it is very interesting. If you are expecting a "nice", practical ODEs module, though, this is not it; there is lots of theory and there are several Big Theorems, many of which are helpfully left unproved to make them more difficult to remember.
+  <br/><br/>
+    As the module name suggests, it is split into three sections: bifurcations, catastrophes, and symmetries. Bifurcations are when the number or type of fixed points changes; expect to draw lots of diagrams. In the catastrophes section you will also draw lots of diagrams, but in between the diagrams there is a lot of fairly dense theory. The symmetries section is essentially just some applied group theory, along with bug facts - I suspect it's mostly there so we can talk about bug gaits. 
+    <br/><br/>
+    The exam tends to be a fair mix of all three topics and very doable. The papers are not in a strict format but they are usually fairly similar from one year to the next.
       </div>
     </div>
     <!-- -->
