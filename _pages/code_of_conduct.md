@@ -20,17 +20,17 @@ As a member of our Society, we will expect you to follow our Code of Conduct on 
 5. Please keep political, religious, and other often-inflammatory or volatile discussions at a minimum at our Events.
   * We recognise that such conversations are important and may be productive, but unfortunately, they often are not. In any case, our Events are not the appropriate forum for these discussions.
 6. Do not share explicit, disturbing, or distressing content on any of our online platforms.
+  * Do not post unsolicited advertisements.
   * Do not post any content illegal under UK law, i.e. doxxing, pirated content, etc.
-  * Do not post unsolicited advertisements on any of our platforms.
 
 
 
 These rules should generally be common sense, so we expect that there shouldn't be any problems with following them.
 
-Failure to comply with this Code on any of our online platforms or at any of our Events can result in expulsion from the platform, Event, or Society as a whole.
-
 These rules are enforced entirely at the discretion of the Exec running each Event or the admins on our online platforms, and any decisions made are final. If they ask you to stop doing something, stop doing it.
 
 If you see someone behaving inappropriately on our platforms or at an Event, please get in contact with any of our Exec.
+
+Failure to comply with this Code on any of our online platforms or at any of our Events can result in expulsion from the platform, Event, or Society as a whole.
 
 We will very rarely decide to expel someone from the Society or from attending our Events, but in such cases, the behaviour will been overwhelmingly detrimental, offensive, or malicious to the point where we believe that the offender is unlikely to meaningfully improve; thus, if you have been barred from our Events, **appeals will not be entertained**.

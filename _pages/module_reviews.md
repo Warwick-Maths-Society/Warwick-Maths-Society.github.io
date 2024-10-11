@@ -1120,8 +1120,7 @@ Note that only the most popular optional external modules have been listed below
     </div>
     <div id="collapseMA3K4" class="collapse" aria-labelledby="headingMA3K4" data-parent="#accordionY3maths">
       <div class="card-body">
-        <large class="text-muted">
-        23/24</large>
+        <large class="text-muted">23/24</large>
         <br/>
         This module is concerned almost exclusively with finite groups. Most of the content is in the year 2 algebra module, but is covered in more detail and some proofs omitted in previous modules are covered here. Apart from this, the new material is on soluble groups, composition series and the Jordan-Hölder theorem, and classifying finite groups of small order.
         <br/>
