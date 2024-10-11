@@ -782,8 +782,7 @@ The exam was fairly hard but doable, although this may change with the new lectu
     <!-- -->
     <div class="card-header" id="headingMA3D5">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3D5" aria-expanded="false" aria-controls="collapseMA3D5" id="MA3D5"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3D5" aria-expanded="false" aria-controls="collapseMA3D5" id="MA3D5">
           <large><a href="#MA3D5">MA3D5 Galois Theory</a></large>
         </button>
       </h2>
@@ -814,8 +813,7 @@ I found this module fascinating, but rather disorganised (although that may have
     <!-- -->
     <div class="card-header" id="headingMA3E1">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3E1" aria-expanded="false" aria-controls="collapseMA3E1" id="MA3E1"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3E1" aria-expanded="false" aria-controls="collapseMA3E1" id="MA3E1">
           <large><a href="#MA3E1">MA3E1 Groups and Representations</a></large>
         </button>
       </h2>
@@ -1053,8 +1051,7 @@ The lecture notes are excellent; the lectures were less so, I found, although pa
     <!-- -->
     <div class="card-header" id="headingMA3J3">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3J3" aria-expanded="false" aria-controls="collapseMA3J3" id="MA3J3"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3J3" aria-expanded="false" aria-controls="collapseMA3J3" id="MA3J3>
           <large><a href="#MA3J3">MA3J3 Bifurcations, Catastrophes, and Symmetry</a></large>
         </button>
       </h2>
