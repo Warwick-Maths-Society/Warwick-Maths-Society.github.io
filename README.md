@@ -26,15 +26,14 @@ Maintenance will be taken over by the Publications Officer once one is elected.
 
 Thank you for looking in to contributing!
 
-You do not need to install anything to contribute; in this case, you will not be able to preview your changes, and you should indicate that this is the case in your pull request.
-That is, you should tick the second box in the last section of the pull request template:
+You do not need to install anything to contribute. However, you will not be able to preview your changes, and you should indicate in your pull request that this is the case by checking the second box in the last section of the pull request template:
 
 > - [ ] I have built and tested these changes locally or otherwise, and confirm that they work and don't break existing functionality.
 > - [x] I have not built these changes locally or otherwise, and require someone to review these changes for me.
 
 ## Previewing Changes
 
-If you would like to preview your changes, you will need to install [Ruby](https://www.ruby-lang.org/en/documentation/installation/) and [Jekyll](https://jekyllrb.com/docs/installation/) in order to build your site locally.
+If you would like to preview your changes locally, you will need to install [Ruby](https://www.ruby-lang.org/en/documentation/installation/) and [Jekyll](https://jekyllrb.com/docs/installation/) in order to build your site locally.
 
 ---
 
@@ -186,13 +185,13 @@ Each module review will look something like this:
 
 with empty comment lines marking the boundaries of each review.
 
-If a review does not already exist:
+#### If a review does not already exist:
 1. Replace the `review here` line with the review. See existing reviews for formatting conventions.
 2. Delete the `disabled` attribute from the button (which is helpfully written on a separate line).
 
 > ⚠️ Do not remove the closing angle bracket (`>`); just move this to the end of the line above to keep things neat.
 
-If a review already exists:
+#### If a review already exists:
 1. Add two new lines (`<br/>`) **above** the year line of the **highest** older review at the top of the list.
 2. Stack the new review on top (including adding a copy of the year line), formatting the new review as usual.
 
@@ -236,7 +235,7 @@ To contribute your essay
 
 > ⚠️ Your file must be a PDF.
 
-2. Copy it into `assets/essay-2` or `assets/essay-3`, depending on whether it is a second or third year essay.
+2. Copy it into [`assets/essays-2`](assets/essays-2) or [`assets/essays-3`](assets/essays-3), depending on whether it is a second or third year essay.
 
 3. Navigate to the [essay page](_pages/essays.md).
 
@@ -245,8 +244,7 @@ To contribute your essay
    ```html
    <tr>
      <td>[mark]</td>
-     <td><a target="_blank" href="./assets/essays-[2|3]/
-   [mark] - [full essay name].pdf">[full essay name]</a></td>
+     <td><a target="_blank" href="./assets/essays-[2|3]/[mark] - [full essay name].pdf">[full essay name]</a></td>
    </tr>
    ```
 
