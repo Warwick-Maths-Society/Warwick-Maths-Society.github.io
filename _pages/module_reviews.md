@@ -389,7 +389,7 @@ Note that only the most popular optional external modules have been listed below
         <br/>
         This module — optional core for BSc (along with MA266) and (thankfully) core for MMath — is a fantastic choice for anyone who has enjoyed previous courses in analysis, vector calculus, and partial differential equations, and is invaluable for any future analysis, modelling, or applied mathematics modules! The module begins by rehashing some material from Analysis 3 — in particular, the definitions of continuity and differentiability in <i>n</i>-dimensions; a comparison of the directional, frechet and partial derivatives; operator norms; and dual spaces. You are then introduced to the powerful inverse and implicit function theorems, which are proved thoroughly and then are demonstrated in their use with multiple examples. The later half of the module then explores some topics previously seen in Modelling 2, but focusses on proof as well as application: the notion of the Hessian, the commutativity of partial derivatives, the second order Taylor expansion, critical point classification, integrating in higher dimensions (i.e. higher dimensional Riemann integration) and Fubini's theorem, the notion of flux, and the divergence theorem are all studied rigorously and proved. The notion of measure is also first hinted at along the way, with the idea of measure zero sets.
         <br/><br/>
-        The notes are very well written and make use of a good balance of proofs and examples, and work well with the worksheets - an excellent course text recommended by the lecturer, <i> Calculus on Manifolds</i> by Spivak, also complements these well. The greatest strength of this module however is the lecturer himself, who takes a potentially very difficult subject which you would expect to be unintuitive and makes it not just seem intuitive, but also fascinating and worthy of further exploration - the lectures for this were some of the best I have attended in my 2 years here so far. The 23/24 exam for this module was a very good mix of bookwork and computation, but this was the first year this module has run in its current form, so future papers might be slightly different. While similar, the question style especially is rather different to the prior equivalent of this module, so there might not be many past papers available, but the worksheets are very good for practice. If you are a BSc student or a joint degree at all interested in potentially doing any analysis, partial differential equations, physics, or mathematical modelling that involves vector calculus in third year, it is not just recommended but essential to take this module (it is core for MMath for a reason) and I would thoroughly recommend it!
+        The notes are very well written and make use of a good balance of proofs and examples, and work well with the worksheets — an excellent course text recommended by the lecturer, <i> Calculus on Manifolds</i> by Spivak, also complements these well. The greatest strength of this module however is the lecturer himself, who takes a potentially very difficult subject which you would expect to be unintuitive and makes it not just seem intuitive, but also fascinating and worthy of further exploration — the lectures for this were some of the best I have attended in my 2 years here so far. The 23/24 exam for this module was a very good mix of bookwork and computation, but this was the first year this module has run in its current form, so future papers might be slightly different. While similar, the question style especially is rather different to the prior equivalent of this module, so there might not be many past papers available, but the worksheets are very good for practice. If you are a BSc student or a joint degree at all interested in potentially doing any analysis, partial differential equations, physics, or mathematical modelling that involves vector calculus in third year, it is not just recommended but essential to take this module (it is core for MMath for a reason) and I would thoroughly recommend it!
       </div>
     </div>
     <!-- -->
@@ -668,17 +668,22 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA377">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA377" aria-expanded="false" aria-controls="collapseMA377" id="MA377"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA377" aria-expanded="false" aria-controls="collapseMA377" id="MA377">
           <large><a href="#MA377">MA377 Rings and Modules</a></large>
         </button>
       </h2>
     </div>
     <div id="collapseMA377" class="collapse" aria-labelledby="headingMA377" data-parent="#accordionY3maths">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">23/24</large>
         <br/>
-        review here
+        This is a module where you will very much want to go to lectures — the pace is fairly fast and the <i>Modules</i> half of the module title does a lot of heavy lifting. There is also a fairly long section on division rings, which you may find interesting if you have ever looked at quaternions before.
+        <br/>
+        <br/>
+        There are also lots of smaller topics — often just strung together because they are vaguely related. On the other hand, there aren't many long nasty proofs, and if you enjoy following your nose to prove that definitions make sense, you will definitely like this module. I recommend this module for anyone who enjoys learning lots of definitions.
+        <br/>
+        <br/>
+        The exam was fairly hard but doable, although this may change with the new lecturer. I suggest trying the past papers well in advance.
       </div>
     </div>
     <!-- -->
@@ -780,17 +785,16 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3D5">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3D5" aria-expanded="false" aria-controls="collapseMA3D5" id="MA3D5"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3D5" aria-expanded="false" aria-controls="collapseMA3D5" id="MA3D5">
           <large><a href="#MA3D5">MA3D5 Galois Theory</a></large>
         </button>
       </h2>
     </div>
     <div id="collapseMA3D5" class="collapse" aria-labelledby="headingMA3D5" data-parent="#accordionY3maths">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">23/24</large>
         <br/>
-        review here
+        I found this module fascinating, but rather disorganised (although that may have changed as Gavin is no longer lecturing). The exam was really great, and the example sheets were also very nice. The main focus of the module is field extensions and using them to do things like proving that there is no general formula for the roots of a quintic; it's a really nice module if you're interested why such things are true. That said, there are a lot of new definitions, and a fair bit of time is spent reviewing stuff from previous modules.
       </div>
     </div>
     <!-- -->
@@ -812,17 +816,19 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3E1">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3E1" aria-expanded="false" aria-controls="collapseMA3E1" id="MA3E1"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3E1" aria-expanded="false" aria-controls="collapseMA3E1" id="MA3E1">
           <large><a href="#MA3E1">MA3E1 Groups and Representations</a></large>
         </button>
       </h2>
     </div>
     <div id="collapseMA3E1" class="collapse" aria-labelledby="headingMA3E1" data-parent="#accordionY3maths">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">23/24</large>
         <br/>
-        review here
+        The module starts — as most algebra modules do — with a sweeping review of basic definitions; but after that, it picks up and dives straight into group representations and their characters (these are less scary than they may sound). You will encounter lots of new definitions, but nothing particularly onerous is done with them theoretically; the module is mostly engaged in the practical finding of representations and characters. 
+        <br/>
+        <br/>
+        The lecture notes are excellent; the lectures were less so, I found — although part of it was that they were either late or early and everyone was tired.
       </div>
     </div>
     <!-- -->
@@ -1049,17 +1055,20 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3J3">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3J3" aria-expanded="false" aria-controls="collapseMA3J3" id="MA3J3"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3J3" aria-expanded="false" aria-controls="collapseMA3J3" id="MA3J3">
           <large><a href="#MA3J3">MA3J3 Bifurcations, Catastrophes, and Symmetry</a></large>
         </button>
       </h2>
     </div>
     <div id="collapseMA3J3" class="collapse" aria-labelledby="headingMA3J3" data-parent="#accordionY3maths">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">23/24</large>
         <br/>
-        review here
+        The best part of this module for me was Dave. In all seriousness, it is very interesting. If you are expecting a "nice", practical ODEs module, though, this is not it; there is lots of theory and there are several Big Theorems, many of which are helpfully left unproved to make them more difficult to remember.
+  <br/><br/>
+    As the module name suggests, it is split into three sections: bifurcations, catastrophes, and symmetries. Bifurcations are when the number or type of fixed points changes; expect to draw lots of diagrams. In the catastrophes section you will also draw lots of diagrams, but in between the diagrams there is a lot of fairly dense theory. The symmetries section is essentially just some applied group theory, along with bug facts — I suspect it's mostly there so we can talk about bug gaits. 
+    <br/><br/>
+    The exam tends to be a fair mix of all three topics and very doable. The papers are not in a strict format but they are usually fairly similar from one year to the next.
       </div>
     </div>
     <!-- -->
@@ -1120,8 +1129,7 @@ Note that only the most popular optional external modules have been listed below
     </div>
     <div id="collapseMA3K4" class="collapse" aria-labelledby="headingMA3K4" data-parent="#accordionY3maths">
       <div class="card-body">
-        <large class="text-muted">
-        23/24</large>
+        <large class="text-muted">23/24</large>
         <br/>
         This module is concerned almost exclusively with finite groups. Most of the content is in the year 2 algebra module, but is covered in more detail and some proofs omitted in previous modules are covered here. Apart from this, the new material is on soluble groups, composition series and the Jordan-Hölder theorem, and classifying finite groups of small order.
         <br/>
@@ -1274,7 +1282,7 @@ Note that only the most popular optional external modules have been listed below
       <h2 class="m-0">
         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS301" aria-expanded="false" aria-controls="collapseCS301" id="CS301"
         disabled>
-          <large><a href="#CS301">CS301 Complexity of Algorithms <a href="#CS301">#</a></a></large>
+          <large><a href="#CS301">CS301 Complexity of Algorithms</a></large>
         </button>
       </h2>
     </div>
