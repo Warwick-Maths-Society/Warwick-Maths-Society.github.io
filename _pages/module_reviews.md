@@ -1055,7 +1055,7 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingMA3J3">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3J3" aria-expanded="false" aria-controls="collapseMA3J3" id="MA3J3>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3J3" aria-expanded="false" aria-controls="collapseMA3J3" id="MA3J3">
           <large><a href="#MA3J3">MA3J3 Bifurcations, Catastrophes, and Symmetry</a></large>
         </button>
       </h2>
