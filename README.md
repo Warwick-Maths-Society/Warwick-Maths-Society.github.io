@@ -255,7 +255,7 @@ To contribute your essay
 
 > ℹ️ This section should only be relevant to Exec or other authorised persons; pull requests for unauthorised posts will be closed without discussion.
 
-The template for new posts (`YYYY-MM-DD-template.md`) can be found [here](_posts/YYYY-MM-DD-template.md), and quick reference sheets for markdown/kramdown can be found [here](_cheatsheet) (or [live](https://warwick-maths-society.github.io/cheatsheets)). New posts should be placed in the [_pages](_pages) directory (i.e. the same folder as the post template).
+The template for new posts (`YYYY-MM-DD-template.md`) can be found [here](_posts/YYYY-MM-DD-template.md), and quick reference sheets for markdown/kramdown can be found [here](_cheatsheet) (or [live](https://warwick-maths-society.github.io/cheatsheets)). New posts should be placed in the [_posts](_posts) directory (i.e. the same folder as the post template).
 
 Rename your copy of the template post in the following format `YYYY-MM-DD-<name>.md`, and see the included instructions for more details.
 
