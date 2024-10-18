@@ -164,17 +164,25 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingPX157">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX157" aria-expanded="false" aria-controls="collapsePX157" id="PX157"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX157" aria-expanded="false" aria-controls="collapsePX157" id="PX157">
           <large><a href="#PX157">PX157 Electricity and Magnetism</a></large>
         </button>
       </h2>
     </div>
     <div id="collapsePX157" class="collapse" aria-labelledby="headingPX157" data-parent="#accordionY1misc">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">23/24</large>
         <br/>
-        review here
+        PX157 consists of two parts: Electricity (Weeks 1-6), and Magnetism (Weeks 7-10). The module is 100% assessed by exam, but 10 problem sheets are available for practice. Weeks 1-6 cover elementary electrostatics as well as important results such as electrostatics, surface/volume integrals, Gauss’ Law, Coulomb’s Law, dielectrics, and capacitors. The remaining weeks serve as an introduction to magnetism and ‘fitting it in’ with electricity through concepts like magnetostatics, Ampère’s Law, Faraday’s Law, and LRC circuitry. Any future physics modules reliant on electrodynamics and electromagnetism (such as PX384: Electrodynamics) will naturally require a strong foundation in both electricity and magnetism, making this module an effective prerequisite. The module has strong synergies with Modelling 2 and Classical Mechanics (PX155).
+        <br/>
+        <br/>
+        I highly recommend this module to any student with an interest in physics. The lecture notes are excellent, featuring highly detailed derivations, examples and equation tables to aid revision. The content covered is more mathematically heavy than in other physics modules, and techniques learned in MA modules will come into play. Students who have not taken PX155 may be unfamiliar with concepts that physics students are typically comfortable with, such as the work-energy theorem or parts of rotational mechanics, but this is a minor disadvantage if you are willing to put in effort to keep up.
+        <br/>
+        <br/>
+        Each assignment typically only has 2 assessed questions, but they are a step-up in difficulty from typical weekly assignments and take time to work through carefully. This helps prepare for the exam, which usually has a 60% pass rate and features a ‘differentiator’ question that is noticeably harder than the rest. Revision lectures were held in the final week of the module, during which past papers were discussed and common mistakes/misconceptions were noted. Despite the difficulty of the exams, they are structured well, and there is only a small subset of questions that can realistically be asked.
+        <br/>
+        <br/>
+        Overall, PX157 is a well-designed and enjoyable module that anyone interested in physics or is simply curious enough should consider taking.
       </div>
     </div>
     <!-- -->
