@@ -99,11 +99,15 @@ navbar:
     
   nav:
   - title   : About
-    url     : /about
+    child   :
+      - title : About
+        url   : /about
+      - title : Exec
+        url   : /exec
+      - title : Code of Conduct
+        url   : /code-of-conduct
   - title   : Posts
     url     : /blog
-  - title   : Exec
-    url     : /exec
   - title   : Essays
     url     : /essays
   - title   : Revision Guides
@@ -112,11 +116,8 @@ navbar:
     url     : /module-reviews
   - title   : Book Reviews
     url     : /book-reviews
-        
   #- title   : Contact
   #  url     : /contact
-  - title   : Code of Conduct
-    url     : /code-of-conduct
 
 #Social links to be placed on your site footer
 footer:
