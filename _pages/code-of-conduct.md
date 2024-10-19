@@ -1,7 +1,7 @@
 ---
 title: Code of Conduct
 subtitle: 
-permalink: /code_of_conduct
+permalink: /code-of-conduct
 date: 2024-06-26
 last_modified_at: 2024-09-28
 header_type:
