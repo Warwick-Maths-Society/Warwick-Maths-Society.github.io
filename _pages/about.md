@@ -8,6 +8,16 @@ header_type: hero
 ---
 The mission of WMS is to serve students of all years and departments at Warwick who are interested in mathematics through its academic resources, talks, and social events. We aim to promote the communication and uses of mathematics; support mathematical education at all levels; encourage and facilitate full participation of all individuals; and foster an awareness and appreciation of mathematics and its connections to other disciplines and everyday life.
 
+# Contacts
+
+See our other social media listed below:
+
+- [Instagram](https://www.instagram.com/warwickmathssociety);
+- [Discord server](https://discord.com/invite/UWrqB93gfh);
+- [Facebook](https://www.facebook.com/warwickmathssociety);
+- [X](https://x.com/mathssociety) (formerly *Twitter*);
+- The [GitHub repository](https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io) for this website. (Please feel free to contribute!)
+
 # Academics
 
 ### Maths Café

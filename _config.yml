@@ -106,16 +106,17 @@ navbar:
     url     : /exec
   - title   : Essays
     url     : /essays
-  - title   : Modules
-    child   :
-      - title : Revision Guides
-        url   : https://drive.google.com/drive/u/3/folders/15cWYdWuzEWe67IeKdMhfGa260dhm1clE
-      - title : Module Reviews
-        url   : /module-reviews
+  - title   : Revision Guides
+    url     : https://drive.google.com/drive/u/3/folders/15cWYdWuzEWe67IeKdMhfGa260dhm1clE
+  - title   : Module Reviews
+    url     : /module-reviews
+  - title   : Book Reviews
+    url     : /book-reviews
+        
   #- title   : Contact
   #  url     : /contact
   - title   : Code of Conduct
-    url     : /code_of_conduct
+    url     : /code-of-conduct
 
 #Social links to be placed on your site footer
 footer:
