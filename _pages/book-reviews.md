@@ -7,15 +7,12 @@ last_modified_at: 2024-10-19
 header_type:
 ---
 
-
-While the majority of modules at Warwick come with lecture notes, sometimes it's nice to have some additional reading material to complement the notes. (Or to entirely replace them if the lecturer decides to handwrite them illegibly.) You might also be looking for sources or learning material for essays or research projects, or just for something good to start reading.
+While the majority of modules at Warwick come with lecture notes, sometimes it's nice to have some additional reading material to complement the notes. (Or to entirely replace them if the lecturer decides to handwrite them illegibly.) You might also be looking for sources or learning material for essays or research projects, or just for something interesting to get in to.
 
 To this end, we have compiled together a collection of reviews and recommendations of various textbooks and papers for you to browse.
 
 **This section of the website is under construction! Many of these pages are empty -- please contribute!**
 {: .alert .alert-info .p-3 .mx-2 .mb-3}
-
-
 
 - [Abstract Algebra](book-reviews/abstract_algebra.md) - Introductory abstract algebra; groups, rings, etc.
 - [Algebraic Geometry](book-reviews/algebraic_geometry.md) - Algebraic and affine varieties, stacks, sheaves, schemes, moduli spaces, and complex geometry.
