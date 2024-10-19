@@ -32,9 +32,20 @@ body {
 </div>
 
 <div class="text-center my-4 py-5 px-3 bg-primary rounded-lg chulapa-overlay-img">
+    <p><i class="fa-solid fa-book-bookmark fa-3x"></i></p>
+    <h2 class="font-weight-light py-3">Academic Resources</h2>
+    <p class="lead font-weight-light py-2">
+    Drop in to the weekly <span class="font-weight-bold">Maths Café</span> event for some free food and academic help from our Academic Support officers!
+    <br/>
+    <br/>
+    The website is also well-stocked with academic resources, including our <a href="_pages/module-reviews.md">module reviews</a>, <a href="https://drive.google.com/drive/u/3/folders/15cWYdWuzEWe67IeKdMhfGa260dhm1clE">revision guides</a>, <a href="_pages/book-reviews.md">book recommendations</a>, and <a href="_pages/essays.md">essay archive</a>!
+    </p>
+</div>
+
+<div class="text-center my-4 py-5 px-3 bg-primary rounded-lg chulapa-overlay-img">
     <p><i class="fa-solid fa-mug-hot fa-3x"></i></p>
-    <h2 class="font-weight-light py-3">Weekly Social Events</h2>
-    <p class="lead font-weight-light py-2">Get some free food and academic help from our Academic Support officers at the <span class="font-weight-bold">Maths Café</span>, or socialise and relax at <span class="font-weight-bold">Coffee and Cake</span> run by our Equal Opportunities and Welfare officers</p>
+    <h2 class="font-weight-light py-3">Weekly Events</h2>
+    <p class="lead font-weight-light py-2">Socialise and relax at our weekly <span class="font-weight-bold">Coffee and Cake</span> welfare event run by our Equal Opportunities and Welfare officers, or come along to our <span class="font-weight-bold">Board Game Nights</span> or <span class="font-weight-bold">Movie Showings</span>!</p>
 </div>
 
 <div class="text-center my-4 py-5 px-3 bg-primary rounded-lg chulapa-overlay-img">
@@ -44,16 +55,12 @@ body {
 </div>
 
 <div class="text-center my-4 py-5 px-3 bg-primary rounded-lg chulapa-overlay-img">
-    <p><i class="fa-solid fa-book-bookmark fa-3x"></i></p>
-    <h2 class="font-weight-light py-3">Revision Lectures</h2>
-    <p class="lead font-weight-light py-2">We offer revision lectures for first and second year core modules, run by our Academic Support officers</p>
-</div>
-
-<div class="text-center my-4 py-5 px-3 bg-primary rounded-lg chulapa-overlay-img">
     <p><i class="fa-solid fa-comments fa-3x"></i></p>
     <h2 class="font-weight-light py-3">Socials</h2>
-    <p class="lead font-weight-light py-2">Get to know your coursemates at our socials, from boardgame nights to circles and bar crawls.</p>
-    <p class="lead font-weight-light py-2">Many of our events are sober, so don't worry if you don't want to or can't drink!</p>
+    <p class="lead font-weight-light py-2">Get to know your coursemates at our various socials, from integration bees to circles and bar crawls.
+    <br/>
+    <br/>
+    Many of our events are sober, so don't worry if you don't want to or can't drink!</p>
 </div>
 
 <br/>
