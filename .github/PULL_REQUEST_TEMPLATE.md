@@ -9,9 +9,10 @@
 - [ ] New post
 - [ ] Essay contribution
 - [ ] Module Review contribution
-- [ ] Bugfix
+- [ ] Book Review contribution
 - [ ] Added graphics
 - [ ] New feature
+- [ ] Bugfix
 - [ ] Other
 
 ## Issues Relevant to this PR
