@@ -1,5 +1,5 @@
 ---
-title: Book Reviews
+title: Book Recommendations
 subtitle: 
 permalink: /book-reviews
 date: 2024-10-19
@@ -9,7 +9,7 @@ header_type:
 
 While the majority of modules at Warwick come with lecture notes, sometimes it's nice to have some additional reading material to complement the notes. (Or to entirely replace them if the lecturer decides to handwrite them illegibly.) You might also be looking for sources or learning material for essays or research projects, or just for something interesting to get in to.
 
-To this end, we have compiled together a collection of reviews and recommendations of various textbooks and papers for you to browse.
+To this end, we have compiled together a collection of recommendations of various reading materials for you to browse. Note that, despite the title, many of the linked texts may be interesting papers/preprints rather than full textbooks.
 
 **This section of the website is under construction! Many of these pages are empty -- please contribute!**
 {: .alert .alert-info .p-3 .mx-2 .mb-3}
