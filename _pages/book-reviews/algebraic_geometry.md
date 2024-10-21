@@ -13,7 +13,7 @@ header_type:
     <span class="text-muted">Andreas Gathemann</span>
     <a href="https://agag-gathmann.math.rptu.de/en/alggeom.php">Online link</a>
     <br/>
-    <span class="text-muted"><i>Prerequisites: a first course in commutative algebra</i></span>
+    <span class="text-muted"><i>Prerequisites: A first course in commutative algebra.</i></span>
 </p>
 
 ---
@@ -24,7 +24,7 @@ header_type:
     <span class="text-muted">Karen E. Smith, Lauri Kahanpää, Pekka Kekäläinen, William Traves</span>
     <!-- <a href="">Online link</a> -->
     <br/>
-    <span class="text-muted"><i>Prerequisites: a first course in commutative algebra</i></span>
+    <span class="text-muted"><i>Prerequisites: A first course in commutative algebra.</i></span>
 </p>
 
 ---
