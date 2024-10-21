@@ -13,10 +13,10 @@ header_type:
     <span class="text-muted">Tom Leinster</span>
     <a href="https://arxiv.org/pdf/1612.09375">Online link</a>
     <br/>
-    <span class="text-muted"><i>Prerequisites: a general background in algebra/topology is helpful for motivation, but is not strictly required.</i></span>
+    <span class="text-muted"><i>Prerequisites: Some general background in algebra or topology is helpful for motivation.</i></span>
 </p>
 
-An excellent first introduction to category theory, this text is full of useful examples and exercises for the reader. This book is very short, being less than 200 pages, but throughly covers standard core material that often appears in other places in mathematics. A good choice if you want to quickly learn basic category theory for applications in other areas. 
+An excellent first introduction to category theory, this text is full of useful examples and exercises for the reader. This book is very short, being less than 200 pages, but thoroughly covers standard core material that often appears in other places in mathematics. A good choice if you want to quickly learn basic category theory for applications in other areas.
 
 ---
 
@@ -26,10 +26,10 @@ An excellent first introduction to category theory, this text is full of useful 
     <span class="text-muted">Emily Riehl</span>
     <a href="https://math.jhu.edu/~eriehl/context.pdf">Online link</a>
     <br/>
-    <span class="text-muted"><i>Prerequisites: lots of background in algebra/topology is very helpful</i></span>
+    <span class="text-muted"><i>Prerequisites: A strong background in algebra or topology is helpful.</i></span>
 </p>
 
-Another classic introduction to category theory. This book goes faster than Leinster's text above, having additional chapters on monads and kan extensions. This is the main reference for the category theory module at Warwick (*MA4M6 Category Theory*).
+Another classic introduction to category theory. This book goes further and faster than Leinster's text above, having additional chapters on monads and kan extensions. This is the main reference for the category theory module at Warwick (*MA4M6 Category Theory*).
 
 ---
 
@@ -39,7 +39,7 @@ Another classic introduction to category theory. This book goes faster than Lein
     <span class="text-muted">Steve Awodey</span>
     <a href="https://englishonlineclub.com/pdf/Category%20Teory%20[EnglishOnlineClub.com].pdf">Online link</a>
     <br/>
-    <span class="text-muted"><i>Prerequisites: lots of background in algebra/topology is very helpful</i></span>
+    <span class="text-muted"><i>Prerequisites: Some background in algebra.</i></span>
 </p>
 
 Another, more modern, introductory text for category theory. In comparison to the previous two texts above, this textbook contains many more examples from logic and computer science, and is suitable for a much wider audience. Despite the lighter prerequisites, full proofs of important results are still included with all the details.
@@ -54,7 +54,7 @@ Apart from the standard material covered in Leinster's text, this book has addit
     <span class="text-muted">Saunders Mac Lane</span>
     <a href="http://www.mtm.ufsc.br/~ebatista/2016-2/maclanecat.pdf">Online link</a>
     <br/>
-    <span class="text-muted"><i>Prerequisites: a general background in algebra/topology is helpful for motivation, but is not strictly required.</i></span>
+    <span class="text-muted"><i>Prerequisites: A very strong background in algebraic topology and algebraic geometry.</i></span>
 </p>
 
 A classic reference text for category theory, written by one of the co-founders of the subject. It is detailed and comprehensive, but its age is rather noticable; much notation and terminology is outdated, and differs from many other more modern texts.
