@@ -223,6 +223,72 @@ should turn into:
 </div>
 ```
 
+
+
+## Book Reviews/Recommendations
+
+The main book review page may be found [here](_pages/book-reviews.md). The classification subpages may be found [here](_pages/book-reviews).
+
+Each book review will look something like this:
+
+```html
+<p class="line-height: 10%">
+    <strong>Book Title</strong> <!-- Book title -->
+    <br/>
+    <span class="text-muted">John Smith, Sarah Jones</span> <!-- Author -->
+    <!-- <a href="">Online link</a> --> <!-- Uncomment if online copy is available -->
+    <br/>
+    <span class="text-muted"><i>Prerequisites:</i></span>
+</p>
+
+Review here.
+```
+
+1. Copy this template to the appropriate file and fill in the review.
+
+2. If reviews already exist, separate the new review from existing ones using a horizontal rule (three hyphens alone on a line, with blank lines above and below). That is,
+  
+   ```html
+   <p class="line-height: 10%">
+       <strong>The Iliad</strong>
+       <br/>
+       <span class="text-muted">Homer, Samuel Butler</span>
+       <a href="https://classics.mit.edu/Homer/iliad.html">Online link</a>
+       <br/>
+       <span class="text-muted"><i>Prerequisites: Some knowledge of ancient Greek literature.</i></span>
+   </p>
+   
+   Homer's Iliad centers on a quarrel between King Agamemnon and the warrior Achilles during the last year of the Trojan War.
+   ```
+   should turn into:
+   ```html
+   <p class="line-height: 10%">
+       <strong>The Iliad</strong>
+       <br/>
+       <span class="text-muted">Homer, Samuel Butler</span>
+       <a href="https://classics.mit.edu/Homer/iliad.html">Online link</a>
+       <br/>
+       <span class="text-muted"><i>Prerequisites: Some knowledge of ancient Greek literature.</i></span>
+   </p>
+   
+   Homer's Iliad centers on a quarrel between King Agamemnon and the warrior Achilles during the last year of the Trojan War.
+
+   ---
+ 
+   <p class="line-height: 10%">
+       <strong>The Odyssey</strong> <!-- Book title -->
+       <br/>
+       <span class="text-muted">Homer</span> <!-- Author -->
+       <a href="https://classics.mit.edu/Homer/odyssey.html">Online link</a>
+       <br/>
+       <span class="text-muted"><i>Prerequisites: A first course on classical antiquity and the Hellenistic period.</i></span>
+   </p>
+   
+   The Odyssey begins after the end of the ten-year Trojan War, from which Odysseus, king of Ithaca, has still not returned because he angered Poseidon, the god of the sea.
+   ```
+
+
+
 ## Essay Contributions
 
 To contribute your essay
@@ -249,6 +315,7 @@ To contribute your essay
    ```
 
    replacing each field as required.
+
 
 
 ## Posts
