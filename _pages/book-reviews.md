@@ -33,3 +33,8 @@ To this end, we have compiled together a collection of recommendations of variou
 - [Probability Theory](book-reviews/probability.md) - Measure theory, stochastic processes, central limit theorems, percolation theory, large deviations, stochastic differential equations, statistical mechanics and information theory, random graphs.
 - [Real Analysis and ODEs](book-reviews/real_analysis.md) - Measure theory, calculus of variations, approximations, expansions, asymptotics.
 - [Set Theory](book-reviews/set_theory.md) - Ordinals, cardinals, axiom systems, ZFC, large cardinals, order theory, lattice theory, model theory, forcing.
+
+---
+
+- [General Maths](book-reviews/general_maths.md) - Texts that cover a variety of topics, typically at an easier level than a textbook dedicated to one area; general reference books.
+- [Popular Maths](book-reviews/popular_maths.md) - Maths books intended for a general audience, broader than just maths undergraduates.
