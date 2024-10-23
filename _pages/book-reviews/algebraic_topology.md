@@ -27,3 +27,13 @@ br {
 One of the most famous introductions to the subject, and the main reference for the three algebraic topology modules at Warwick (*MA3F1 Introduction to Topology*, *MA3H6 Algebraic Topology*, and *MA4J7 Cohomology and Poincaré Duality*). The book often relies on geometric or visual intuition in proofs which may be helpful conceptually for a first course, but can feel rather informal or otherwise difficult to generalise in many cases, particularly low-dimensional arguments. The book does not cover any differential topology.
 
 ---
+
+<p class="line-height: 10%">
+    <strong>A Quick Proof of the Seifert–Van Kampen Theorem</strong>
+    <br/>
+    <span class="text-muted">Andrew Putman</span>
+    <a href="https://www3.nd.edu/~andyp/notes/SeifertVanKampen.pdf">Online link</a>
+    <br/>
+    <span class="text-muted"><i>Prerequisites: Covering space theory</i></span>
+</p>
+
