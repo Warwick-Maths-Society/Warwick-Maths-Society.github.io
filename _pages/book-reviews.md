@@ -3,7 +3,7 @@ title: Book Recommendations
 subtitle: 
 permalink: /book-reviews
 date: 2024-10-19
-last_modified_at: 2024-10-19
+last_modified_at: 2024-10-23
 header_type:
 ---
 

@@ -3,7 +3,7 @@ title: Algebraic Topology
 subtitle: 
 permalink: /book-reviews/algebraic-topology
 date: 2024-10-19
-last_modified_at: 2024-10-19
+last_modified_at: 2024-10-23
 header_type:
 ---
 
@@ -34,6 +34,6 @@ One of the most famous introductions to the subject, and the main reference for 
     <span class="text-muted">Andrew Putman</span>
     <a href="https://www3.nd.edu/~andyp/notes/SeifertVanKampen.pdf">Online link</a>
     <br/>
-    <span class="text-muted"><i>Prerequisites: Covering space theory</i></span>
+    <span class="text-muted"><i>Prerequisites: Covering space theory.</i></span>
 </p>
 
