@@ -37,3 +37,13 @@ One of the most famous introductions to the subject, and the main reference for 
     <span class="text-muted"><i>Prerequisites: Covering space theory.</i></span>
 </p>
 
+---
+
+<p class="line-height: 10%">
+    <strong>Counterexamples in Topology</strong>
+    <br/>
+    <span class="text-muted">Lynn A. Steen, J. Arthur Seebach Jr.</span>
+    <a href="https://editorialdinosaurio.wordpress.com/wp-content/uploads/2012/03/counterexamples_in_topology_-_l-_steen__j-_seebach__1970__ww.pdf">Online link</a>
+    <br/>
+    <span class="text-muted"><i>Prerequisites: None.</i></span>
+</p>
