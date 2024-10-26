@@ -15,3 +15,25 @@ header_type:
     <br/>
     <span class="text-muted"><i>Prerequisites: None.</i></span>
 </p>
+
+---
+
+<p class="line-height: 10%">
+    <strong>Real and Complex Analysis</strong>
+    <br/>
+    <span class="text-muted">Walter Rudin</span>
+    <a href="https://59clc.wordpress.com/wp-content/uploads/2011/01/real-and-complex-analysis.pdf">Online link</a>
+    <br/>
+    <span class="text-muted"><i>Prerequisites: A first course in real analysis, linear algebra, and point-set topology.</i></span>
+</p>
+
+---
+
+<p class="line-height: 10%">
+    <strong>Counterexamples in Analysis</strong>
+    <br/>
+    <span class="text-muted">Bernard R. Gelbaum, John M. H. Olmsted</span>
+    <a href="https://faculty.ksu.edu.sa/sites/default/files/_olmsted_1.pdf">Online link</a>
+    <br/>
+    <span class="text-muted"><i>Prerequisites: None.</i></span>
+</p>
