@@ -32,6 +32,10 @@ tbody{
     <th>Title</th>
   </tr>
   <tr>
+    <td>68</td>
+    <td><a target="_blank" href="./assets/essays-2/68 - Methods of Testing for Prime Numbers.pdf">Methods of Testing for Prime Numbers</a></td>
+  </tr>
+  <tr>
     <td>74</td>
     <td><a target="_blank" href="./assets/essays-2/74 - Curvature of Surfaces in R^3.pdf">Curvature of Surfaces in R^3</a></td>
   </tr>
