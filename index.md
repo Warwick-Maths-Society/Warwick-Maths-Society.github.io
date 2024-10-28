@@ -38,7 +38,7 @@ body {
     Drop in to the weekly <span class="font-weight-bold">Maths Café</span> event for some free food and academic help from our Academic Support officers!
     <br/>
     <br/>
-    The website is also well-stocked with academic resources, including our <a href="{% link _pages/module-reviews.md %}">module reviews</a>, <a href="https://drive.google.com/drive/u/3/folders/15cWYdWuzEWe67IeKdMhfGa260dhm1clE">revision guides</a>, <a href="{% link _pages/book-reviews.md %}">book recommendations</a>, and <a href="{% link _pages/essays.md %}">essay archive</a>!
+    The website is also well-stocked with academic resources, including our <a href="{% link _pages/module-reviews.md %}">module reviews</a>, <a href="{% link _pages/module-guides.md %}">revision guides</a>, <a href="{% link _pages/book-reviews.md %}">book recommendations</a>, and <a href="{% link _pages/essays.md %}">essay archive</a>!
     </p>
 </div>
 

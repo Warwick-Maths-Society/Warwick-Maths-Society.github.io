@@ -28,11 +28,11 @@ Every Wednesday, we run a drop-in help session in the undergraduate workroom wit
 
 ### Revision Guides
 
-We have <a href="https://drive.google.com/drive/folders/15cWYdWuzEWe67IeKdMhfGa260dhm1clE">a collection</a> of condensed module notes/additional revision material. The majority of these were written by Kit L. (21/22 intake) and the curriculum has changed since they were created, so some of the older guides are slightly dated. They also have not been maintained since creation. However, they should still serve as useful revision material.
+We have <a href="{% link _pages/module-guides.md %}">a collection</a> of condensed module notes/additional revision material. The majority of these were written by Kit L. (21/22 intake) and the curriculum has changed since they were created, so some of the older guides are slightly dated. They also have not been maintained since creation. However, they should still serve as useful revision material.
 
 A more complete reference book (which *is* actively maintained) which may also be useful can be found <a href="https://desyncthethird.github.io/Reference.pdf">here</a>.
 
-If you would like to contribute some notes, or gain access to a WMX guide template LaTeX file, please get in touch with `.desync` on the WMS/WMX Discord servers.
+If you would like to contribute some notes, please get in touch with `.desync` on the WMS/WMX Discord servers.
 
 <br/>
 
