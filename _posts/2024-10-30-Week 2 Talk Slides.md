@@ -1,6 +1,6 @@
 ---
-title: Week 1 Talk Slides
-subtitle: Summation By Parts
+title: Week 2 Talk Slides
+subtitle: Collective Dynamics
 tags: [2024, talks] # events, year, updates, talks
 
 # Uncomment if post needs to be amended
@@ -17,6 +17,6 @@ author:
 # Delete this line in your new post:
 # include_on_search : false
 ---
-The slides for Dr Ed Brambley's talk, *Summation By Parts: Finite Differences*, can be found at the link below:
+The slides for Dr Susana Gomes' talk, *Collective Dynamics: From Agent-Based Models to PDE Systems*, can be found at the link below:
 
-# [Summation By Parts Slides](<../assets/talks/2024-2025/Term 1 Week 1 - SBP Finite Differences.pdf>)
+# [Collective Dynamics Slides](<../assets/talks/2024-2025/Term 1 Week 2 - Collective Dynamics.pdf>)
