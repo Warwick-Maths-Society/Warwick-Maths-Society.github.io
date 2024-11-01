@@ -44,6 +44,10 @@ tbody{
     <td><a target="_blank" href="./assets/essays-2/75 - The Distribution of Prime Numbers and the Gaps Between Primes.pdf">The Distribution of Prime Numbers and the Gaps Between Primes</a></td>
   </tr>
   <tr>
+    <td>76</td>
+    <td><a target="_blank" href="./assets/essays-2/76 - Surfaces and their Geometry.pdf">Surfaces and their Geometry</a></td>
+  </tr>
+  <tr>
     <td>78</td>
     <td><a target="_blank" href="./assets/essays-2/78 - Octonions.pdf">Octonions</a></td>
   </tr>
