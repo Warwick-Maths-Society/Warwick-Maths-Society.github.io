@@ -19,11 +19,19 @@ author:
 ---
 The slides for Kyle Thompson's talk, *Sheaves and the Serre-Swan Theorem* and Kit Liu's talk, *Structural Set Theory in Foundations* can be found at the links below:
 
-## [Sheaves and Serre-Swan Slides](<../assets/talks/2024-2025/Term 1 Week 5 - Sheaves and Serre-Swan.pdf>)
+<br/>
 
 ---
 
-![Structural Foundations Slides Gif](<../assets/talks/2024-2025/Term 1 Week 5 - Structural Foundations.gif>)
+![Sheaves and Serre-Swan Slide Preview](<../assets/talks/2024-2025/Term 1 Week 5 - Sheaves and the Serre-Swan Theorem.png>)
+
+## [Sheaves and Serre-Swan Slides](<../assets/talks/2024-2025/Term 1 Week 5 - Sheaves and the Serre-Swan Theorem.pdf>)
+
+<br/>
+
+---
+
+![Structural Foundations Slide Preview](<../assets/talks/2024-2025/Term 1 Week 5 - Structural Foundations.gif>)
 
 ## [Structural Foundations Slides](<../assets/talks/2024-2025/Term 1 Week 5 - Structural Foundations Slides Only.pdf>)
 ## [Structural Foundations Notes](<../assets/talks/2024-2025/Term 1 Week 5 - Structural Foundations Notes.pdf>)
