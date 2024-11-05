@@ -122,4 +122,4 @@ The Ball Secretary is to plan and run the society's annual winter ball. This inv
 
 ### Freshers' Representatives&ensp;<small class="text-muted">tbd</small>
 
-First year students (*freshers*) are often underrepresented or entirely absent from society execs; the Freshers' Representative is to serve as a liasion between freshers and the society.
+First year students (*freshers*) are often underrepresented or entirely absent from society execs; the Freshers' Representative is to serve as a liaison between freshers and the society.
