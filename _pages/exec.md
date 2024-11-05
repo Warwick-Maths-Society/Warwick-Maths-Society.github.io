@@ -84,6 +84,7 @@ The Academic Events Coordinator organises academic collaborations with other soc
 
 The Publications Officer is in charge of the general maintenance and upkeep of the society webpage. This involves:
 
+* Post weekly updates and event notifications to the website;
 * Updating revision resources and society contact information;
 * Updating relevant website sections on a termly basis.
 
@@ -122,4 +123,4 @@ The Ball Secretary is to plan and run the society's annual winter ball. This inv
 
 ### Freshers' Representatives&ensp;<small class="text-muted">tbd</small>
 
-First year students (*freshers*) are often underrepresented or entirely absent from society execs; the Freshers' Representative is to serve as a liasion between freshers and the society.
+First year students (*freshers*) are often underrepresented or entirely absent from society execs; the Freshers' Representative is to serve as a liaison between freshers and the society.

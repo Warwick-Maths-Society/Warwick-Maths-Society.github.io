@@ -17,6 +17,6 @@ author:
 # Delete this line in your new post:
 # include_on_search : false
 ---
-The slides for Dr Ed Brambley's talk, *Summation By Parts*, can be found at the link below:
+The slides for Dr Ed Brambley's talk, *Summation By Parts: Finite Differences*, can be found at the link below:
 
-# [Slides](<../assets/talks/2024-2025/Term 1 Week 1.pdf>)
+# [Summation By Parts Slides](<../assets/talks/2024-2025/Term 1 Week 1 - SBP Finite Differences.pdf>)

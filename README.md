@@ -159,7 +159,7 @@ to your `tasks.json`.
 
 ## Module Reviews
 
-The module review page may be found [here](_pages/module_reviews.md).
+The module review page may be found [here](_pages/module-reviews.md).
 
 Each module review will look something like this:
 
