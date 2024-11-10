@@ -30,6 +30,7 @@ To this end, we have compiled together a collection of recommendations of variou
 - [Modelling and Numerical Analysis](book-reviews/numerical_modelling.md) - Numerical stability and convergence, optimisation.
 - [Number Theory](book-reviews/number_theory.md) - Algebraic and analytic number theory, Galois theory, elliptic curves, diophantine equations, arithmetic geometry.
 - [Partial Differential Equations](book-reviews/PDEs.md) - Existence and uniqueness, boundary conditions, linear and non-linear operators, dynamical systems and flows.
+- [Point-Set Topology](book-reviews/point-set_topology.md) - Normed and metric spaces, topological spaces, compactness, connectedness, completeness.
 - [Probability Theory](book-reviews/probability.md) - Measure theory, stochastic processes, central limit theorems, percolation theory, large deviations, stochastic differential equations, statistical mechanics and information theory, random graphs.
 - [Real Analysis and ODEs](book-reviews/real_analysis.md) - Measure theory, calculus of variations, approximations, expansions, asymptotics.
 - [Set Theory](book-reviews/set_theory.md) - Ordinals, cardinals, axiom systems, ZFC, large cardinals, order theory, lattice theory, model theory, forcing.
