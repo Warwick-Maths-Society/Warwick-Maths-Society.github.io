@@ -17,6 +17,6 @@ author:
 # Delete this line in your new post:
 # include_on_search : false
 ---
-The slides for Dr Susana Gomes' talk, *Mean Curvature Flow with Generic Initial Data*, can be found at the link below:
+The slides for Dr Felix Schulze's talk, *Mean Curvature Flow with Generic Initial Data*, can be found at the link below:
 
 # [Mean Curvature Flow Slides](<../assets/talks/2024-2025/Term 1 Week 3 - Mean Curvature Flow.pdf>)
