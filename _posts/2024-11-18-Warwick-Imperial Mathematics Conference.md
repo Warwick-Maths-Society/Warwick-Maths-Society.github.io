@@ -1,6 +1,6 @@
 ---
 title: Warwick-Imperial Mathematics Conference
-subtitle: WIMP
+subtitle: WIMP Autumn 2024
 tags: [2024, events] # events, year, updates, talks, sport
 
 # Uncomment if post needs to be amended
@@ -35,4 +35,4 @@ Abstract:
 The conference is free to attend for Warwick students and you don't have to attend every talk - if you are interested in attending, it would be helpful if you could fill in [this form](https://forms.gle/z2i46uHCVH7PbdWP6) (to help us get an idea of attendance, audience makeup and for catering purposes)!
 
 ## Itinerary
-![WIMP itinerary](<../assets/posts/2024-2025/WIMP Autumn 2024 - Itinerary.png>)
+![WIMP itinerary](<../assets/posts/2024-2025/WIMP Autumn 2024 Itinerary.png>)
