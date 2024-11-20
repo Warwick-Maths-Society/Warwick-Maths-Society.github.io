@@ -37,6 +37,9 @@ The conference is free to attend for Warwick students and you don't have to atte
 ## Itinerary
 
 <img src="../assets/posts/2024-2025/WIMP 2024 Autumn Itinerary with Abstracts-1.png" alt="WIMP Itinerary-1" width="95%"/>
+
 <img src="../assets/posts/2024-2025/WIMP 2024 Autumn Itinerary with Abstracts-2.png" alt="WIMP Itinerary-2" width="95%"/>
+
 <img src="../assets/posts/2024-2025/WIMP 2024 Autumn Itinerary with Abstracts-3.png" alt="WIMP Itinerary-3" width="95%"/>
+
 <img src="../assets/posts/2024-2025/WIMP 2024 Autumn Itinerary with Abstracts-4.png" alt="WIMP Itinerary-4" width="95%"/>
