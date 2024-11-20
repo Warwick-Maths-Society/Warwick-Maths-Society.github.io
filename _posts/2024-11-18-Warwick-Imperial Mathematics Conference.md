@@ -13,7 +13,7 @@ author:
 #  location: "Location" (if applicable)
 ---
 
-The **Warwick-Imperial Mathematics Conference** (WIMP) will take place this weekend, on **Saturday (23rd)**. For the timings and talk titles, see the attached itinerary. Abstracts for the student talks are to be announced at a later date.
+The **Warwick-Imperial Mathematics Conference** (WIMP) will take place this weekend, on **Saturday (23rd)**. For the timings and talk titles, see the attached itinerary. Abstracts for the student talks can be found below.
 
 The plenary talk will be given by Professor Keith Ball, from **0930** to **1030** in **MS.02*.
 
