@@ -52,7 +52,7 @@ tbody{
     <td><a target="_blank" href="./assets/WMX Guides/MA133 Differential Equations.pdf">MA133 Differential Equations</a></td>
   </tr>
   <tr>
-    <td>MA134<br/>[MA146]</td>
+    <td>MA134<br/>[MA144]</td>
     <td><a target="_blank" href="./assets/WMX Guides/MA134 Geometry and Motion.pdf">MA134 Geometry and Motion</a></td>
   </tr>
   <tr>
