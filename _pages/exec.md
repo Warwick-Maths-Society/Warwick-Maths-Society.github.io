@@ -80,7 +80,7 @@ The Academic Events Coordinator organises academic collaborations with other soc
 
 ---
 
-## Publications Officer&ensp;<small class="text-muted">tbd</small>
+## Publications Officer&ensp;<small class="text-muted"Alfie Giffen & Ekaterina Leksina</small>
 
 The Publications Officer is in charge of the general maintenance and upkeep of the society webpage. This involves:
 
