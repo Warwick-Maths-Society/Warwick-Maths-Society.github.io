@@ -47,7 +47,7 @@ The Equal Opportunities & Welfare officers are responsible for planning and host
 
 ---
 
-### Social Secretaries&ensp;<small class="text-muted">Lucy Parker, Sadie Ward, and Scott Iyengar</small>
+### Social Secretaries&ensp;<small class="text-muted">Lucy Parker, Sadie Ward, & Scott Iyengar</small>
 
 The Social Secretaries work together to organise and run a variety of social events for the society. This involves:
 
@@ -80,7 +80,7 @@ The Academic Events Coordinator organises academic collaborations with other soc
 
 ---
 
-## Publications Officer&ensp;<small class="text-muted">tbd</small>
+## Publications Officer&ensp;<small class="text-muted"Alfie Giffen & Ekaterina Leksina</small>
 
 The Publications Officer is in charge of the general maintenance and upkeep of the society webpage. This involves:
 
