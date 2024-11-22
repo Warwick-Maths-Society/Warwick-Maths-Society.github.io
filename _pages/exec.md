@@ -47,7 +47,7 @@ The Equal Opportunities & Welfare officers are responsible for planning and host
 
 ---
 
-### Social Secretaries&ensp;<small class="text-muted">Lucy Parker, Sadie Ward, and Scott Iyengar</small>
+### Social Secretaries&ensp;<small class="text-muted">Lucy Parker, Sadie Ward, & Scott Iyengar</small>
 
 The Social Secretaries work together to organise and run a variety of social events for the society. This involves:
 
