@@ -49,9 +49,9 @@ For further information, please see the weblink or contact the theme leads.
 |     1 |             £19,237 |            £2000 |            £2000 | £23,237 |
 |     2 |             £19,795 |            £2000 |            £2000 | £23,795 |
 |     3 |             £20,369 |            £2000 |            £2000 | £24,369 |
-| 4[^*] |             £20,960 |            £2000 |            £2000 | £24,960 |
+| 4[^1] |             £20,960 |            £2000 |            £2000 | £24,960 |
 
-[^*]: The bursary is for 3 years, with a potential extension of up to a maximum of 12 months. Funding extensions may be granted if the student demonstrates, to the satisfaction of the M<sup>3<sup>4Impact Principal Investigators and PhD supervisors, that the thesis can be completed during the granted extension period.
+[^1]: The bursary is for 3 years, with a potential extension of up to a maximum of 12 months. Funding extensions may be granted if the student demonstrates, to the satisfaction of the M<sup>3</sup>4Impact Principal Investigators and PhD supervisors, that the thesis can be completed during the granted extension period.
 
 In addition, the successful candidate will receive a contribution to tuition fees, equivalent to the University Home Rate, currently £4,712 (FT) or pro-rata (PT), for the duration of their scholarship. International applicants may need to pay the remainder tuition fee for the duration of their scholarship.
 
