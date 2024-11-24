@@ -13,19 +13,19 @@ author:
 #  location: "Location" (if applicable)
 ---
 
-Here is a message from a STEM contact about **17 fully funded PhD positions** at the University of Greenwich, covering a wide range of themes and fields.
+Here is a message from a STEM contact about **17 fully funded PhD positions** at the University of Greenwich, covering a wide range of themes and fields:
 
 # M<sup>3</sup>4Impact – PhD Student Scholarships
 
 Our vision is to expand our world-leading Multi-Disciplinary and Multi-Scale Modelling expertise in both reach and ability, to tackle major societal challenges affecting the environment, quality of life, safety, security, and the economy. This will be achieved through the amalgamation and expansion of two existing award-winning teams: the Centre for Safety, Resilience and Protective Security (CSRPS) and the Computational Science and Engineering Group (CSEG), creating the Multi-scale, Multi-disciplinary Modelling for Impact (M<sup>3</sup>4Impact) platform. Both teams excel at developing and applying mathematical models, computational simulations and bespoke software to create digital worlds that predict physically accurate outcomes addressing a wide range of societal challenges. 
 
 ### Safety and Security
-> Led by Prof Ed Galea
+> Led by Prof. Ed Galea
 
 Covers disaster resilience, fire and evacuation, dynamically coupling urban-scale and building scale evacuation modelling, Fire Modelling and protective security incorporating real-time interactivity through Virtual/Mixed Reality (VR/MR).
 
 ### Materials Science and Engineering
-> Led by Prof Andrew Kao
+> Led by Prof. Andrew Kao
 
 Focusses on the design and manufacture of sustainable, lighter, stronger materials with broad applications, in the transport, aerospace, energy and biomedical sectors. This encompasses materials and process modelling targeting recyclability, low waste and energy efficiency.
 
@@ -64,13 +64,18 @@ This fee is subject to an annual increase.
 
 ### Education and Training
 
-- (**E**) 1<sup>st</sup> Class or 2<sup>nd</sup> class, First Division (Upper Second Class) honours degree, or a taught master’s degree with a minimum average of 60% in all areas of assessment (UK or UK equivalent) in a relevant area to the proposed research project
-- (**E**) For those whose first language is not English and/or if from a country where English is not the majority spoken language (as recognised by the UKBA), a language proficiency score of at least IELTS 6.5 (in all elements of the test) or an equivalent UK VISA and Immigration secure English Language Test is required, if your programme falls within the faculty of Engineering and Science a language proficiency score of at least IELTS 6.5 overall with a minimum of 6.0 in all elements of the test or an equivalent UK VISA and Immigration secure English Language Test is required. Unless the degree above was taught in English and obtained in a majority English speaking country, e.g. UK, USA, Australia, New Zealand, etc, as recognised by the UKBA.
+- (**E**) 1<sup>st</sup> Class or 2<sup>nd</sup> class, First Division (Upper Second Class) honours degree, or a taught master’s degree with a minimum average of 60% in all areas of assessment (UK or UK equivalent) in a relevant area to the proposed research project.
+- (**E**) For those whose first language is not English and/or if from a country where English is not the majority spoken language (as recognised by the UKBA):
+  - A language proficiency score of at least IELTS 6.5 (in all elements of the test) or an equivalent UK VISA and Immigration secure English Language Test is required;
+- (**E**) If your programme falls within the faculty of Engineering and Science, then additionally:
+  - A language proficiency score of at least IELTS 6.5 overall with a minimum of 6.0 in all elements of the test or an equivalent UK VISA and Immigration secure English Language Test is required.
+
+The langauge requirement may be waived if the degree in the first requirement was taught in English and obtained in a majority English speaking country, e.g. UK, USA, Australia, New Zealand, etc, as recognised by the UKBA.
 
 ### Experience and Skills
 
 - (**E**) Previous experience of undertaking research (e.g. undergraduate or taught
-master’s dissertation)
+master’s dissertation).
 - (**E**) Experience in a related discipline. Note this will depend on the topic of the PhD and the M<sup>3</sup>4Impact Theme (Safety and Security, Materials Science & Engineering, Digital Cities). The list is not exhaustive, but examples include:
   - Mathematical Modelling;
   - Behavioural psychology;
@@ -94,7 +99,7 @@ research degree in terms of approach and personal discipline/motivation.
 ### Other Requirements
 
 - (**E**) This scholarship may require Academic Technology Approval Scheme approval for the successful candidate if from outside of the EU/EEA.
-- (**E**) Start date is flexible and will be agreed with supervisory team and M34Impact Programme Leads
+- (**E**) Start date is flexible and will be agreed with supervisory team and M34Impact Programme Leads.
 
 ## Deadlines
 
@@ -104,22 +109,22 @@ N/A - Open Call
 
 For further information about specific projects, contact:
 
- - Prof Ed Galea – Safety and Security
-   ```shell
-   e.r.galea (at) gre.ac.uk
-   ```
- - Prof Andrew Kao – Materials Science and Engineering
-   ```shell
-   a.kao (at) gre.ac.uk
-   ```
- - Prof. Koulis Pericleous – Digital Cities
-   ```shell
-   k.pericleous (at) gre.ac.uk
-   ```
+- Prof. Ed Galea – Safety and Security
+  ```shell
+  e.r.galea (at) gre.ac.uk
+  ```
+- Prof. Andrew Kao – Materials Science and Engineering
+  ```shell
+  a.kao (at) gre.ac.uk
+  ```
+- Prof. Koulis Pericleous – Digital Cities
+  ```shell
+  k.pericleous (at) gre.ac.uk
+  ```
 
 Or for an informal chat about the opportunity in general, please send an email to:
 
- - Prof Aoife Hunt 
-   ```shell
-       a.l.hunt (at) greenwich.ac.uk
-   ```
+- Prof. Aoife Hunt 
+  ```shell
+  a.l.hunt (at) greenwich.ac.uk
+  ```
