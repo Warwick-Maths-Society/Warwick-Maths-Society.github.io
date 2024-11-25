@@ -27,7 +27,7 @@ To this end, we have compiled together a collection of recommendations of variou
 - [Foundations](book-reviews/foundations.md) - Logic, set theory, type theory, topos theory, model theory.
 - [Functional, Harmonic, and Fourier Analysis](book-reviews/functional_harmonic_fourier.md) - Hilbert spaces, Banach spaces, function spaces, convex geometry, integral transforms, spectral analysis, representation theory.
 - [Linear Algebra](book-reviews/linear_algebra.md) - Matrix decompositions, spectral theory, representation theory of algebras and groups, Lie theory, associative algebras, multilinear algebra.
-- [Modelling and Numerical Analysis](book-reviews/numerical_modelling.md) - Numerical stability and convergence, optimisation.
+- [Modelling and Numerical Analysis](book-reviews/modelling_numerics.md) - Numerical stability and convergence, optimisation.
 - [Number Theory](book-reviews/number_theory.md) - Algebraic and analytic number theory, Galois theory, elliptic curves, diophantine equations, arithmetic geometry.
 - [Partial Differential Equations](book-reviews/PDEs.md) - Existence and uniqueness, boundary conditions, linear and non-linear operators, dynamical systems and flows.
 - [Point-Set Topology](book-reviews/point-set_topology.md) - Normed and metric spaces, topological spaces, compactness, connectedness, completeness.
