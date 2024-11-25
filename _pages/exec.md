@@ -45,14 +45,14 @@ The Treasurer is to handle the finances of the society. This involves:
 ---
 
 ### Equal Opportunities & Welfare
-<p class="text-muted" style="font-size: 18px;">Imogen Burch & Ingrid Loynes</p>
+<p class="text-muted" style="font-size: 18px;">Imogen Burch and Ingrid Loynes</p>
 
 The Equal Opportunities & Welfare officers are responsible for planning and hosting events for underrepresented groups in Maths. This involves running the weekly **Coffee and Cake** welfare event. The Equal Opportunities & Welfare officers are also responsible for coordinating and planning the annual Ada Lovelace day, celebrating women and non-binary mathematicians.
 
 ---
 
 ### Social Secretaries
-<p class="text-muted" style="font-size: 18px;">Lucy Parker, Sadie Ward, & Scott Iyengar</p>
+<p class="text-muted" style="font-size: 18px;">Lucy Parker, Sadie Ward, and Scott Iyengar</p>
 
 The Social Secretaries work together to organise and run a variety of social events for the society. This involves:
 
@@ -75,7 +75,7 @@ The Talks Coordinator is also responsible for organising the Warwick-Imperial Co
 ---
 
 ### Academic Support
-<p class="text-muted" style="font-size: 18px;">Kit Liu & Aris Mercier</p>
+<p class="text-muted" style="font-size: 18px;">Kit Liu and Aris Mercier</p>
 
 The two Academic Supports organise and run the weekly **Maths Café** event where they assist other students with their academic studies. They are also responsible for organising the revision lectures later in the year.
 
@@ -89,7 +89,7 @@ The Academic Events Coordinator organises academic collaborations with other soc
 ---
 
 ## Publications Officer
-<p class="text-muted" style="font-size: 18px;">Alfie Giffen & Ekaterina Leksina</p>
+<p class="text-muted" style="font-size: 18px;">Alfie Giffen and Ekaterina Leksina</p>
 
 The Publications Officer is in charge of the general maintenance and upkeep of the society webpage. This involves:
 
@@ -135,6 +135,6 @@ The Ball Secretary is to plan and run the society's annual winter ball. This inv
 ---
 
 ### Freshers' Representatives
-<p class="text-muted" style="font-size: 18px;">Zac Connell, Kai Gentzel, Zain Lam, Ekaterina Leksina, Deeya Sharma & Carmel West</p>
+<p class="text-muted" style="font-size: 18px;">Zac Connell, Kai Gentzel, Zain Lam, Ekaterina Leksina, Deeya Sharma, and Carmel West</p>
 
 First year students (*freshers*) are often underrepresented or entirely absent from society execs; the Freshers' Representative is to serve as a liaison between freshers and the society.
