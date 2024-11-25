@@ -10,8 +10,6 @@
 - [ ] Essay contribution
 - [ ] Module Review contribution
 - [ ] Book Review contribution
-- [ ] Added graphics
-- [ ] New feature
 - [ ] Bugfix
 - [ ] Other
 
