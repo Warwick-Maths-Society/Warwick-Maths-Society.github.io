@@ -57,7 +57,11 @@ If you would like to preview your changes locally, you will need to install [Rub
      ```
      
      if you already have a package manager.
-3. [Install RubyGems](https://rubygems.org/pages/download).
+3. [Install RubyGems](https://rubygems.org/pages/download) by running
+   ```shell
+   gem update --system
+   ```
+
 4. Open a new terminal and run:
 
    ```shell
@@ -148,6 +152,15 @@ If you would like to use the Tasks feature to build your site, add:
 ```
 
 to your `tasks.json`.
+
+Building the site through the task will display more error information than using the extension, so if something is going wrong, give this a try.
+
+If you are running into problems with ruby, try deleting your `Gemfile.lock` file and running:
+
+```shell
+bundle install
+```
+
 
 </details>
 
