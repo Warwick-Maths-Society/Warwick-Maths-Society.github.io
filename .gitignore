@@ -6,3 +6,4 @@ project.Rproj
 
 _site
 Gemfile.lock
+.vscode/settings.json
