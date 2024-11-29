@@ -14,9 +14,6 @@ project_links:
       label: Join us!
 ---
 
-<!-- **This site is a work-in-progress (especially this front page)**
-{: .alert .alert-info .p-3 .mx-2 .mb-3} -->
-
 <style>
 body {
     background-image: url("./assets/desync/tiling-background.png");
@@ -24,6 +21,21 @@ body {
 }
 </style>
 
+<div class="text-center my-4 py-5 px-3 bg-primary rounded-lg">
+    <h2> Our Latest Post</h2>
+    {% assign post = site.posts.first %}
+    <a href="{{ post.url }}">
+        <h3>{{ post.title }}</h3>
+    </a>
+    <p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
+    <p>{{ post.content | strip_html | truncatewords: 60 }}</p>
+</div>
+
+<br/>
+
+---
+
+<br/>
 
 <div class="text-center my-4 py-5 px-3 bg-primary rounded-lg chulapa-overlay-img">
     <p><i class="fa-solid fa-users fa-3x"></i></p>
@@ -61,20 +73,4 @@ body {
     <br/>
     <br/>
     Many of our events are sober, so don't worry if you don't want to or can't drink!</p>
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div class="text-center my-4 py-5 px-3 bg-primary rounded-lg">
-    <h2> Our Latest Post</h2>
-    {% assign post = site.posts.first %}
-    <a href="{{ post.url }}">
-        <h3>{{ post.title }}</h3>
-    </a>
-    <p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
-    <p>{{ post.content | strip_html | truncatewords: 60 }}</p>
 </div>
