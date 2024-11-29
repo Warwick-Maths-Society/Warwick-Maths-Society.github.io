@@ -14,7 +14,9 @@ author:
 
 ---
 
-The **Warwick-Imperial Mathematics Conference** (WIMP) took place last Saturday (23rd), featuring a variety of talks from students from both Warwick and Imperial, and an opening talk by Professor Keith Ball.
+The **Warwick-Imperial Mathematics Conference** (WIMP) took place last Saturday (23rd), featuring a variety of talks from students from both Warwick and Imperial, and an opening talk by Professor Keith Ball. Thank you to all the attendees and presenters, it was lovely having you at the event.
+
+Below are the talks and photos from the day.
 
 ## Itinerary and Recordings
 
