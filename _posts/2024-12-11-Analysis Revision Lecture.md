@@ -13,7 +13,7 @@ author:
 The MA141 Analysis I revision lecture recording is available below:
 
 <div style="text-align: center; aspect-ratio:16/9;" width="95%">
-    <iframe src="https://www.youtube.com/embed/2wo9S3He1zI" width="100%" height="100%"  allowfullscreen="allowfullscreen">&nbsp</iframe>
+    <iframe src="https://www.youtube.com/embed/2wo9S3He1zI" width="100%" height="100%"  allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 This recording has been edited to remove minor typos/mistakes and extraneous tangents/pauses; some portions have also been slightly rearranged for improved flow; and some blackboard work has been reconstructed for improved visibility.
