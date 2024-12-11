@@ -16,9 +16,9 @@ The sources for the essay, module review, exec, etc., pages can be found in the 
 
 # Maintainers
 
-This website is developed and maintained by [Kit Liu](https://github.com/DesyncTheThird), with various content contributions (module reviews, essays, etc.) from the wider WMS community.
+This website was originally developed, built, and maintained by [Kit Liu](https://github.com/DesyncTheThird) in the summer of 2024, with various content contributions (module reviews, essays, etc.) from the wider WMS community.
 
-Maintenance will be taken over by the Publications Officer once one is elected.
+General maintenance has since been taken over by the Publications Officer(s) -- currently [Alfie Giffen](https://github.com/Bongo50) and [Ekaterina Leksina](https://github.com/sadmango-dev).
 
 
 
