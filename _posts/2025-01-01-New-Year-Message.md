@@ -7,10 +7,10 @@ tags: [2025] # events, year, updates, talks
 # last_modified_at: YYYY-MM-DD
 
 # Uncomment to show author on post:
-# show_author : true
-# author:
-#   name: Name Here
-#   avatar: Link to image
+show_author : true
+author:
+  name: The WMS Exec
+  avatar: /assets/img/logo-large.PNG
 #  (use your github profile picture if you don't have anything else, i.e. https://avatars.githubusercontent.com/u/30439030)
 #  location: "Location" (if applicable)
 
