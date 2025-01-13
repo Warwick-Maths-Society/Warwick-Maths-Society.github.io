@@ -11,7 +11,7 @@ author:
 
 The slides for Aris Mercier's talk, *On the Embeddedness of Minimal Surfaces*, can be found at the link below:
 
-# [Minimal Surfaces slides](<../assets/talks/Term 1 Week 10 - On the Embeddedness of Minimal Surfaces.pdf>)
+# [Minimal Surfaces slides](<../assets/talks/2024-2025/Term 1 Week 10 - On the Embeddedness of Minimal Surfaces.pdf>)
 
 <br/>
 

@@ -20,4 +20,4 @@ include_on_search : false
 
 The slides for Dr Gareth Tracey's talk, *Finite Group Theory: The major problems, and why we care*, can be found at the link below:
 
-# [Finite Group Theory slides](<../assets/talks/Term 2 Week 1 - Finite Group Theory.pdf>)
+# [Finite Group Theory slides](<../assets/talks/2024-2025/Term 2 Week 1 - Finite Group Theory.pdf>)
