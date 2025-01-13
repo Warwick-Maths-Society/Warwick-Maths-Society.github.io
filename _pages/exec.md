@@ -125,7 +125,7 @@ The Marketing Officer is responsible for the effective marketing of the society,
 ---
 
 ### Ball Secretary
-<p class="text-muted" style="font-size: 18px;">Lucien Asbury--Perret</p>
+<p class="text-muted" style="font-size: 18px;">Lucien Asbury—Perret</p>
 
 The Ball Secretary is to plan and run the society's annual winter ball. This involves:
 
@@ -137,4 +137,4 @@ The Ball Secretary is to plan and run the society's annual winter ball. This inv
 ### Freshers' Representatives
 <p class="text-muted" style="font-size: 18px;">Zac Connell, Kai Gentzel, Zain Lam, Ekaterina Leksina, Deeya Sharma, and Carmel West</p>
 
-First year students (*freshers*) are often underrepresented or entirely absent from society execs; the Freshers' Representative is to serve as a liaison between freshers and the society.
+First year students (*freshers*) are often underrepresented or entirely absent from society execs; the Freshers' Representatives are to serve as a liaison between freshers and the society.
