@@ -1,6 +1,6 @@
 ---
 title: Week 1 Talk Slides
-subtitle: Finite Group Theory: The major problems, and why we care
+subtitle: "Finite Group Theory: The major problems, and why we care"
 tags: [2025, talks] # events, year, updates, talks
 
 # Uncomment if post needs to be amended
@@ -18,8 +18,6 @@ author:
 include_on_search : false
 ---
 
-The slides for Dr Gareth Tracey'c talk, *Finite Group Theory: The major problems, and why we care*, can be found at the link below:
+The slides for Dr Gareth Tracey's talk, *Finite Group Theory: The major problems, and why we care*, can be found at the link below:
 
 # [Finite Group Theory slides](<../Term 1 Week 10 - On the Embeddedness of Minimal Surfaces.pdf>)
-
-See <a href="/cheatsheets">here</a> for some help with markdown/kramdown.
