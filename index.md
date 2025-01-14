@@ -19,6 +19,16 @@ body {
     background-image: url("./assets/desync/tiling-background.png");
     background-repeat: repeat;
 }
+
+#gold-sponsor {
+  background-color: #997a00 ;
+}
+#silver-sponsor {
+  background-color: #666666 ;
+}
+#bronze-sponsor {
+  background-color: #994d00 ;
+}
 </style>
 
 <div class="text-center my-4 py-5 px-3 bg-primary rounded-lg">
@@ -73,4 +83,19 @@ body {
     <br/>
     <br/>
     Many of our events are sober, so don't worry if you don't want to or can't drink!</p>
+</div>
+
+---
+
+<br/>
+
+<div class="text-center my-4 px-3">
+    <p><i class="fa-solid fa-award fa-3x"></i></p>
+    <h2 class="font-weight-light py-3">Our Sponsors</h2>
+</div>
+<div class="text-center my-4 py-5 px-3 rounded-lg chulapa-overlay-img" id="gold-sponsor">
+    GOLD SPONSORS' LOGOS HERE
+</div>
+<div class="text-center my-4 py-5 px-3 rounded-lg chulapa-overlay-img" id="bronze-sponsor">
+    SILVER SPONSORS' LOGOS HERE
 </div>
