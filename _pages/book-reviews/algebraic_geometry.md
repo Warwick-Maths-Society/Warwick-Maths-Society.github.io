@@ -3,7 +3,7 @@ title: Algebraic Geometry
 subtitle: 
 permalink: /book-reviews/algebraic-geometry
 date: 2024-10-19
-last_modified_at: 2024-10-19
+last_modified_at: 2025-01-14
 header_type:
 ---
 
@@ -25,6 +25,28 @@ header_type:
     <!-- <a href="">Online link</a> -->
     <br/>
     <span class="text-muted"><i>Prerequisites: A first course in commutative algebra.</i></span>
+</p>
+
+---
+
+<p class="line-height: 10%">
+    <strong>The Rising Sea: The Foundations of Algebraic Geometry</strong>
+    <br/>
+    <span class="text-muted">Ravi Vakil</span>
+    <a href="https://math.stanford.edu/~vakil/216blog/">Online link</a>
+    <br/>
+    <span class="text-muted"><i>Prerequisites: A first course in commutative algebra.</i></span>
+</p>
+
+---
+
+<p class="line-height: 10%">
+    <strong>Undergraduate Algebraic Geometry</strong>
+    <br/>
+    <span class="text-muted">Miles Reid</span>
+    <a href="https://homepages.warwick.ac.uk/staff/Miles.Reid/MA4A5/UAG.pdf">Online link</a>
+    <br/>
+    <span class="text-muted"><i>Prerequisites: None.</i></span>
 </p>
 
 ---
