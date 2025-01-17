@@ -137,9 +137,9 @@ body {
 </div>
 <div class="text-center my-1 py-4 px-3 rounded-lg">
     <a href="https://www.janestreet.com/">
-        <img src="/assets/sponsor logos/Jane Street.png" alt="Dorset Software Logo" style="max-height:120px;max-width:45%;float:left;padding=10pt;">
+        <img src="/assets/sponsor logos/Jane Street.png" alt="Jane Street Logo" style="max-height:120px;max-width:45%;float:left;padding=10pt;">
     </a>
     <a href="https://ima.org.uk/">
-        <img src="/assets/sponsor logos/IMA.png" alt="Dorset Software Logo" style="max-height:120px;max-width:45%;float:right;padding=10pt;">
+        <img src="/assets/sponsor logos/IMA.png" alt="IMA Logo" style="max-height:120px;max-width:45%;float:right;padding=10pt;">
     </a>
 </div>
