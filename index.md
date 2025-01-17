@@ -100,13 +100,13 @@ body {
     <h2 class="font-weight-light py-2 px-2">Gold Tier</h2>
 </div>
 <div class="text-center my-4 py-4 px-3 rounded-lg" id="gold-sponsor">
-    <a href="https://davincitrading.com/">
-        <img src="/assets/sponsor logos/Da Vinci Trading.png" alt="Da Vinci Trading Logo" style="max-height:100px;width:auto;">
+    <a href="https://tpp-uk.com/">
+        <img src="/assets/sponsor logos/TPP.png" alt="TPP Logo" style="max-height:100px;width:auto;">
     </a>
 </div>
 <div class="text-center my-4 py-4 px-3 rounded-lg" id="gold-sponsor">
-    <a href="https://sig.com/">
-        <img src="/assets/sponsor logos/Susquehanna-light.png" alt="Susquehanna Logo" style="max-height:100px;width:auto;">
+    <a href="https://www.dorsetsoftware.com/Home">
+        <img src="/assets/sponsor logos/Dorset Software.png" alt="Dorset Software Logo" style="max-height:100px;width:auto;">
     </a>
 </div>
 
@@ -116,13 +116,13 @@ body {
     <h2 class="font-weight-light py-2 px-2">Bronze Tier</h2>
 </div>
 <div class="text-center my-4 py-4 px-3 rounded-lg" id="bronze-sponsor">
-    <a href="https://tpp-uk.com/">
-        <img src="/assets/sponsor logos/TPP.png" alt="TPP Logo" style="max-height:100px;width:auto;">
+    <a href="https://davincitrading.com/">
+        <img src="/assets/sponsor logos/Da Vinci Trading.png" alt="Da Vinci Trading Logo" style="max-height:100px;width:auto;">
     </a>
 </div>
 <div class="text-center my-4 py-4 px-3 rounded-lg" id="bronze-sponsor">
-    <a href="https://www.dorsetsoftware.com/Home">
-        <img src="/assets/sponsor logos/Dorset Software.png" alt="Dorset Software Logo" style="max-height:100px;width:auto;">
+    <a href="https://sig.com/">
+        <img src="/assets/sponsor logos/Susquehanna-light.png" alt="Susquehanna Logo" style="max-height:100px;width:auto;">
     </a>
 </div>
 
