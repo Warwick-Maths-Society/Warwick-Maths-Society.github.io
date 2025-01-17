@@ -96,8 +96,8 @@ body {
     <p><i class="fa-solid fa-award fa-3x"></i></p>
     <h1 class="font-weight-light py-3">Our Sponsors</h1>
 </div>
-<div class="text-center my-4">
-    <h2 class="font-weight-light py-3" style="background-color:#997a00;">Gold Tier</h2>
+<div class="text-center rounded-lg" style="width:fit-content;background-color:#997a00;margin-inline:auto;">
+    <h2 class="font-weight-light py-2 px-2">Gold Tier</h2>
 </div>
 <div class="text-center my-4 py-4 px-3 rounded-lg" id="gold-sponsor">
     <a href="https://davincitrading.com/">
@@ -112,8 +112,8 @@ body {
 
 <br/>
 
-<div class="text-center my-4">
-    <h2 class="font-weight-light py-3" style="background-color:#994d00;">Bronze Tier</h2>
+<div class="text-center rounded-lg" style="width:fit-content;background-color:#994d00;margin-inline:auto;">
+    <h2 class="font-weight-light py-2 px-2">Bronze Tier</h2>
 </div>
 <div class="text-center my-4 py-4 px-3 rounded-lg" id="bronze-sponsor">
     <a href="https://tpp-uk.com/">
