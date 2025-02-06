@@ -16,7 +16,7 @@ author:
 
 The **Warwick-Imperial Mathematics Conference** (WIMP) will take place on **Saturday 1 March**. The itinerary is as follows:
 
-<img src="../assets/posts/2024-2025/WIMP 2025 Autumn Itinerary.png" alt="WIMP Itinerary" width="95%"/>
+<img src="../assets/posts/2024-2025/WIMP Spring 2025 Itinerary.png" alt="WIMP Itinerary" width="95%"/>
 
 Abstracts for the student talks can be found below.
 
