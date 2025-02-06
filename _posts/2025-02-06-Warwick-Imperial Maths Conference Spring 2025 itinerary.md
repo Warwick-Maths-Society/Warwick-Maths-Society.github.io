@@ -30,6 +30,9 @@ blockquote {
     margin: 0 0 30px 0;
     font-size: 15px;
 }
+blockquote + blockquote {
+    margin-top: -30px;
+}
 </style>
 
 Abstract:
