@@ -27,7 +27,7 @@ Title: *The Story of Prime Functions*
 <style>
 blockquote {
     padding: 10px 20px 0 0;
-    margin: 0 0 0 0;
+    margin: 0 0 30px 0;
     font-size: 15px;
 }
 </style>
@@ -66,7 +66,7 @@ Kit Liu (*Structural Set Theory in Foundations*):
 ### Imperial talks (Room 308)
 Archie Brown (*Almost Ring Theory*):
 
-> Almost Ring Theory, developed originally in \\(1988\\) by Gerd Faltings to study \\(p\\)-adic Hodge Theory, is a huge generalisation of much of the ring theory we are taught on an undergraduate degree. Somewhere between Category Theory and Commutative Algebra, the theory makes precise the notion of "approximate" algebraic structures which don't always fit into the usual rigid axioms. Most notably, the theory has been used heavily by Peter Scholze in his Fields Medal winning work on Perfectoid Spaces. Well what actually is an almost ring'? It's simply a commutative unitary monoid' in the category of almost modules. Confused? don't worry, this talk will go over all of the prerequisite Category Theory and Algebra needed to build Almost Ring Theory from the ground up. In particular, we will look at the topics of: Localisation, Adjunction, Categorical Algebras, Serre Quotients. We will also take a look at how me and my supervisor are trying to define `almost' analogues of standard tools from Algebraic Geometry like the Hilbert-Samuel Function and the Grothendieck Group.
+> Originally introduced by Faltings, almost Ring Theory is a formal relaxation of the axioms of standard comutative algebra. It has since been developed mainly by Gaber and Ramero in their comprehensive textbook and famously utilised to great extend by Scholze in his Fields medal winning work on Perfectoid spaces. Somewhere between commutative algebra and category theory, Almost Mathematics is a major generalisation of much of the algebra which we learn. As such, it provides insights and novel techniques for proving a lot of classical results. Practically every object or theorem you know in commutative algebra has an almost counterpart. This talk will bring you up to speed on the basic definitions and ideas of the field before taking a glance at some of the new results I am attempting to work on. This mainly includes calculations of the Grothendieck group for certain classes of “almost” modules.
 
 
 Jeffrey Chang (*Solving Tower of Hanoi and it's variants*):
