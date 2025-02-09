@@ -19,7 +19,7 @@ The **Warwick-Imperial Mathematics Conference** (WIMP) will take place on **Satu
 
 Abstracts for the student talks can be found below.
 
-The plenary talk will be given by Professor Darren Crowdy, from **0930** to **1030** in **Blackett LT1*.
+The plenary talk will be given by Professor Darren Crowdy, from **0930** to **1030** in **Blackett LT1**.
 
 Title: *The Story of Prime Functions*
 
@@ -45,8 +45,7 @@ Yung Kit So (*Geometric Inequalities via the ABP Method*):
 
 
 Kyle Thompson (*Sheaves and the Serre-Swan Theorem*):
-> What is geometry? The study of shapes. What’s a shape? A space with some structure. What structure? A sheaf. Sheaves arise in mathematics all over the place, from geometry to logic, and – while complicated – they arise from the simple goal of studying the functions on a space. This talk focusses on studying the most basic applications of sheaves to construct the natural category in which to do geometry: the category of locally ringed spaces. Additionally, once we have a space, we care about what are called “vector bundles” over this space – objects constructed by taking a space and attaching a vector space to each point. By viewing these objects in terms of sheaves we can gain insight into their algebraic structure by introducing the powerful so-called Serre–Swan theorem. A theorem that has applications to topology, differential geometry, and algebraic 
-geometry, giving us a comprehensive characterisation of the possible vector bundles we can define over any (reasonably nice) space.
+> What is geometry? The study of shapes. What’s a shape? A space with some structure. What structure? A sheaf. Sheaves arise in mathematics all over the place, from geometry to logic, and – while complicated – they arise from the simple goal of studying the functions on a space. This talk focusses on studying the most basic applications of sheaves to construct the natural category in which to do geometry: the category of locally ringed spaces. Additionally, once we have a space, we care about what are called “vector bundles” over this space – objects constructed by taking a space and attaching a vector space to each point. By viewing these objects in terms of sheaves we can gain insight into their algebraic structure by introducing the powerful so-called Serre–Swan theorem. A theorem that has applications to topology, differential geometry, and algebraic geometry, giving us a comprehensive characterisation of the possible vector bundles we can define over any (reasonably nice) space.
 
 
 Gengzhou Tan (*Goodwillie Calculus and Brown Representability*):
@@ -60,18 +59,19 @@ Kit Liu (*Structural Set Theory in Foundations*):
 
 > However, in the standard foundational framework of ZFC – Zermelo–Fraenkel set theory with Choice – everything is a set, so the question “is \\(\\pi \\in \\log\\)?” should have a yes-or-no answer. This viewpoint is at odds with how most mathematicians use sets in practice: we don't usually think of functions (or many other objects) as sets, because they're not meaningfully compatible with set operations nor relations, and the truth value of propositions involving these operations or relations applied to objects typically not considered to be sets depend purely on (arbitrary choices of) implementation details and will generally fail to be isomorphism invariant.
 
-> Many of these quirks arise from the "global" nature of the set membership relation: it is always valid to compare any two arbitrary sets for membership and equality. However, in most practical contexts, sets are often stratified, in the sense that we usually don't have very long chains of membership containment, and sets from different strata are very rarely compared or combined.
+> Many of these quirks arise from the "global" nature of the set membership relation: it is always valid to compare any two arbitrary sets for membership and equality. However, in most practical contexts, sets are often *stratified*, in the sense that we usually don't have very long chains of membership containment, and sets from different strata are very rarely compared or combined.
 
-> In this talk, we present the structuralist’s solution to this problem: a way of formulating the foundations of mathematics that more closely resembles how mathematicians actually manipulate sets in practice, by constructing "structural" sets and local set membership relations between them.
+> In this talk, we present the structuralist’s solution to this problem: a way of formulating the foundations of mathematics that more closely resembles how mathematicians actually manipulate sets in practice, by constructing "structural" sets connected together via *local* set membership relations between them.
 
 
 ### Imperial talks (Room 308)
 Archie Brown (*Almost Ring Theory*):
 
-> Originally introduced by Faltings, almost Ring Theory is a formal relaxation of the axioms of standard comutative algebra. It has since been developed mainly by Gaber and Ramero in their comprehensive textbook and famously utilised to great extend by Scholze in his Fields medal winning work on Perfectoid spaces. Somewhere between commutative algebra and category theory, Almost Mathematics is a major generalisation of much of the algebra which we learn. As such, it provides insights and novel techniques for proving a lot of classical results. Practically every object or theorem you know in commutative algebra has an almost counterpart. This talk will bring you up to speed on the basic definitions and ideas of the field before taking a glance at some of the new results I am attempting to work on. This mainly includes calculations of the Grothendieck group for certain classes of “almost” modules.
+> Originally introduced by Faltings, *almost Ring Theory* is a formal relaxation of the axioms of standard comutative algebra. It has since been developed mainly by Gaber and Ramero in their comprehensive textbook and famously utilised to great extend by Scholze in his Fields medal winning work on Perfectoid spaces. Somewhere between commutative algebra and category theory, Almost Mathematics is a major generalisation of much of the algebra which we learn. As such, it provides insights and novel techniques for proving a lot of classical results. Practically every object or theorem you know in commutative algebra has an almost counterpart. This talk will bring you up to speed on the basic definitions and ideas of the field before taking a glance at some of the new results I am attempting to work on. This mainly includes calculations of the Grothendieck group for certain classes of “almost” modules.
 
 
 Jeffrey Chang (*Solving Tower of Hanoi and it's variants*):
+
 > This talk will explore the Tower of Hanoi and its two variants—the Cyclic and Linear Hanoi—focusing on the minimum moves required for each. We will discuss the recursive strategies behind solving these puzzles and how additional constraints affect complexity. The aim is to provide a clear mathematical framework for understanding these problems while making the content accessible to a broad audience, including those with minimal mathematical background. Visual demonstrations and step-by-step breakdowns will ensure clarity. By the end, attendees will grasp both the theoretical and practical aspects of these puzzles, appreciating their algorithmic and problem-solving significance.
 
 
@@ -84,7 +84,7 @@ John Zou (*From Gossip to Gospel: An Introduction to Ising inspired models in Op
 
 
 Leonardo Wang (*Combinatorial Nullstellensatz: Polynomial Methods in Additive Combinatorics and Graph Coloring*):
-> A spin-off and in some ways a stronger version of Hilbert's Nullstellensatz in Algebraic Geometry, the methodology of Combinatorial Nullstellensatz relies on the ingenius idea of embedding information, often sets or graphs, in a polynomial. Often, through exploiting the finiteness of its zero set and by maneuvering its degree, one can prove existence magically - even though such an existence is non-constructive, one can still extract an immense amount of information through this algebraic technique. In this talk, I will introduce the theorem and explore its applications in two areas: graph coloring and additive combinatorics. I'll first demonstrate its prominent role in additive combinatorics, including zero-sum problems and sum-set inequalities. Then I will showcase its use in proving the existence of proper graph colorings, with applications in identifying degree of choosability of graphs as well as hypergraph coloring and more. Overall, this talk will highlight how polynomial methods provide a unifying framework for diverse combinatorial problems.
+> A spin-off, and in some ways a stronger version of Hilbert's Nullstellensatz in Algebraic Geometry, the methodology of Combinatorial Nullstellensatz relies on the ingenious idea of embedding information - often about sets or graphs - in a polynomial. Often, through exploiting the finiteness of its zero set and by maneuvering its degree, one can prove existence magically - even though such an existence is non-constructive, one can still extract an immense amount of information through this algebraic technique. In this talk, I will introduce the theorem and explore its applications in two areas: graph coloring and additive combinatorics. I'll first demonstrate its prominent role in additive combinatorics, including zero-sum problems and sum-set inequalities. Then I will showcase its use in proving the existence of proper graph colorings, with applications in identifying degree of choosability of graphs as well as hypergraph coloring and more. Overall, this talk will highlight how polynomial methods provide a unifying framework for diverse combinatorial problems.
 
 
 Xinyan Wang (*Exploring Dependence: The Power of Copulas*):
