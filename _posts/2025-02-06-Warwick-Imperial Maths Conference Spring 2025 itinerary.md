@@ -3,8 +3,7 @@ title: Warwick-Imperial Maths Conference
 subtitle: WIMP Spring 2025 itinerary
 tags: [2025, events] # events, year, updates, talks
 
-# Uncomment if post needs to be amended
-# last_modified_at: YYYY-MM-DD
+last_modified_at: 2025-02-09
 
 show_author : true
 author:
