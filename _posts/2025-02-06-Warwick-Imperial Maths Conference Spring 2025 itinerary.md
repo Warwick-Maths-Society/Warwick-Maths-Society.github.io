@@ -3,8 +3,7 @@ title: Warwick-Imperial Maths Conference
 subtitle: WIMP Spring 2025 itinerary
 tags: [2025, events] # events, year, updates, talks
 
-# Uncomment if post needs to be amended
-# last_modified_at: YYYY-MM-DD
+last_modified_at: 2025-02-09
 
 show_author : true
 author:
@@ -72,11 +71,12 @@ Archie Brown (*Almost Ring Theory*):
 
 
 Jeffrey Chang (*Solving Tower of Hanoi and it's variants*):
-> **TBC**
+
+> This talk will explore the Tower of Hanoi and its two variants—the Cyclic and Linear Hanoi—focusing on the minimum moves required for each. We will discuss the recursive strategies behind solving these puzzles and how additional constraints affect complexity. The aim is to provide a clear mathematical framework for understanding these problems while making the content accessible to a broad audience, including those with minimal mathematical background. Visual demonstrations and step-by-step breakdowns will ensure clarity. By the end, attendees will grasp both the theoretical and practical aspects of these puzzles, appreciating their algorithmic and problem-solving significance.
 
 
 Chengyan Hu (*A deep talk in the group structure of elliptic curves*):
-> **TBC**
+> I treat this talk as an introduction to the area of elliptic curves, aiming to prove the group of rational points on an elliptic curve is finitely generated (Mordell-Weils Theorem), with as few pre-requirement (essentially only basic group theory) as possible. We will take a more algebraic approach to the group structure, using the Cayley-Bacharach Theorem to establish associativity and avoid cumbersome computations. Next, we will discuss the criteria for an abelian group to be finitely generated, which is purely a group theoretic result, laying the groundwork for the Weak Mordell-Weil Theorem. Using a specific elliptic curve \\(y^2=x(x-1)(x+1)\\) as example, the idea of proof will be clear, so the formal proof can be left as an easy exercise. With the help of a height function (which will be discussed), Mordell-weils will be done. Finally, we will briefly introduce abelian varieties as a natural generalization of elliptic curves.
 
 
 John Zou (*From Gossip to Gospel: An Introduction to Ising inspired models in Opinion Dynamics*):
