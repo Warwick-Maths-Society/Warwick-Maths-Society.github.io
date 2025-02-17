@@ -14,8 +14,6 @@ author:
 #  (use your github profile picture if you don't have anything else, i.e. https://avatars.githubusercontent.com/u/30439030)
 #  location: "Location" (if applicable)
 
-# Delete this line in your new post:
-include_on_search : false
 ---
 
 The slides for Dr Gareth Tracey's talk, *Finite Group Theory: The major problems, and why we care*, can be found at the link below:
