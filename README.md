@@ -20,7 +20,11 @@ This website was originally developed, built, and maintained by [Kit Liu](https:
 
 General maintenance has since been taken over by the Publications Officer(s) -- currently [Alfie Giffen](https://github.com/Bongo50) and [Ekaterina Leksina](https://github.com/sadmango-dev).
 
+### Contributors
 
+<a href="https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Warwick-Maths-Society/Warwick-Maths-Society.github.io" />
+</a>
 
 # Contributing
 
@@ -30,6 +34,7 @@ You do not need to install anything to contribute. However, you will not be able
 
 > - [ ] I have built and tested these changes locally or otherwise, and confirm that they work and don't break existing functionality.
 > - [x] I have not built these changes locally or otherwise, and require someone to review these changes for me.
+
 
 ## Previewing Changes
 
