@@ -40,8 +40,6 @@ header_type:
 
 A broad introduction to many areas of mathematics, including basic number theory, introductory real analysis, introductory calculus and geometry. I would recommend it to students either about to start an introductory module on one of the topics covered (or about to start a university maths course in general), already taking a module on one of the topics covered and finding it difficult. While the book doesn't go particuarly deep into any of the topics covered, it covers the introductory material comprehensively and well, also including exercises to aid with learning the material.
 
----
-
 <p class="line-height: 10%">
     <strong>Proof and Refutation</strong>
     <br/>
@@ -56,3 +54,16 @@ This book is a beautiful read, exploring the intricate and dynamic nature of mat
 Lakatos' book is written as a dialogue between a fictional class of students and a teacher, as they conjecture, refute, and prove Euler's polyhedral formula -- the full book is spent on this single result. A preliminary proof is given, split up into smaller lemmata, before then being refuted via a counterexample; the counterexample is studied, and elucidates a hole in the proof, which is then adjusted to fit, and so on. Delicate fine-points of argumentation are organically explored in detail, walking through various methods and forms of attack for proving a new conjecture from false leads and their counterexamples. While the book is philosophical in nature, it is still very relevant to working mathematicians precisely for this reason -- if there is one thing to take from this book, it should be Lakatos' titular method of proofs and refutation.
 
 The book also serves well as a rough, but informative, historical record of the development of the Euler characteristic, with many of the students closely mirroring historical mathematicians in their actions; as well as a commentary on the history of mathematics and the 19th Century hostility towards counterexamples, as well as other problems in research that persist to this day.
+
+---
+
+<p class="line-height: 10%">
+     <strong>The Princeton Companion to Mathematics</strong>
+    <br/>
+    <span class="text-muted"> Timothy Gowers, June Barrow-Green, Imre Leader</span>
+    <!-- <a href="">Online link</a> -->
+    <br/>
+    <span class="text-muted"><i>Prerequisites: None.</i></span>
+</p>
+
+--- 
