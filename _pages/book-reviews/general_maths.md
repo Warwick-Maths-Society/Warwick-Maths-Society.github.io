@@ -40,6 +40,8 @@ header_type:
 
 A broad introduction to many areas of mathematics, including basic number theory, introductory real analysis, introductory calculus and geometry. I would recommend it to students either about to start an introductory module on one of the topics covered (or about to start a university maths course in general), or already taking a module on one of the topics covered and finding it difficult. While the book doesn't go particuarly deep into any of the topics covered, it covers the introductory material comprehensively and well, also including exercises to aid with learning the material.
 
+---
+
 <p class="line-height: 10%">
     <strong>Proof and Refutation</strong>
     <br/>
@@ -65,5 +67,3 @@ The book also serves well as a rough, but informative, historical record of the 
     <br/>
     <span class="text-muted"><i>Prerequisites: None.</i></span>
 </p>
-
---- 
