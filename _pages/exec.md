@@ -125,7 +125,7 @@ The Marketing Officer is responsible for the effective marketing of the society,
 ---
 
 ### Ball Secretary
-<p class="text-muted" style="font-size: 18px;">Alex Funnel</p>
+<p class="text-muted" style="font-size: 18px;">Alex Funnell</p>
 
 The Ball Secretary is to plan and run the society's annual winter ball. This involves:
 
