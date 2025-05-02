@@ -88,8 +88,8 @@ The Academic Events Coordinator organises academic collaborations with other soc
 
 ---
 
-## Publications Officers
-<p class="text-muted" style="font-size: 18px;">Alfie Giffen</p>
+### Publications Officers
+<p class="text-muted" style="font-size: 18px;">Alfie Giffen and Jakob Wood</p>
 
 The Publications Officers are in charge of the general maintenance and upkeep of the society webpage. This involves:
 
