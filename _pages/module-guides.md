@@ -161,6 +161,10 @@ tbody{
     <td>MA3K4</td>
     <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/MA3K4 Introduction to Group Theory.pdf">MA3K4 Introduction to Group Theory</a></td>
   </tr>
+  <tr>
+    <td>MA3K6</td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/MA3K6 Boolean Functions.pdf">MA3K6 Boolean Functions [Incomplete; missing LRO functions]</a></td>
+  </tr>
 </table>
 
 <br/>
@@ -178,7 +182,15 @@ tbody{
   </tr>
   <tr>
     <td>MA473</td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/MA453 Lie Algebras.pdf">MA453 Lie Algebras [Incomplete; missing root systems/Dynkin diagrams]</a></td>
+  </tr>
+  <tr>
+    <td>MA473</td>
     <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/MA473 Reflection Groups.pdf">MA473 Reflection Groups</a></td>
+  </tr>
+  <tr>
+    <td>MA473</td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/MA4A5 Algebraic Geometry.pdf">MA4A5 Algebraic Geometry [Incomplete; missing Segre embeddings, Grassmannians]</a></td>
   </tr>
   <!-- <tr>
     <td><a target="_blank" href="./"></a></td>
