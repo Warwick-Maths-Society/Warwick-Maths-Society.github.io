@@ -92,6 +92,10 @@ tbody{
     <td><a target="_blank" href="./assets/essays-2/88 - Nowhere Dense Sets.pdf">Nowhere Dense Sets</a></td>
   </tr>
   <tr>
+    <td>92</td>
+    <td><a target="_blank" href="./assets/essays-2/92 - Introduction to ZFC.pdf">Introduction to ZFC</a></td>
+  </tr>
+  <tr>
     <td>100</td>
     <td><a target="_blank" href="./assets/essays-2/100 - The Yoneda Lemma.pdf">The Yoneda Lemma</a></td>
   </tr>
