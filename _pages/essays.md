@@ -73,7 +73,7 @@ tbody{
   </tr>
   <tr>
     <td>82</td>
-    <td><a target="_blank" href="./assets/essays-2/tbd - Generalised Stokes Theorem.pdf">Generalised Stokes Theorem</a></td>
+    <td><a target="_blank" href="./assets/essays-2/82 - Generalised Stokes Theorem.pdf">Generalised Stokes Theorem</a></td>
   </tr>
   <tr>
     <td>83</td>
@@ -97,7 +97,7 @@ tbody{
   </tr>
   <tr>
     <td>100</td>
-    <td><a target="_blank" href="./assets/essays-2/100 - The Yoneda Lemma.pdf">The Yoneda Lemma</a></td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Archive/The%20Yoneda%20Lemma.pdf">The Yoneda Lemma</a></td>
   </tr>
 </table>
 
@@ -105,7 +105,7 @@ tbody{
 
 <br/>
 
-We also have a collection of 3rd year essays:
+# 3rd Year Essays
 
 <table style="margin: 0px auto; width:100%;">
   <tr>
@@ -118,7 +118,7 @@ We also have a collection of 3rd year essays:
   </tr>
   <tr>
     <td>82</td>
-    <td><a target="_blank" href="./assets/essays-3/82 - Structural Foundations in Topoi.pdf">Structural Foundations in Topoi</a></td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Archive/Structural%20Foundations%20in%20Topoi.pdf">Structural Foundations in Topoi</a></td>
   </tr>
   <tr>
     <td>83</td>
@@ -129,3 +129,22 @@ We also have a collection of 3rd year essays:
     <td><a target="_blank" href="./assets/essays-3/92 - Riemann Surfaces.pdf">Riemann Surfaces</a></td>
   </tr>
 </table>
+
+# 4th Year Projects/Dissertations
+
+<table style="margin: 0px auto; width:100%;">
+  <tr>
+    <th>Mark</th>
+    <th>Title</th>
+  </tr>
+  <tr>
+    <td>tbd</td>
+    <td><a target="_blank" href="./assets/essays-4/tbd - Detecting Fibred Links and Computing Monodromy.pdf">Detecting Fibred Links and Computing Monodromy</a></td>
+  </tr>
+  <tr>
+    <td>tbd</td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Archive/Constructivism%20in%20Mathematics.pdf">I can't believe you just excluded the middle</a></td>
+  </tr>
+</table>
+
+
