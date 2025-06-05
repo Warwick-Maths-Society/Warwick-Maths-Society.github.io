@@ -177,7 +177,7 @@ Below, we have compiled a collection of previous essays that you can use for ref
 
 
 
-## 4th Year Projects/Dissertations
+## Dissertations
 
 <table class="uniform">
   <colgroup>
