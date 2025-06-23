@@ -260,12 +260,15 @@ Note that only the most popular optional external modules have been listed below
 </div>
 
 
+
 <br/>
 <br/>
 <br/>
+
 
 
 # Year 2
+
 ## Maths Modules
 
 <div class="accordion" id="accordionY2maths">
@@ -478,8 +481,9 @@ Note that only the most popular optional external modules have been listed below
   </div>
 </div>
 
-## External Modules
 
+
+## External Modules
 
 <div class="accordion" id="accordionY2misc">
   <div class="card">
@@ -684,9 +688,11 @@ Note that only the most popular optional external modules have been listed below
 </div>
 
 
+
 <br/>
 <br/>
 <br/>
+
 
 
 # Year 3
@@ -1302,8 +1308,9 @@ Note that only the most popular optional external modules have been listed below
   </div>
 </div>
 
-## External Modules
 
+
+## External Modules
 
 <div class="accordion" id="accordionY3misc">
   <div class="card">
@@ -1457,10 +1464,17 @@ Note that only the most popular optional external modules have been listed below
 
 
 
+<br/>
+<br/>
+<br/>
+
+
+
 # Year 4
 
 Sections will be added as reviews are submitted, due to the abundance of 4th year modules, along with the frequency at which they change.
 
+## Maths Modules
 
 <div class="accordion" id="accordionY4maths">
   <div class="card">
@@ -1571,7 +1585,7 @@ Sections will be added as reviews are submitted, due to the abundance of 4th yea
       <div class="card-body">
         <large class="text-muted">24/25</large>
         <br/>
-        Unlike the first module on set theory, <i>MA3H3 Set Theory</i>, this module does focusses almost entirely on systems (significantly) weaker than ZFC, showing that many common constructions do not require as many axioms as one might think, as well as showing how some intuitive notions bifurcate under weaker assumptions.
+        Unlike the first module on set theory, <i>MA3H3 Set Theory</i>, this module focusses almost entirely on systems (significantly) weaker than ZFC, showing that many common constructions do not require as many axioms as one might think, as well as showing how some intuitive notions bifurcate under weaker assumptions.
         <br/>
         <br/>
         The module begins with a review of first-order logic and basic model theory, before introducing the Basic system -- Extensionality, Separation, Union, Power Set, Pairing -- within which most of the module takes place. Some order theory is then explored, covering relations, quasiorders, lattices, well-orderability, and ordinals, before developing some connections to Choice. Cardinal arithmetic is then covered, with and without Choice, before a final section on the Generalised Continuum Hypothesis, regular/successor cardinalities, Replacement, and large cardinals.
