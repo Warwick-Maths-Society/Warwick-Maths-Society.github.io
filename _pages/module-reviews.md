@@ -350,7 +350,7 @@ Note that only the most popular optional external modules have been listed below
         In the year I took this module, the notes were handwritten and nigh unreadable, and the lectures were dull and unengaging; on some occasions, mistakes would be found near the end of an example, upon which the lecturer would erase the board and then repeat the last 20 minutes of the lecture with the mistake amended. The notes and lecturer have changed (improved) in the 23/24 academic year, but the content has remained largely unchanged, so the above summary is still applicable. Overall, the content in this module seems somewhat disjointed and incomplete: the only reason you should take this module would be to fill in extra MA2-coded modules for the second year MMath requirement — because if you are interested in this kind of mathematics, there are far better module options to take.
         <br/>
         <br/>
-        In particular, if you are interested in algorithms and graph theory, which the bulk of this module concerns itself with, you would be better off taking <i>CS260 Algorithms</i> and <i>CS254 Algorithmic Graph Theory</i>; and if you are interested in complexity theory (NP-hardness, complexity classes, matroids, etc. which <i>used</i> to be in this module before being replaced with linear programming), then I recommend taking <i>CS301 Complexity of Algorithms</i>, or alternatively for computability theory, <i>C259 Formal Languages</i>, <i>PH345 Computability Theory</i>, and <i>PH349 Logic III: Incompleteness & Undecidability</i>.
+        In particular, if you are interested in algorithms and graph theory, which the bulk of this module concerns itself with, you would be better off taking <i>CS260 Algorithms</i> and <i>CS254 Algorithmic Graph Theory</i>; and if you are interested in complexity theory (NP-hardness, complexity classes, matroids, etc. which <i>used</i> to be in this module before being replaced with linear programming), then I recommend taking <i>CS301 Complexity of Algorithms</i>, or alternatively for computability theory, <i>C259 Formal Languages</i>, <i>PH345 Computability Theory</i>, and <i>PH340 Logic III: Incompleteness & Undecidability</i>.
       </div>
     </div>
     <!-- -->
@@ -1012,7 +1012,7 @@ Note that only the most popular optional external modules have been listed below
         The notes are well-written and interesting, with lots of clearly-marked non-examinable extension material for interested readers, and the lectures complemented the notes well. The worksheets and exercises are generally relatively easy, though many of the earlier ones simply involve routine algebraic manipulations with little creativity or thought required.
         <br/>
         <br/>
-        The course focusses somewhat excessively on construction, and covers relatively little on set theory outside of its use in encoding other mathematical structures — but at the same time, these particular constructions aren't very interesting foundationally, and <i>PH342 Philosophy of Mathematics</i> or <i>PH340 Logic III</i> would be a better pick for those interested in set-theoretic foundations. Aside from this, the module is well-taught and is suitable for students over a wide range of mathematical interests. This module is on the easier side of things, but beware that <i>MA3L1 Topics in Set Theory</i> is much more difficult and involved.
+        The course focusses somewhat excessively on construction, and covers relatively little on set theory outside of its use in encoding other mathematical structures — but at the same time, these particular constructions aren't very interesting foundationally, and <i>PH342 Philosophy of Mathematics</i> or <i>PH340 Logic III</i> would be a better pick for those interested in set-theoretic foundations. Aside from this, the module is well-taught and is suitable for students over a wide range of mathematical interests. This module is on the easier side of things, but beware that <i>MA4N8 Topics in Set Theory</i> is much more difficult and involved.
       </div>
     </div>
     <!-- -->
@@ -1251,22 +1251,6 @@ Note that only the most popular optional external modules have been listed below
       </div>
     </div>
     <!-- -->
-    <div class="card-header" id="headingMA3L1">
-      <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3L1" aria-expanded="false" aria-controls="collapseMA3L1" id="MA3L1"
-        disabled>
-          <large><a href="#MA3L1">MA3L1 Topics in Set Theory</a></large>
-        </button>
-      </h2>
-    </div>
-    <div id="collapseMA3L1" class="collapse" aria-labelledby="headingMA3L1" data-parent="#accordionY3maths">
-      <div class="card-body">
-        <large class="text-muted">YY/YY</large>
-        <br/>
-        review here
-      </div>
-    </div>
-    <!-- -->
     <div class="card-header" id="headingMA3L2">
       <h2 class="m-0">
         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3L2" aria-expanded="false" aria-controls="collapseMA3L2" id="MA3L2"
@@ -1467,6 +1451,165 @@ Note that only the most popular optional external modules have been listed below
         review here
       </div>
     </div>
+    <!-- -->
+  </div>
+</div>
+
+
+
+# Year 4
+
+Sections will be added as reviews are submitted, due to the abundance of 4th year modules, along with the frequency at which they change.
+
+
+<div class="accordion" id="accordionY4maths">
+  <div class="card">
+    <!-- -->
+    <div class="card-header" id="headingMA453">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA453" aria-expanded="false" aria-controls="collapseMA453"  id="MA453"
+        disabled>
+          <large><a href="#MA453">MA453 Lie Algebras</a></large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA453" class="collapse" aria-labelledby="headingMA453" data-parent="#accordionY4maths">
+      <div class="card-body">
+        <large class="text-muted">24/25</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA473">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA473" aria-expanded="false" aria-controls="collapseMA473"  id="MA473"
+        disabled>
+          <large><a href="#MA473">MA473 Reflection Groups</a></large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA473" class="collapse" aria-labelledby="headingMA473" data-parent="#accordionY4maths">
+      <div class="card-body">
+        <large class="text-muted">23/24</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA4A5">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA4A5" aria-expanded="false" aria-controls="collapseMA4A5" id="MA4A5"
+        disabled>
+          <large><a href="#MA4A5">MA4A5 Algebraic Geometry</a></large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA4A5" class="collapse" aria-labelledby="headingMA4A5" data-parent="#accordionY4misc">
+      <div class="card-body">
+        <large class="text-muted">24/25</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA4M6">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA4M6" aria-expanded="false" aria-controls="collapseMA4M6" id="MA4M6"
+        disabled>
+          <large><a href="#MA4M6">MA4M6 Category Theory</a></large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA4M6" class="collapse" aria-labelledby="headingMA4M6" data-parent="#accordionY4misc">
+      <div class="card-body">
+        <large class="text-muted">24/25</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA4N1">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA4N1" aria-expanded="false" aria-controls="collapseMA4N1"  id="MA4N1"
+        disabled>
+          <large><a href="#MA4N1">MA4N1 Theorem Proving in Lean</a></large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA4N1" class="collapse" aria-labelledby="headingMA4N1" data-parent="#accordionY4maths">
+      <div class="card-body">
+        <large class="text-muted">23/24</large>
+        <br/>
+        review here
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingMA4N3">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA4N3" aria-expanded="false" aria-controls="collapseMA4N3"  id="MA4N3"
+        disabled>
+          <large><a href="#MA4N3">MA4N3 Symmetric Functions and Integrable Probability</a></large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA4N3" class="collapse" aria-labelledby="headingMA4N3" data-parent="#accordionY4maths">
+      <div class="card-body">
+        <large class="text-muted">24/25</large>
+        <br/>
+        review here
+      </div>
+    </div>    <!-- -->
+    <div class="card-header" id="headingMA4N8">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA4N8" aria-expanded="false" aria-controls="collapseMA4N8" id="MA4N8">
+          <large><a href="#MA4N8">MA4N8 Topics in Set Theory</a></large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA4N8" class="collapse" aria-labelledby="headingMA4N8" data-parent="#accordionY3maths">
+      <div class="card-body">
+        <large class="text-muted">24/25</large>
+        <br/>
+        Unlike the first module on set theory, <i>MA3H3 Set Theory</i>, this module does focusses almost entirely on systems (significantly) weaker than ZFC, showing that many common constructions do not require as many axioms as one might think, as well as showing how some intuitive notions bifurcate under weaker assumptions.
+        <br/>
+        <br/>
+        The module begins with a review of first-order logic and basic model theory, before introducing the Basic system -- Extensionality, Separation, Union, Power Set, Pairing -- within which most of the module takes place. Some order theory is then explored, covering relations, quasiorders, lattices, well-orderability, and ordinals, before developing some connections to Choice. Cardinal arithmetic is then covered, with and without Choice, before a final section on the Generalised Continuum Hypothesis, regular/successor cardinalities, Replacement, and large cardinals.
+        <br/>
+        <br/>
+        The content is, overall, quite difficult. One of the points of difficulty is perhaps the need to undo your intuitions about sets, given the very weak systems this module is done in. For instance, for a significant portion of this module, sets can contain themselves or otherwise form closed loops of memberships. However, this is also one of the more interesting points of the module, exploring systems and models that behave very differently from our usual intuitions.
+        <br/>
+        <br/>
+        Notation is difficult to parse in this module, as the same letter or glyph will frequently appear four or five times on the same page in a slightly different font or typeface, or otherwise extremely similar symbols are used in close proximity, e.g. the following definitions from the first half of the course:
+        $$\begin{align*}
+        \mathcal{Q}\mathsf{X}&=\{\mathsf{Q}\in\mathcal{R}\mathsf{X}:\mathsf{Q}\text{ is a quasiorder}\}\\
+        \mathfrak{Q}\mathsf{X}&=\mathcal{Q}\mathsf{X}/\equiv_{\mathsf{X}}\\
+        \wp\mathsf{X}&=\{\mathsf{Q}\in\mathcal{Q}\mathsf{X}:\mathsf{Q}\text{ is a partial order}\}\\
+        \mathcal{O}\mathsf{X}&=\{\mathsf{Q}\in\wp\mathsf{X}:\check{\mathsf{Q}}\text{ is a well-order}\}\\
+        \mathfrak{O}\mathsf{X}&=\{\mathfrak{q}\in\mathfrak{Q}\mathsf{X}:\mathsf{Q}\in\mathcal{O}\mathsf{X}\text{ for some }\mathsf{Q}\in\mathfrak{q}\}
+        \end{align*}$$
+        The lectures are often also equally as confusing if you are unfamiliar with Adam, and otherwise quite entertaining if you are. The support classes are also taught by the lecturer, and select problems from the worksheets (of which there are many) are interactively covered in detail, and are very much worth attending -- probably more so than the lectures themselves.
+        <br/>
+        <br/>
+        This module pairs well with <i>PH210 Logic II</i>, and to a slightly lesser extent, <i>PH340 Logic III</i>. There is also some very mild overlap in content with <i>MA3J2 Combinatorics II</i> with posets and chains.
+      </div>
+    </div>
+    <!-- -->
+    <!-- <div class="card-header" id="headingMA4YZ">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA4YZ" aria-expanded="false" aria-controls="collapseMA4YZ"  id="MA4YZ"
+        disabled>
+          <large><a href="#MA4YZ">MA4YZ</a></large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA4YZ" class="collapse" aria-labelledby="headingMA4YZ" data-parent="#accordionY4maths">
+      <div class="card-body">
+        <large class="text-muted">YY/YY</large>
+        <br/>
+        review here
+      </div>
+    </div> -->
     <!-- -->
   </div>
 </div>
