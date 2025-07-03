@@ -191,12 +191,12 @@ Below, we have compiled a collection of previous essays that you can use for ref
     <th>Presentation</th>
   </tr>
   <tr>
-    <td>tbd</td>
+    <td>80</td>
     <td><a target="_blank" href="./assets/essays-4/tbd - Detecting Fibred Links and Computing Monodromy.pdf">Detecting Fibred Links and Computing Monodromy</a></td>
     <td><a target="_blank" href="./assets/essays-4/tbd - Detecting Fibred Links and Computing Monodromy Presentation.pdf"></a></td>
   </tr>
   <tr>
-    <td>tbd</td>
+    <td>90</td>
     <td><a target="_blank" href="https://desyncthethird.github.io/Archive/Constructivism%20in%20Mathematics.pdf">I can't believe you just excluded the middle</a></td>
     <td><a target="_blank" href=""></a></td>
   </tr>
