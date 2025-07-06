@@ -124,6 +124,13 @@ The Marketing Officer is responsible for the effective marketing of the society,
 
 ---
 
+### Tour Secretary
+<p class="text-muted" style="font-size: 18px;">Charlie Bryant</p>
+
+The Tour Secretary is to plan and run any society trips abroad.
+
+---
+
 ### Ball Secretary
 <p class="text-muted" style="font-size: 18px;">Alex Funnell</p>
 
