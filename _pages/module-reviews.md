@@ -1519,7 +1519,7 @@ Sections will be added as reviews are submitted, due to the abundance of 4th yea
         </button>
       </h2>
     </div>
-    <div id="collapseMA4A5" class="collapse" aria-labelledby="headingMA4A5" data-parent="#accordionY4misc">
+    <div id="collapseMA4A5" class="collapse" aria-labelledby="headingMA4A5" data-parent="#accordionY4maths">
       <div class="card-body">
         <large class="text-muted">24/25</large>
         <br/>
@@ -1529,17 +1529,31 @@ Sections will be added as reviews are submitted, due to the abundance of 4th yea
     <!-- -->
     <div class="card-header" id="headingMA4M6">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA4M6" aria-expanded="false" aria-controls="collapseMA4M6" id="MA4M6"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA4M6" aria-expanded="false" aria-controls="collapseMA4M6" id="MA4M6">
           <large><a href="#MA4M6">MA4M6 Category Theory</a></large>
         </button>
       </h2>
     </div>
-    <div id="collapseMA4M6" class="collapse" aria-labelledby="headingMA4M6" data-parent="#accordionY4misc">
+    <div id="collapseMA4M6" class="collapse" aria-labelledby="headingMA4M6" data-parent="#accordionY4maths">
       <div class="card-body">
-        <large class="text-muted">24/25</large>
+        <large class="text-muted">22/23--24/25</large>
         <br/>
-        review here
+        This module covers a basic introduction to category theory, generally following the first four chapters of Riehl's <i>Category Theory in Context</i> before moving in to some homotopy theory of simplicial sets.
+        <br/>
+        <br/>
+        The course begins with an overview of the basic terminology of category theory: categories, functors, and natural transformations. If you have taken any modules in algebraic topology, algebraic geometry, or commutative algebra, this will likely already be familiar to you. The first potentially new material is in the following section covering representable functors and the Yoneda lemma. Next, limits and colimits are defined and characterised, before leading into adjunctions and covering one or both of Freyd's adjoint functor theorems (this has varied per year).
+        <br/>
+        <br/>
+        The module then diverges from Riehl's text, and moves into more topological content. In 22/23 and 23/24, this (week 10) content consisted of the fundamental groupoid of a topological space, and the groupoid analogue of the Seifert--van Kampen theorem. Though <i>MA3F1 Introduction to Topology</i> is listed as a prerequisite, all that is really required from that module are the basic notions of homotopies and fundamental groups, both of which are fully recalled here. In 24/25, the content was accelerated greatly, with the fundamental groupoid now only being a single lecture in week 8. The following lectures then covered an introduction to the theory of simplicial sets, Kan complexes, and simplicial homotopy theory -- the categories of abstract and topological simplices are introduced; before covering simplicial complexes and the (inner) horn filling condition for Kan complexes (some familiarity with higher or infinity category theory is helpful here for intuition); and nerves, singular complexes, and geometric realisations, along with the adjoint relations between them. Finally, there is a section on simplicial homotopy and the simplicial homotopy fundamental groupoid of a Kan complex.
+        <br/>
+        <br/>
+        This last section in 24/25 felt very disconnected from the previous parts, being much more topological in flavour. While the 22/23 -- 23/24 syllabus was accessible to most third year algebraists/differential geometers, the 24/25 content should probably have <i>MA3H6 Algebraic Topology</i> as a prerequisite. This content was also taught in an extremely rushed manner, with many proofs omitted or only informally sketced.
+        <br/>
+        <br/>
+        Overall, this module is certainly geared towards category theory in the context of algebraic topology and algebraic K-theory, and goes well with <i>MA4J7 Cohomology and Poincare Duality</i>. In 24/25, <i>MA4A5 Algebraic Geometry</i> predominantly covered classical algebraic geometry without mentioning any sheaf theory or category theory -- however, many of the results in that module are much more clearly and intuitively stated in terms of category theory. For instance, a theorem whose formal statement took up five pages of the notes could have been stated more simply as: "\(\mathcal{O}(-):\operatorname{AffVar}_\mathbb{C}^{\operatorname{op}}\rightarrow\operatorname{Alg}_\mathbb{C}^{\text{fg,red}}\) is an equivalence of categories." Note, however, that the lecturer is changing in 25/26, and sheaf theory used to be in the module, so these two modules may have more overlap in the future.
+        <br/>
+        <br/>
+        More generally, however, if you are interested in more advanced algebraic geometry, homological algebra, topos theory, mathematical logic, theoretical computer science, etc., then this module may leave much to be desired. It is particularly disappointing that the module follows Riehl up to chapter 4, then does not cover chapter 5 (monads), given the prevalence of free algebras and monadic functors in modern mathematics.
       </div>
     </div>
     <!-- -->
