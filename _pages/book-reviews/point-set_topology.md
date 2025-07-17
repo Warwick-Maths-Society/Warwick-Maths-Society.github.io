@@ -22,7 +22,7 @@ header_type:
     <strong>Topology</strong>
     <br/>
     <span class="text-muted">James Munkres</span>
-    <a href="https://people.math.ethz.ch/~dkosanovic/24-FS/Munkres-Topology.pdf">Online link</a>
+    <a href="https://eclass.uoa.gr/modules/document/file.php/MATH707/James%20R.%20Munkres%20Topology%20%20Prentice%20Hall%2C%20Incorporated%2C%202000%20by%20James%20R.%20Munkres%20%28z-lib.org%29.pdf">Online link</a>
     <br/>
     <span class="text-muted"><i>Prerequisites: A first course on basic real analysis.</i></span>
 </p>
