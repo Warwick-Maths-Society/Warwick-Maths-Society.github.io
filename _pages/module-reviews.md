@@ -1397,17 +1397,19 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingPX390">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX390" aria-expanded="false" aria-controls="collapsePX390" id="PX390"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX390" aria-expanded="false" aria-controls="collapsePX390" id="Px390">
           <large><a href="#PX390">PX390 Scientific Programming</a></large>
         </button>
       </h2>
     </div>
     <div id="collapsePX390" class="collapse" aria-labelledby="headingPX390" data-parent="#accordionY3misc">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">23/24</large>
         <br/>
-        review here
+        Unlike <i>PX281 Computational Physics</i>, this module covers a non-trivial amount of theory. While the assignments in Computational Physics generally require nothing more than basic competency in programming -- implementing basic algorithms and given solutions -- Scientific Computing requires you to manually derive solutions to various problems in later assignments. In particular, this module covers extensive theory in numerical PDEs, and past experience will be helpful for this.
+        <br/>
+        <br/>
+        This module is also done in C, rather than Python as in previous modules. However, minimal memory allocation and pointer management is required in the assignments, so prior experience with C is not required. The first few assignments are also very easy; but the final project, weighted to be worth the majority of the module, is extremely difficult, with many people barely getting any outputs at all from their program. Overall, I would only recommend this module to those already interested in numerical PDE theory. Not also that this module will not teach you C in a meaningful way, outside of the absolute basics in memory allocation.
       </div>
     </div>
     <!-- -->
