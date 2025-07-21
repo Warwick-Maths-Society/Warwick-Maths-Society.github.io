@@ -89,8 +89,7 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingCS147">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS147" aria-expanded="false" aria-controls="collapseCS147" id="CS147"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS147" aria-expanded="false" aria-controls="collapseCS147" id="CS147">
           <large><a href="#CS147">CS147 Discrete Mathematics and its Applications 2</a></large>
         </button>
       </h2>
