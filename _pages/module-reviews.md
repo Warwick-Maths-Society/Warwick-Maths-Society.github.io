@@ -153,17 +153,31 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingPX155">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX155" aria-expanded="false" aria-controls="collapsePX155" id="PX155"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX155" aria-expanded="false" aria-controls="collapsePX155" id="PX155">
           <large><a href="#PX155">PX155 Classical Mechanics and Special Relativity</a></large>
         </button>
       </h2>
     </div>
     <div id="collapsePX155" class="collapse" aria-labelledby="headingPX155" data-parent="#accordionY1misc">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">24/25</large>
         <br/>
-        review here
+        PX155 is split into two sections: Classical Mechanics (weeks 1-7), covering mechanics as derived from Newton’s laws of motion; and Special Relativity, (weeks 7-10) covering the necessary transformations required to incorporate the peculiar observation that the speed of light is invariant, while maintaining our well-known laws of mechanics from before. These parts are usually taught by two different lecturers, with problem sheets given out at the end of each week to test your understanding. This module is assessed 100% by exam and for non-physics students you don’t need to worry about handing in any assessed problems from this module.
+        <br/>
+        <br/>
+        The classical mechanics section covers various ideas including coefficients of friction, conservative forces, SHM, circular motion and then ends with the trickier concepts surrounding rotation – like the moment of inertia. The special relativity section briefly covers the history behind its formulation before deriving the Lorentz transformations that then define the various relativistic effects with time, length, mass etc. This is rather difficult to take in and understand, so expect that you will be spending a lot of time by the end of the module if you want to get to grips with it.
+        <br/>
+        <br/>
+        I would recommend this module for anyone interested in these topics, even if you have prior knowledge from A-level Further Maths and/or Physics as this module extends somewhat beyond them. The lecture notes are excellent, providing explained derivations of equations, highlighting which equations you should commit to memory and consistently providing examples to demonstrate how to apply your knowledge to solve problems. If you have a sound understanding of mechanics up to this point, you will be at no disadvantage to physics students in this module.
+        <br/>
+        <br/>
+        In my opinion, section B of the problem sheets is relatively tricky compared to the exam, especially in later parts of the module, so you may benefit from past papers more than the problem sheets in the runup to the exam if you’re not confident. On the other hand, completing and learning from the problem sheets ensures that you are more than prepared to achieve a high mark in this module! For maths students, you should find that the integration techniques you learn from Methods of Mathematical Modelling 2 (in term 2) will be very useful in giving you an extra advantage for centre of mass and moment of inertia calculations. 
+        <br/>
+        <br/>
+        The exam itself is consistently split into 4 questions, with the last 2 often being considered the hardest as they are about rotational mechanics and special relativity respectively – the parts of the module that students struggle the most with. However, with enough revision and practice, you can score quite well on question 3 and get at least a decent mark on question 4 (this is excellent considering the average on these questions noticeably dips compared to the rest of the paper, especially question 4).
+        <br/>
+        <br/>
+        Overall, PX155 is a challenging but very interesting module for those wanting to learn more in Physics (and especially mechanics) and can be overcome with enough time and determination!
       </div>
     </div>
     <!-- -->
