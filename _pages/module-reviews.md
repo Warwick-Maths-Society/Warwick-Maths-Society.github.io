@@ -87,19 +87,28 @@ Note that only the most popular optional external modules have been listed below
 <div class="accordion" id="accordionY1misc">
   <div class="card">
     <!-- -->
-    <div class="card-header" id="headingCS137">
+    <div class="card-header" id="headingCS147">
       <h2 class="m-0">
         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS137" aria-expanded="false" aria-controls="collapseCS137" id="CS137"
         disabled>
-          <large><a href="#CS137">CS137 Discrete Mathematics II</a></large>
+          <large><a href="#CS147">CS147 Discrete Mathematics and its Applications 2</a></large>
         </button>
       </h2>
     </div>
-    <div id="collapseCS137" class="collapse" aria-labelledby="headingCS137" data-parent="#accordionY1misc">
+    <div id="collapseCS147" class="collapse" aria-labelledby="headingCS147" data-parent="#accordionY1misc">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">24/25</large>
         <br/>
-        review here
+        CS147 can be broadly split into two halves. The first half focusses on algorithms, algorithmic complexity and discrete probability, while the second half covers introductory graph theory. Each half has a different lecturer.
+        <br/>
+        <br/>
+        Much of the content is very interesting, and I particuarly enjoyed the graph theory portions. However, it should be noted that much of the probability content overlaps with ST120 which everyone taking this module will have taken. This module will challenge you to think and problem solve, perhaps more than other first year modules do. 20% of the grade is formed from two assignments (each covering a different half of the module), and the questions on these assignments range from completely trivial to very challenging, particuarly in the graph theory assignment, and they absolutely cannot be rushed. The exam, forming 80% of the module, is once again split into two halves and was, in my opinion, far harder than the assignments.
+        <br/>
+        <br/>
+        Alongside the lectures, there are also 9 weekly seminars covering questions based on the content of the lectures. These were extremely useful, and my largest regret with this module is that I didn't spend more time attempting the questions myself before the seminars. 
+        <br/>
+        <br/>
+        This module is generally considered quite challenging, and it can be tough to get a good mark, particuarly in the exam. I would tentatively recommend this module to anyone interested in algorithms and graph theory, but be prepared to put in the time if you want a high mark, and potentially consider overcatting so that this module's grade is not counted in your year grade.
       </div>
     </div>
     <!-- -->
