@@ -121,6 +121,19 @@ Note that only the most popular optional external modules have been listed below
     </div>
     <div id="collapseCS141" class="collapse" aria-labelledby="headingCS141" data-parent="#accordionY1misc">
       <div class="card-body">
+        <large class="text-muted">24/25</large>
+        <br/>
+        CS141 is a fun and fast-paced introduction to the functional programming language Haskell. The lectures and labs are all extremly good, and the lecturer is excellent and very willing to answer questions after lectures, during office hours and over email. The courseworks change each year but are always interesting and fun to complete. This year, the first coursework was to produce a simplified version of the popular video game "Balatro", and the second (always parsing related) was to create a parser for files describing a two player grid-based game called Gridlock, created speciffically for the coursework.
+        <br/>
+        <br/>
+        In general, the 23/24 review holds up very well. However, it should be noted that the exam format has changed. The first two questions, covering Haskell basics, are now mandatory, and you may then choose 2 questions out of the remaining 3 to answer. The 3 optional questions all cover different aspects of Haskell and functional programming, allowing you to play to your strengths. With sufficient practise at programming in Haskell, it is very possible to score very highly in the exam and the courseworks.
+        <br/>
+        <br/>
+        Overall, I recommend this module to anyone with an interest in programming. It has changed the way I view programming.
+        <br/>
+        <br/>
+        <hr/>
+        <br/>
         <large class="text-muted">23/24</large>
         <br/>
         CS141 features a fast-paced introduction to the programming language Haskell and functional programming concepts (via lectures & labs), two courseworks (weighted 15% and 25% respectively) which change topic every year, and an exam (weighted 60%). Despite references to abstract algebra and category theory, previous knowledge of semigroups, monoids, functors, and monads is not required. Despite references to computational theory, previous knowledge of the lambda calculus and turing completeness is not required. 
