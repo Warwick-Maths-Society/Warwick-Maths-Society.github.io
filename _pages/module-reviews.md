@@ -253,6 +253,30 @@ Note that only the most popular optional external modules have been listed below
       </div>
     </div>
     <!-- -->
+    <div class="card-header" id="headingST121">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseST121" aria-expanded="false" aria-controls="collapseST121" id="ST121">
+          <large><a href="#ST121">ST121 Statistical Laboratory</a></large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseST121" class="collapse" aria-labelledby="headingST121" data-parent="#accordionY1misc">
+      <div class="card-body">
+        <large class="text-muted">24/25</large>
+        <br/>
+        ST121 is focussed on introducing non-stats students to the R programming language, which is rather unique due to being specifically designed for carrying out statistical analysis (as opposed to the more generalised purposes of other programming languages). The module is split about half and half between learning how to code using R and furthering your knowledge of statistics, including QQ plots, rejection sampling, linear regression models and the inverse CDF method to convert samples from the U(0,1) distribution into samples of other distributions. This module is a prerequisite for some future statistics modules, particularly those where you are expected to know how to use R.
+        <br/>
+        <br/>
+        The assessment is split into 30% on two lab reports and 70% on the final exam. As long as you keep up to date with this module, the lab reports shouldn’t be much of a challenge as they just implement knowledge you will have seen from within this module, and it is not unreasonable to get full marks on both if you give yourself sufficient time to complete them. Don’t be afraid to ask the lecturer for clarification on the lab report instructions, as they can get ambiguous at times, and be aware that you are likely to go over the recommended page count for your report when adding enough detail to secure full marks (you won’t be penalised though as long as your report is still clear and well organised).
+        <br/>
+        <br/>
+        The exam mostly covers the statistical knowledge you learnt in this module, but a sizable chunk will test your understanding of R code so you will need to commit a decent number of R commands to memory. The type of questions that get asked don’t change that much between years so the past papers will give you excellent preparation. My word of advice would be to use your reading time wisely for this exam, as there are some time-consuming calculations you will have to do which will put you under time pressure if you don’t give yourself a head start.
+        <br/>
+        <br/>
+        Overall, ST121 is a good module for non-stats students wanting to take further stats modules in later years, but it is also worth considering for those generally interested in programming.
+      </div>
+    </div>
+    <!-- -->
   </div>
 </div>
 
@@ -347,7 +371,7 @@ Note that only the most popular optional external modules have been listed below
         In the year I took this module, the notes were handwritten and nigh unreadable, and the lectures were dull and unengaging; on some occasions, mistakes would be found near the end of an example, upon which the lecturer would erase the board and then repeat the last 20 minutes of the lecture with the mistake amended. The notes and lecturer have changed (improved) in the 23/24 academic year, but the content has remained largely unchanged, so the above summary is still applicable. Overall, the content in this module seems somewhat disjointed and incomplete: the only reason you should take this module would be to fill in extra MA2-coded modules for the second year MMath requirement — because if you are interested in this kind of mathematics, there are far better module options to take.
         <br/>
         <br/>
-        In particular, if you are interested in algorithms and graph theory, which the bulk of this module concerns itself with, you would be better off taking <i>CS260 Algorithms</i> and <i>CS254 Algorithmic Graph Theory</i>; and if you are interested in complexity theory (NP-hardness, complexity classes, matroids, etc. which <i>used</i> to be in this module before being replaced with linear programming), then I recommend taking <i>CS301 Complexity of Algorithms</i>, or alternatively for computability theory, <i>C259 Formal Languages</i>, <i>PH345 Computability Theory</i>, and <i>PH349 Logic III: Incompleteness & Undecidability</i>.
+        In particular, if you are interested in algorithms and graph theory, which the bulk of this module concerns itself with, you would be better off taking <i>CS260 Algorithms</i> and <i>CS254 Algorithmic Graph Theory</i>; and if you are interested in complexity theory (NP-hardness, complexity classes, matroids, etc. which <i>used</i> to be in this module before being replaced with linear programming), then I recommend taking <i>CS301 Complexity of Algorithms</i>, or alternatively for computability theory, <i>CS259 Formal Languages</i>, <i>PH345 Computability Theory</i>, and <i>PH349 Logic III: Incompleteness & Undecidability</i>.
       </div>
     </div>
     <!-- -->
