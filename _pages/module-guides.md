@@ -37,27 +37,27 @@ tbody{
   </tr>
   <tr>
     <td>CS137</td>
-    <td><a target="_blank" href="./assets/WMX Guides/CS137 Discrete Mathematics and Applications II.pdf">CS137 Discrete Mathematics and Applications II</a></td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/CS137 Discrete Mathematics and Applications II.pdf">CS137 Discrete Mathematics and Applications II</a></td>
   </tr>
   <tr>
     <td>MA106<br/>[MA150]</td>
-    <td><a target="_blank" href="./assets/WMX Guides/MA106 Linear Algebra.pdf">MA106 Linear Algebra</a></td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/MA106 Linear Algebra.pdf">MA106 Linear Algebra</a></td>
   </tr>
   <tr>
     <td>MA131/137<br/>[MA141/139]</td>
-    <td><a target="_blank" href="./assets/WMX Guides/MA131-MA137 Analysis.pdf">MA131/MA137 Analysis</a></td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/MA131-MA137 Analysis.pdf">MA131/MA137 Analysis</a></td>
   </tr>
   <tr>
     <td>MA133<br/>[MA146]</td>
-    <td><a target="_blank" href="./assets/WMX Guides/MA133 Differential Equations.pdf">MA133 Differential Equations</a></td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/MA133 Differential Equations.pdf">MA133 Differential Equations</a></td>
   </tr>
   <tr>
     <td>MA134<br/>[MA144]</td>
-    <td><a target="_blank" href="./assets/WMX Guides/MA134 Geometry and Motion.pdf">MA134 Geometry and Motion</a></td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/MA134 Geometry and Motion.pdf">MA134 Geometry and Motion</a></td>
   </tr>
   <tr>
     <td>MA136<br/>[MA151]</td>
-    <td><a target="_blank" href="./assets/WMX Guides/MA136 Abstract Algebra.pdf">MA136 Abstract Algebra</a></td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/MA136 Abstract Algebra.pdf">MA136 Abstract Algebra</a></td>
   </tr>
   <tr>
     <td>PX148</td>
@@ -65,7 +65,7 @@ tbody{
   </tr>
   <tr>
     <td>ST111</td>
-    <td><a target="_blank" href="./assets/WMX Guides/ST111 Probability A.pdf">ST111 Probability A</a></td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/ST111 Probability A.pdf">ST111 Probability A</a></td>
   </tr>
 </table>
 
@@ -84,11 +84,11 @@ tbody{
   </tr>
   <tr>
     <td>CS259</td>
-    <td><a target="_blank" href="./assets/WMX Guides/CS259 Formal Languages.pdf">CS259 Formal Languages</a></td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/CS259 Formal Languages.pdf">CS259 Formal Languages</a></td>
   </tr>
   <tr>
     <td>MA244<br/>[MA270]</td>
-    <td><a target="_blank" href="./assets/WMX Guides/MA244 Analysis III.pdf">MA244 Analysis III</a></td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/MA244 Analysis III.pdf">MA244 Analysis III</a></td>
   </tr>
   <tr>
     <td>MA270</td>
@@ -96,27 +96,27 @@ tbody{
   </tr>
   <tr>
     <td>MA249<br/>[MA268]</td>
-    <td><a target="_blank" href="./assets/WMX Guides/MA249 Algebra II.pdf">MA249 Algebra II: Groups and Rings</a></td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/MA249 Algebra II.pdf">MA249 Algebra II: Groups and Rings</a></td>
   </tr>
   <tr>
     <td>MA251<br/>[MA266]</td>
-    <td><a target="_blank" href="./assets/WMX Guides/MA251 Algebra I.pdf">MA251 Algebra I: Advanced Linear Algebra</a></td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/MA251 Algebra I.pdf">MA251 Algebra I: Advanced Linear Algebra</a></td>
   </tr>
   <tr>
     <td>MA252</td>
-    <td><a target="_blank" href="./assets/WMX Guides/MA252 Combinatorial Optimisation.pdf">MA252 Combinatorial Optimisation</a></td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/MA252 Combinatorial Optimisation.pdf">MA252 Combinatorial Optimisation</a></td>
   </tr>
   <tr>
     <td>MA252</td>
-    <td><a target="_blank" href="./assets/WMX Guides/MA252 Linear Programming.pdf">MA252 Linear Programming</a></td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/MA252 Linear Programming.pdf">MA252 Linear Programming</a></td>
   </tr>
   <tr>
     <td>MA259<br/>[MA263]</td>
-    <td><a target="_blank" href="./assets/WMX Guides/MA259 Multivariable Calculus.pdf">MA259 Multivariable Calculus</a></td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/MA259 Multivariable Calculus.pdf">MA259 Multivariable Calculus</a></td>
   </tr>
   <tr>
     <td>MA260</td>
-    <td><a target="_blank" href="./assets/WMX Guides/MA260 Norms, Metrics and Topologies.pdf">MA260 Norms, Metrics and Topologies</a></td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/MA260 Norms, Metrics and Topologies.pdf">MA260 Norms, Metrics and Topologies</a></td>
   </tr>
 </table>
 
@@ -139,27 +139,31 @@ tbody{
   </tr>
   <tr>
     <td>MA3F1</td>
-    <td><a target="_blank" href="./assets/WMX Guides/MA3F1 Introduction to Topology.pdf">MA3F1 Introduction to Topology</a></td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/MA3F1 Introduction to Topology.pdf">MA3F1 Introduction to Topology</a></td>
   </tr>
   <tr>
     <td>MA3H3</td>
-    <td><a target="_blank" href="./assets/WMX Guides/MA3H3 Set Theory.pdf">MA3H3 Set Theory</a></td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/MA3H3 Set Theory.pdf">MA3H3 Set Theory</a></td>
   </tr>
   <tr>
     <td>MA3H3</td>
-    <td><a target="_blank" href="./assets/WMX Guides/MA3H3 Set Theory Condensed.pdf">MA3H3 Set Theory Condensed</a></td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/MA3H3 Set Theory Condensed.pdf">MA3H3 Set Theory Condensed</a></td>
   </tr>
   <tr>
     <td>MA3H6</td>
-    <td><a target="_blank" href="./assets/WMX Guides/MA3H6 Algebraic Topology.pdf">MA3H6 Algebraic Topology</a></td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/MA3H6 Algebraic Topology.pdf">MA3H6 Algebraic Topology</a></td>
   </tr>
   <tr>
     <td>MA3J2</td>
-    <td><a target="_blank" href="./assets/WMX Guides/MA3J2 Combinatorics II.pdf">MA3J2 Combinatorics II</a></td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/MA3J2 Combinatorics II.pdf">MA3J2 Combinatorics II</a></td>
   </tr>
   <tr>
     <td>MA3K4</td>
-    <td><a target="_blank" href="./assets/WMX Guides/MA3K4 Introduction to Group Theory.pdf">MA3K4 Introduction to Group Theory</a></td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/MA3K4 Introduction to Group Theory.pdf">MA3K4 Introduction to Group Theory</a></td>
+  </tr>
+  <tr>
+    <td>MA3K6</td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/MA3K6 Boolean Functions.pdf">MA3K6 Boolean Functions [Incomplete; missing LRO functions]</a></td>
   </tr>
 </table>
 
@@ -178,7 +182,15 @@ tbody{
   </tr>
   <tr>
     <td>MA473</td>
-    <td><a target="_blank" href="./assets/WMX Guides/MA473 Reflection Groups.pdf">MA473 Reflection Groups</a></td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/MA453 Lie Algebras.pdf">MA453 Lie Algebras [Incomplete; missing root systems/Dynkin diagrams]</a></td>
+  </tr>
+  <tr>
+    <td>MA473</td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/MA473 Reflection Groups.pdf">MA473 Reflection Groups</a></td>
+  </tr>
+  <tr>
+    <td>MA473</td>
+    <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/MA4A5 Algebraic Geometry.pdf">MA4A5 Algebraic Geometry [Incomplete; missing Segre embeddings, Grassmannians]</a></td>
   </tr>
   <!-- <tr>
     <td><a target="_blank" href="./"></a></td>

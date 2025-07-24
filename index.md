@@ -14,16 +14,41 @@ project_links:
       label: Join us!
 ---
 
-<!-- **This site is a work-in-progress (especially this front page)**
-{: .alert .alert-info .p-3 .mx-2 .mb-3} -->
-
 <style>
 body {
     background-image: url("./assets/desync/tiling-background.png");
     background-repeat: repeat;
 }
+
+#gold-sponsor {
+    border: 10px solid #997a00;
+    background-color: #1f1d14;
+}
+#silver-sponsor {
+    border: 10px solid #666666;
+    background-color: #1a1a1a
+}
+#bronze-sponsor {
+    border: 10px solid #994d00;
+    background-color: #1f1a14;
+}
 </style>
 
+<div class="text-center my-4 py-5 px-3 bg-primary rounded-lg">
+    <h1> Our Latest Post</h1>
+    {% assign post = site.posts.first %}
+    <a href="{{ post.url }}">
+        <h3>{{ post.title }}</h3>
+    </a>
+    <p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
+    <p>{{ post.content | strip_html | truncatewords: 60 }}</p>
+</div>
+
+<br/>
+
+---
+
+<br/>
 
 <div class="text-center my-4 py-5 px-3 bg-primary rounded-lg chulapa-overlay-img">
     <p><i class="fa-solid fa-users fa-3x"></i></p>
@@ -63,18 +88,58 @@ body {
     Many of our events are sober, so don't worry if you don't want to or can't drink!</p>
 </div>
 
+---
+
+<br/>
+
+<div class="text-center my-4 px-3">
+    <p><i class="fa-solid fa-award fa-3x"></i></p>
+    <h1 class="font-weight-light py-3">Our Sponsors</h1>
+</div>
+<div class="text-center rounded-lg" style="width:fit-content;background-color:#997a00;margin-inline:auto;">
+    <h2 class="font-weight-light py-2 px-2">Gold Tier</h2>
+</div>
+<div class="text-center my-4 py-4 px-3 rounded-lg" id="gold-sponsor">
+    <a href="https://tpp-uk.com/">
+        <img src="/assets/sponsor logos/TPP.png" alt="TPP Logo" style="max-height:100px;width:auto;">
+    </a>
+</div>
+<div class="text-center my-4 py-4 px-3 rounded-lg" id="gold-sponsor">
+    <a href="https://www.dorsetsoftware.com/Home">
+        <img src="/assets/sponsor logos/Dorset Software.png" alt="Dorset Software Logo" style="max-height:100px;width:auto;">
+    </a>
+</div>
+
+<br/>
+
+<div class="text-center rounded-lg" style="width:fit-content;background-color:#994d00;margin-inline:auto;">
+    <h2 class="font-weight-light py-2 px-2">Bronze Tier</h2>
+</div>
+<div class="text-center my-4 py-4 px-3 rounded-lg" id="bronze-sponsor">
+    <a href="https://davincitrading.com/">
+        <img src="/assets/sponsor logos/Da Vinci Trading.png" alt="Da Vinci Trading Logo" style="max-height:100px;width:auto;">
+    </a>
+</div>
+<div class="text-center my-4 py-4 px-3 rounded-lg" id="bronze-sponsor">
+    <a href="https://sig.com/">
+        <img src="/assets/sponsor logos/Susquehanna-light.png" alt="Susquehanna Logo" style="max-height:100px;width:auto;">
+    </a>
+</div>
+
 <br/>
 
 ---
 
 <br/>
 
-<div class="text-center my-4 py-5 px-3 bg-primary rounded-lg">
-    <h2> Our Latest Post</h2>
-    {% assign post = site.posts.first %}
-    <a href="{{ post.url }}">
-        <h3>{{ post.title }}</h3>
+<div class="text-center my-4 px-3">
+    <p class="lead font-weight-light py-2">Special thanks also to <b>Jane Street</b> for sponsoring our <i>Integration Bee</i> and <i>Quant Championship</i>, and to the <b>Institute of Mathematics and its Applications</b> for financially supporting our Society.</p>
+</div>
+<div class="text-center my-1 py-4 px-3 rounded-lg">
+    <a href="https://www.janestreet.com/">
+        <img src="/assets/sponsor logos/Jane Street.png" alt="Jane Street Logo" style="max-height:120px;max-width:45%;float:left;padding=10pt;">
     </a>
-    <p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
-    <p>{{ post.content | strip_html | truncatewords: 60 }}</p>
+    <a href="https://ima.org.uk/">
+        <img src="/assets/sponsor logos/IMA.png" alt="IMA Logo" style="max-height:120px;max-width:45%;float:right;padding=10pt;">
+    </a>
 </div>
