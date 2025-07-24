@@ -87,19 +87,27 @@ Note that only the most popular optional external modules have been listed below
 <div class="accordion" id="accordionY1misc">
   <div class="card">
     <!-- -->
-    <div class="card-header" id="headingCS137">
+    <div class="card-header" id="headingCS147">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS137" aria-expanded="false" aria-controls="collapseCS137" id="CS137"
-        disabled>
-          <large><a href="#CS137">CS137 Discrete Mathematics II</a></large>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS147" aria-expanded="false" aria-controls="collapseCS147" id="CS147">
+          <large><a href="#CS147">CS147 Discrete Mathematics and its Applications 2</a></large>
         </button>
       </h2>
     </div>
-    <div id="collapseCS137" class="collapse" aria-labelledby="headingCS137" data-parent="#accordionY1misc">
+    <div id="collapseCS147" class="collapse" aria-labelledby="headingCS147" data-parent="#accordionY1misc">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">24/25</large>
         <br/>
-        review here
+        CS147 can be broadly split into two halves. The first half focusses on algorithms, algorithmic complexity and discrete probability, while the second half covers introductory graph theory. Each half has a different lecturer.
+        <br/>
+        <br/>
+        Much of the content is very interesting, and I particuarly enjoyed the graph theory portions. However, it should be noted that much of the probability content overlaps with ST120 which everyone taking this module will have taken. This module will challenge you to think and problem solve, perhaps more than other first year modules do. 20% of the grade is formed from two assignments (each covering a different half of the module), and the questions on these assignments range from completely trivial to very challenging, particuarly in the graph theory assignment, and they absolutely cannot be rushed. The exam, forming 80% of the module, is once again split into two halves and was, in my opinion, far harder than the assignments.
+        <br/>
+        <br/>
+        Alongside the lectures, there are also 9 weekly seminars covering questions based on the content of the lectures. These were extremely useful, and my largest regret with this module is that I didn't spend more time attempting the questions myself before the seminars. 
+        <br/>
+        <br/>
+        This module is generally considered quite challenging, and it can be tough to get a good mark, particuarly in the exam. I would tentatively recommend this module to anyone interested in algorithms and graph theory, but be prepared to put in the time if you want a high mark, and potentially consider overcatting so that this module's grade is not counted in your year grade.
       </div>
     </div>
     <!-- -->
@@ -112,6 +120,19 @@ Note that only the most popular optional external modules have been listed below
     </div>
     <div id="collapseCS141" class="collapse" aria-labelledby="headingCS141" data-parent="#accordionY1misc">
       <div class="card-body">
+        <large class="text-muted">24/25</large>
+        <br/>
+        CS141 is a fun and fast-paced introduction to the functional programming language Haskell. The lectures and labs are all extremly good, and the lecturer is excellent and very willing to answer questions after lectures, during office hours and over email. The courseworks change each year but are always interesting and fun to complete. This year, the first coursework was to produce a simplified version of the popular video game "Balatro", and the second (always parsing related) was to create a parser for files describing a two player grid-based game called Gridlock, created speciffically for the coursework.
+        <br/>
+        <br/>
+        In general, the 23/24 review holds up very well. However, it should be noted that the exam format has changed. The first two questions, covering Haskell basics, are now mandatory, and you may then choose 2 questions out of the remaining 3 to answer. The 3 optional questions all cover different aspects of Haskell and functional programming, allowing you to play to your strengths. With sufficient practise at programming in Haskell, it is very possible to score very highly in the exam and the courseworks.
+        <br/>
+        <br/>
+        Overall, I recommend this module to anyone with an interest in programming. It has changed the way I view programming.
+        <br/>
+        <br/>
+        <hr/>
+        <br/>
         <large class="text-muted">23/24</large>
         <br/>
         CS141 features a fast-paced introduction to the programming language Haskell and functional programming concepts (via lectures & labs), two courseworks (weighted 15% and 25% respectively) which change topic every year, and an exam (weighted 60%). Despite references to abstract algebra and category theory, previous knowledge of semigroups, monoids, functors, and monads is not required. Despite references to computational theory, previous knowledge of the lambda calculus and turing completeness is not required. 
@@ -141,7 +162,7 @@ Note that only the most popular optional external modules have been listed below
       <div class="card-body">
         <large class="text-muted">24/25</large>
         <br/>
-        PX155 is split into two sections: Classical Mechanics (weeks 1-7), covering mechanics as derived from Newton’s laws of motion; and Special Relativity, (weeks 7-10) covering the necessary transformations required to incorporate the peculiar observation that the speed of light is invariant, while maintaining our well-known laws of mechanics from before. These parts are usually taught by two different lecturers, with problem sheets given out at the end of each week to test your understanding. This module is assessed 100% by exam and for non-physics students you don’t need to worry about handing in any assessed problems from this module. 
+        PX155 is split into two sections: Classical Mechanics (weeks 1-7), covering mechanics as derived from Newton’s laws of motion; and Special Relativity, (weeks 7-10) covering the necessary transformations required to incorporate the peculiar observation that the speed of light is invariant, while maintaining our well-known laws of mechanics from before. These parts are usually taught by two different lecturers, with problem sheets given out at the end of each week to test your understanding. This module is assessed 100% by exam and for non-physics students you don’t need to worry about handing in any assessed problems from this module.
         <br/>
         <br/>
         The classical mechanics section covers various ideas including coefficients of friction, conservative forces, SHM, circular motion and then ends with the trickier concepts surrounding rotation – like the moment of inertia. The special relativity section briefly covers the history behind its formulation before deriving the Lorentz transformations that then define the various relativistic effects with time, length, mass etc. This is rather difficult to take in and understand, so expect that you will be spending a lot of time by the end of the module if you want to get to grips with it.
@@ -243,16 +264,16 @@ Note that only the most popular optional external modules have been listed below
       <div class="card-body">
         <large class="text-muted">24/25</large>
         <br/>
-        ST121 is focussed on introducing non-stats students to the R programming language, which is rather unique due to being specifically designed for carrying out statistical analysis (as opposed to the more generalised purposes of other programming languages). The module is split about half and half between learning how to code using R and furthering your knowledge of statistics, including QQ plots, rejection sampling, linear regression models and the inverse CDF method to convert samples from the U(0,1) distribution into samples of other distributions. This module is a prerequisite for some future statistics modules, particularly those where you are  expected to know how to use R.
+        ST121 is focussed on introducing non-stats students to the R programming language, which is rather unique due to being specifically designed for carrying out statistical analysis (as opposed to the more generalised purposes of other programming languages). The module is split about half and half between learning how to code using R and furthering your knowledge of statistics, including QQ plots, rejection sampling, linear regression models and the inverse CDF method to convert samples from the U(0,1) distribution into samples of other distributions. This module is a prerequisite for some future statistics modules, particularly those where you are expected to know how to use R.
         <br/>
         <br/>
         The assessment is split into 30% on two lab reports and 70% on the final exam. As long as you keep up to date with this module, the lab reports shouldn’t be much of a challenge as they just implement knowledge you will have seen from within this module, and it is not unreasonable to get full marks on both if you give yourself sufficient time to complete them. Don’t be afraid to ask the lecturer for clarification on the lab report instructions, as they can get ambiguous at times, and be aware that you are likely to go over the recommended page count for your report when adding enough detail to secure full marks (you won’t be penalised though as long as your report is still clear and well organised).
         <br/>
         <br/>
-        The exam mostly covers the statistical knowledge you learnt in this module, but a sizable chunk will test your understanding of R code so you will need to commit a decent number of R commands to memory. The type of questions that get asked don’t change that much between years so the past papers will give you excellent preparation. My word of advice would be to use your reading time wisely for this exam, as there some time-consuming calculations you will have to do which will put you under time pressure if you don’t give yourself a head start.
+        The exam mostly covers the statistical knowledge you learnt in this module, but a sizable chunk will test your understanding of R code so you will need to commit a decent number of R commands to memory. The type of questions that get asked don’t change that much between years so the past papers will give you excellent preparation. My word of advice would be to use your reading time wisely for this exam, as there are some time-consuming calculations you will have to do which will put you under time pressure if you don’t give yourself a head start.
         <br/>
         <br/>
-        Overall, ST121 is the module for non-stats students wanting to take stats modules in later modules, but it is also worth considering for those generally interested in programming.
+        Overall, ST121 is a good module for non-stats students wanting to take further stats modules in later years, but it is also worth considering for those generally interested in programming.
       </div>
     </div>
     <!-- -->
@@ -353,7 +374,7 @@ Note that only the most popular optional external modules have been listed below
         In the year I took this module, the notes were handwritten and nigh unreadable, and the lectures were dull and unengaging; on some occasions, mistakes would be found near the end of an example, upon which the lecturer would erase the board and then repeat the last 20 minutes of the lecture with the mistake amended. The notes and lecturer have changed (improved) in the 23/24 academic year, but the content has remained largely unchanged, so the above summary is still applicable. Overall, the content in this module seems somewhat disjointed and incomplete: the only reason you should take this module would be to fill in extra MA2-coded modules for the second year MMath requirement — because if you are interested in this kind of mathematics, there are far better module options to take.
         <br/>
         <br/>
-        In particular, if you are interested in algorithms and graph theory, which the bulk of this module concerns itself with, you would be better off taking <i>CS260 Algorithms</i> and <i>CS254 Algorithmic Graph Theory</i>; and if you are interested in complexity theory (NP-hardness, complexity classes, matroids, etc. which <i>used</i> to be in this module before being replaced with linear programming), then I recommend taking <i>CS301 Complexity of Algorithms</i>, or alternatively for computability theory, <i>C259 Formal Languages</i>, <i>PH345 Computability Theory</i>, and <i>PH340 Logic III: Incompleteness & Undecidability</i>.
+        In particular, if you are interested in algorithms and graph theory, which the bulk of this module concerns itself with, you would be better off taking <i>CS260 Algorithms</i> and <i>CS254 Algorithmic Graph Theory</i>; and if you are interested in complexity theory (NP-hardness, complexity classes, matroids, etc. which <i>used</i> to be in this module before being replaced with linear programming), then I recommend taking <i>CS301 Complexity of Algorithms</i>, or alternatively for computability theory, <i>CS259 Formal Languages</i>, <i>PH345 Computability Theory</i>, and <i>PH340 Logic III: Incompleteness & Undecidability</i>.
       </div>
     </div>
     <!-- -->
