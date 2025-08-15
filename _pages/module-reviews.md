@@ -1547,8 +1547,7 @@ Sections will be added as reviews are submitted, due to the abundance of 4th yea
     <!-- -->
     <div class="card-header" id="headingMA473">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA473" aria-expanded="false" aria-controls="collapseMA473"  id="MA473"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA473" aria-expanded="false" aria-controls="collapseMA473"  id="MA473">
           <large><a href="#MA473">MA473 Reflection Groups</a></large>
         </button>
       </h2>
@@ -1557,7 +1556,22 @@ Sections will be added as reviews are submitted, due to the abundance of 4th yea
       <div class="card-body">
         <large class="text-muted">23/24</large>
         <br/>
-        review here
+        The module covers an introduction to reflection groups and their relations to Coxeter groups and Weyl groups. The content links well with other topics in geometric group theory, Lie theory, and topology. The final section also has interesting connections to (co)homology. Mathematical physicists looking to study crystallography or symmetry algebras in particle physics will also find the theory in this module useful, though the connections to physics are not covered. Some background in representation theory or geometric group theory -- and in topology for the final section -- is helpful for this module.
+        <br/>
+        <br/>
+        The module starts with a review of bilinear forms, Euclidean geometry, and orthogonal complement spaces, before defining the general reflection operator and finite reflection groups. Root systems and simple/positive/quasisimple systems are then defined, and some theorems on generating sets, conjugacy of simple systems, and geometric interpretations of lengths in a group are covered.
+        <br/>
+        <br/>
+        There is then a short section recapping free groups (through universal properties), presentations of groups, and the connection between presentations and group homomorphisms. Coxeter groups, Coxeter graphs, and Coxeter matrices are defined, before covering a proof of the equivalence of finite reflection groups and finite Coxeter groups. Then, the representation theory of Coxeter groups is then covered, and a classification of connected finite Coxeter groups is done.
+        <br/>
+        <br/>
+        Some combinatorial results, such as the Deletion and Exchange conditions for Coxeter-type generators, are then covered, which are subsequently used to prove the decidability of the word problem for Coxeter groups. Finally, some geometric group-theoretic consequences are covered, with a construction of the Davis complex and its simplicial structure and geometric realisation given.
+        <br/>
+        <br/>
+        This module has substantial overlap with <i>MA453 Lie Algebras</i>, as root systems also classify semisimple Lie algebras. The Coxeter graphs classified in this module are almost identical to the Dynkin diagrams used in the Cartan classification of simple Lie algebas. However, in this module, the inner product on our spaces is obtained simply from the Coxeter matrix, while in Lie algebras, the inner product is transported from the Killing form, so all metric statements are instead consequences of Lie-algebra structures.
+        <br/>
+        <br/>
+        The notes are somewhat brief, and while the results are interesting, many of the longer proofs are dull -- though this is not uncommon for long classification results involving tedious casework -- but the lectures are well-taught and set at a good pace. Overall, this is a very interesting module with many connections to a variety of other areas of mathematics. This module is also very suitable to be taken in third year.
       </div>
     </div>
     <!-- -->
