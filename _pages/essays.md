@@ -169,6 +169,11 @@ Below, we have compiled a collection of previous essays that you can use for ref
     <td><a target="_blank" href=""></a></td>
   </tr>
   <tr>
+    <td>88</td>
+    <td><a target="_blank" href="./assets/essays-3/88 - Irrationality Measure.pdf">Irrationality Measure</a></td>
+    <td><a target="_blank" href=""></a></td>
+  </tr>
+  <tr>
     <td>92</td>
     <td><a target="_blank" href="./assets/essays-3/92 - Riemann Surfaces.pdf">Riemann Surfaces</a></td>
     <td><a target="_blank" href=""></a></td>
