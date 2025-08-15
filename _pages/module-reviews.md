@@ -602,17 +602,19 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingPH210">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePH210" aria-expanded="false" aria-controls="collapsePH210" id="PH210"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePH210" aria-expanded="false" aria-controls="collapsePH210" id="PH210">
           <large><a href="#PH210">PH210 Logic II: Metatheory</a></large>
         </button>
       </h2>
     </div>
     <div id="collapsePH210" class="collapse" aria-labelledby="headingPH210" data-parent="#accordionY2misc">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">24/25</large>
         <br/>
-        review here
+        I much enjoyed this module as someone who hasn't taken Logic I. In fact, you really don't need to do Logic I as the concepts are a lot different to it's predecessor. The module splits into two huge sections, Proposition Logic and First Order Logic (FOL for short). Starting off with Propositional logic, you will be introduced the syntax and semantics of Propositional Logic which pretty much covers all notations and basic properties of such a system. Later on you will start covering natural deduction proofs and the use of Gentzen syle logic (expect to see  ⊢ being spammed). Gentzen style logic isn't too difficult to understand and you will quickly get used to ideas of consistency. Then finally, you will cover Completeness and Compactness theorem, which is a lot to chew through as there is pretty much a roadmap to proving such theorems. But in the end, when you piece up everything together you will feel like you have discovered the universe's secrets. 
+        <br/>
+        <br/>
+        The FOL section is similar to the previous section. However, the syntax and semantics have expanded and a lot more complicated to understand as it centres around the idea of structures and heavily uses functions and relations. You may also have some mix up between Models and Structures while learning the course. The exam is simple and challenging enough. The notes are from the Open logic and the examples given are decent, but if you aren't a fan of reading long paragraphs, you may end up snoozing in the middle of studying.   
       </div>
     </div>
     <!-- -->
