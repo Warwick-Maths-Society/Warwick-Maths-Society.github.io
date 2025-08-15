@@ -511,17 +511,19 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingCS254">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS254" aria-expanded="false" aria-controls="collapseCS254" id="CS254"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS254" aria-expanded="false" aria-controls="collapseCS254" id="CS254">
           <large><a href="#CS254">CS254 Algorithmic Graph Theory</a></large>
         </button>
       </h2>
     </div>
     <div id="collapseCS254" class="collapse" aria-labelledby="headingCS254" data-parent="#accordionY2misc">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">24/25</large>
         <br/>
-        review here
+        This module has a lot of potential. You should try to engage with the lecturer as much as possible, else you will be extremely bored during the lectures. There is a decent amount of content to revise for, but it isn't too difficult to revise. Although there are some sections that I did have problems here and there such as the Hungarian algorithm (no, you cannot use the MA252 method) and the Planar Seperator theorem. The round robin MST algorithm (sped up version) is a bit tricky to understand as well. This module contains stuff like: DAG algorithms, MST algorithms, Bipartite matching algorithms, theory behind hamiltonian cycles and graph colouring (as you can see, it synergises well with MA241) and Berge's Theorem. 
+        <br/>
+        <br/>
+        The assignments are challenging enough to make you explore deep into the content and they are really fun to go through. Although, I do feel how much time we had to do the assignments was quite limited. The exam was fair and it is designed so you pick 4 out of the 6 questions (comes helpful) and it helps that it is 3 hours long. Although the exam difficulty may change, you never know. Alternatives for this module would be MA252 if you aren't a huge fan of doing 100% graph stuff. My main issue with this module is there are ZERO tutorial sheets.
       </div>
     </div>
     <!-- -->
@@ -660,17 +662,19 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingST227">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseST227" aria-expanded="false" aria-controls="collapseST227" id="ST227"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseST227" aria-expanded="false" aria-controls="collapseST227" id="ST227">
           <large><a href="#ST227">ST227 Stochastic Processes</a></large>
         </button>
       </h2>
     </div>
     <div id="collapseST227" class="collapse" aria-labelledby="headingST227" data-parent="#accordionY2misc">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">24/25</large>
         <br/>
-        review here
+        This is an intresting module. Here we cover discrete Markov processes and certain applications and properties of Markov chains. As well as a small chapter on branching processes and extinction probability. The assignments are easy and are intended to make sure that you understand all of the content that has been taught. The content is very lengthy and there is a lot of methods and theory that you must memorise. I emphasise that you should try and look into applications of branching processes as this section was sort of skimmed through and to memorise all content of the notes. Including the gamblers ruin. 
+        <br/>
+        <br/>
+        The lectures are fine. The content is covered well enough and any questions asked are resolved. There are TWO lectures every week in contrast to three lectures a week. The exam was terrible, if you didn't understand the examples well enough you would've had a lot of trouble. 
       </div>
     </div>
     <!-- -->
@@ -683,6 +687,27 @@ Note that only the most popular optional external modules have been listed below
     </div>
     <div id="collapseST232" class="collapse" aria-labelledby="headingST232" data-parent="#accordionY2misc">
       <div class="card-body">
+        <large class="text-muted">24/25</large>
+        <br/>
+        This is a very important module. Important regards to being able to do a large quantity of ST3/4xx coded modules. But also important regards to introducing the foundations of statistics and a huge collection of tools that you can use for probability or statistical problems. The module is split into two sections: Statistical distributions and Statistical inference. As you may know, it is worth 15 CATs due to the large amount of content that you must memorise. 
+        <br/>
+        <br/>
+        During section one, you will first skim through the basics of probability that you have seen from ST120. In additon, to those who haven't done CS147, you will learn conditional expectation and it isn't too difficult after doing some proofs yourself. Moving on, we go through Discrete probability distributions, including some new distributions such as the Negative binomial and Categorical distribution. You will also be introduce the idea of Memoryless properties for distributions (lets call them dists). 
+        <br/>
+        <br/>
+        Now we focus on continuous dists and joint dists, where we are newly introduced: Multivariate normal dist (MVN), Gamma dist, Kai square dist and Beta dist. We also learn how to do change of variables with joint dists. We also look at the Fischer's theorem and the links between sampled mean and varience with dists. This section then ends off nicely with approximation theorems and the idea of convergence in probability/expectation. Overall, this section isn't too difficult to understand. But it is important to remember everything here because it is important for the next section.
+        <br/>
+        <br/>
+        Section 2 is where things get heavy, starting off you learn how to derive MMEs and MLEs. These are important for the whole section and it isn't too difficult to learn (apart from the Regression cases, but might as well learn it anyway). Afterwards, there is a small chapter about (un)biased estimators and the Mean square errors, this includes asympotic estimators as well. 
+        <br/>
+        <br/>
+        Confidence intervals and hypothesis testing are the next two sections, here requires a lot thought process and understanding. I found the hypothesis testing the hardest section as there is a ton of theory that is put together and several tricks that you have to learn in order to thrive in this section. 
+        <br/>
+        <br/>
+        There are some issues with this module: The content being covered is incredibly dull, so I do advise you to emphasise you motivation to do this module and to put as much effort a possible. The notes are also a bit all over the place during this year, you were pretty much better off watching all of the lecture captures to try to understand the content. The exam was difficult for the marjority of people. If you want to make it easier for yourself: Memorise bookwork, revise all quizzes and tutorial sheets (like most other modules). Search up for any other supplementary notes in order to help you understand the content as well. 
+        <br/>
+        <hr/>
+        <br/>
         <large class="text-muted">23/24</large>
         <br/>
         This module is a requirement if you want to do further stats modules in years 3 and 4. It begins by recapping most of the usual distributions, as well as one or two new ones I had not seen before. The second half of the module is then applying these distributions with an emphasis on likelihood methods of estimation and testing. The module is primarily focused on applying the content taught and proofs do not form a large part of the syllabus. 
