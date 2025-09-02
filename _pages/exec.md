@@ -7,6 +7,8 @@ last_modified_at: 2025-04-22
 header_type:
 ---
 
+The archive of exec from previous years may be found [here](exec/overview.md).
+
 # Roles and Current Exec
 
 ---
