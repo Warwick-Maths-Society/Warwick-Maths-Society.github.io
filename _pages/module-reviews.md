@@ -45,7 +45,7 @@ Note that only the most popular optional external modules have been listed below
 
 # Year 1
 
-### Maths Modules
+## Maths Modules
 
 <div class="accordion" id="accordionY1maths">
   <div class="card">
@@ -59,6 +59,13 @@ Note that only the most popular optional external modules have been listed below
     </div>
     <div id="collapseMA117" class="collapse" aria-labelledby="headingMA117" data-parent="#accordionY1maths">
       <div class="card-body">
+        <large class="text-muted">24/25</large>
+        <br/>
+        The 22/23 review for this module still held up well for the 24/25 academic year. In addition to what it says, it's also worth noting that there's an additional, unassessed, "Project 0" assignment, which is worth doing to get used to Java and the submission system, even though it's not for credit. However, it is important to note that the current module leader, Greg Watson, is likely to be revamping much of the module for 25/26 (based on some comments he made in labs), including new (potentially harder) courseworks as the previous ones are very old and the automated marking system used for them has become unmaintainable. 
+        <br/>
+        <br/>
+        <hr/>
+        <br/>
         <large class="text-muted">22/23</large>
         <br/>
         This is a 100% coursework coding introductory Java course, with a maths module code but taught by the DCS. The module assessment consists of three programming assignments, worth 25%, 35% and 40% of the module mark respectively — these assignments are harder than anything in MA124 Maths by Computer, but are very doable if you put in the time and don't leave them until the night before they are due! The assignments are mainly focused on using Java to solve computational maths problems, rather than programming in Java for its own sake.
@@ -82,34 +89,10 @@ Note that only the most popular optional external modules have been listed below
 
 
 
-### External Modules
+## External Modules
 
 <div class="accordion" id="accordionY1misc">
   <div class="card">
-    <!-- -->
-    <div class="card-header" id="headingCS147">
-      <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS147" aria-expanded="false" aria-controls="collapseCS147" id="CS147">
-          <large><a href="#CS147">CS147 Discrete Mathematics and its Applications 2</a></large>
-        </button>
-      </h2>
-    </div>
-    <div id="collapseCS147" class="collapse" aria-labelledby="headingCS147" data-parent="#accordionY1misc">
-      <div class="card-body">
-        <large class="text-muted">24/25</large>
-        <br/>
-        CS147 can be broadly split into two halves. The first half focusses on algorithms, algorithmic complexity and discrete probability, while the second half covers introductory graph theory. Each half has a different lecturer.
-        <br/>
-        <br/>
-        Much of the content is very interesting, and I particuarly enjoyed the graph theory portions. However, it should be noted that much of the probability content overlaps with ST120 which everyone taking this module will have taken. This module will challenge you to think and problem solve, perhaps more than other first year modules do. 20% of the grade is formed from two assignments (each covering a different half of the module), and the questions on these assignments range from completely trivial to very challenging, particuarly in the graph theory assignment, and they absolutely cannot be rushed. The exam, forming 80% of the module, is once again split into two halves and was, in my opinion, far harder than the assignments.
-        <br/>
-        <br/>
-        Alongside the lectures, there are also 9 weekly seminars covering questions based on the content of the lectures. These were extremely useful, and my largest regret with this module is that I didn't spend more time attempting the questions myself before the seminars. 
-        <br/>
-        <br/>
-        This module is generally considered quite challenging, and it can be tough to get a good mark, particuarly in the exam. I would tentatively recommend this module to anyone interested in algorithms and graph theory, but be prepared to put in the time if you want a high mark, and potentially consider overcatting so that this module's grade is not counted in your year grade.
-      </div>
-    </div>
     <!-- -->
     <div class="card-header" id="headingCS141">
       <h2 class="m-0">
@@ -1702,6 +1685,40 @@ Sections will be added as reviews are submitted, due to the abundance of 4th yea
         review here
       </div>
     </div> -->
+    <!-- -->
+  </div>
+</div>
+
+# Old modules
+
+The modules that these reviews are for no longer exist, but they're kept here in case they're relevant to modules that do still exist, and to show how the course and the modules available have changed over the years.
+
+<div class="accordion" id="accordionold">
+  <div class="card">
+    <!-- -->
+    <div class="card-header" id="headingCS147">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS147" aria-expanded="false" aria-controls="collapseCS147" id="CS147">
+          <large><a href="#CS147">CS147 Discrete Mathematics and its Applications 2</a></large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseCS147" class="collapse" aria-labelledby="headingCS147" data-parent="#accordionold">
+      <div class="card-body">
+        <large class="text-muted">24/25</large>
+        <br/>
+        CS147 can be broadly split into two halves. The first half focusses on algorithms, algorithmic complexity and discrete probability, while the second half covers introductory graph theory. Each half has a different lecturer.
+        <br/>
+        <br/>
+        Much of the content is very interesting, and I particuarly enjoyed the graph theory portions. However, it should be noted that much of the probability content overlaps with ST120 which everyone taking this module will have taken. This module will challenge you to think and problem solve, perhaps more than other first year modules do. 20% of the grade is formed from two assignments (each covering a different half of the module), and the questions on these assignments range from completely trivial to very challenging, particuarly in the graph theory assignment, and they absolutely cannot be rushed. The exam, forming 80% of the module, is once again split into two halves and was, in my opinion, far harder than the assignments.
+        <br/>
+        <br/>
+        Alongside the lectures, there are also 9 weekly seminars covering questions based on the content of the lectures. These were extremely useful, and my largest regret with this module is that I didn't spend more time attempting the questions myself before the seminars. 
+        <br/>
+        <br/>
+        This module is generally considered quite challenging, and it can be tough to get a good mark, particuarly in the exam. I would tentatively recommend this module to anyone interested in algorithms and graph theory, but be prepared to put in the time if you want a high mark, and potentially consider overcatting so that this module's grade is not counted in your year grade.
+      </div>
+    </div>
     <!-- -->
   </div>
 </div>
