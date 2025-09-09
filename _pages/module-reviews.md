@@ -3,7 +3,7 @@ title: Module Reviews
 subtitle: 
 permalink: /module-reviews
 date: 2024-06-27
-last_modified_at: 2024-07-11
+last_modified_at: 2025-09-10
 header_type:
 ---
 
@@ -45,7 +45,7 @@ Note that only the most popular optional external modules have been listed below
 
 # Year 1
 
-### Maths Modules
+## Maths Modules
 
 <div class="accordion" id="accordionY1maths">
   <div class="card">
@@ -59,21 +59,22 @@ Note that only the most popular optional external modules have been listed below
     </div>
     <div id="collapseMA117" class="collapse" aria-labelledby="headingMA117" data-parent="#accordionY1maths">
       <div class="card-body">
+        <large class="text-muted">24/25</large>
+        <br/>
+        The 22/23 review for this module still held up well for the 24/25 academic year. In addition to what it says, it's also worth noting that there's an additional unassessed "Project 0" assignment, which is worth doing to get used to Java and the submission system, even though it's not for credit. However, it is important to note that the current module leader, Greg Watson, is likely to be revamping much of the module for 25/26 (based on some comments he made in labs), including new (potentially harder) courseworks, as the previous ones are very old and the automated marking system used for them has become unmaintainable. 
+        <br/>
+        <br/>
+        <hr/>
+        <br/>
         <large class="text-muted">22/23</large>
         <br/>
-        This is a 100% coursework coding introductory Java course, with a maths module code but taught by the DCS. The module assessment consists of three programming assignments, worth 25%, 35% and 40% of the module mark respectively — these assignments are harder than anything in MA124 Maths by Computer, but are very doable if you put in the time and don't leave them until the night before they are due! The assignments are mainly focused on using Java to solve computational maths problems, rather than programming in Java for its own sake.
+        This is a 100% coursework coding introductory Java course, with a maths module code but taught by the DCS. The module assessment consists of three programming assignments, worth 25%, 35%, and 40% of the module mark respectively — these assignments are harder than anything in MA124 Maths by Computer, but are very doable if you put in the time and don't leave them until the night before they are due! The assignments are mainly focussed on using Java to solve computational maths problems, rather than programming in Java for its own sake.
         <br/>
         <br/>
         For anyone who has already coded in Java (or has any significant programming experience) I would absolutely recommend this module more than any other first year optional: its 100% coursework nature means that it is very possible to get almost all, if not full, marks and it is one less exam to worry about in the summer.
         <br/>
         <br/>
         Second years can also take this module, so if you are confident in Java you might want to save it for then to increase the degree credit you get from it (as second year is worth more than first). I'd still recommend it to anyone who hasn't done much programming but enjoyed MA124 in term 1, provided you are prepared to put in the time to learn Java and do the assignments alongside your other modules. The lectures for this module are entirely online and have PowerPoints that you can read through too, there are also in-person drop in labs run by TAs too — personally I found the latter a lot more helpful, but both are potentially useful resources. In the end though, like maths, coding is not a spectator sport — you'll get the most out of this module by putting in the time and trying the assignments!
-        <!-- <br/>
-        <br/>
-        <hr/>
-        <br/>
-        <small class="text-muted">23/24</small><br/>
-        review 2 -->
       </div>
     </div>
     <!-- -->
@@ -82,34 +83,10 @@ Note that only the most popular optional external modules have been listed below
 
 
 
-### External Modules
+## External Modules
 
 <div class="accordion" id="accordionY1misc">
   <div class="card">
-    <!-- -->
-    <div class="card-header" id="headingCS147">
-      <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS147" aria-expanded="false" aria-controls="collapseCS147" id="CS147">
-          <large><a href="#CS147">CS147 Discrete Mathematics and its Applications 2</a></large>
-        </button>
-      </h2>
-    </div>
-    <div id="collapseCS147" class="collapse" aria-labelledby="headingCS147" data-parent="#accordionY1misc">
-      <div class="card-body">
-        <large class="text-muted">24/25</large>
-        <br/>
-        CS147 can be broadly split into two halves. The first half focusses on algorithms, algorithmic complexity and discrete probability, while the second half covers introductory graph theory. Each half has a different lecturer.
-        <br/>
-        <br/>
-        Much of the content is very interesting, and I particuarly enjoyed the graph theory portions. However, it should be noted that much of the probability content overlaps with ST120 which everyone taking this module will have taken. This module will challenge you to think and problem solve, perhaps more than other first year modules do. 20% of the grade is formed from two assignments (each covering a different half of the module), and the questions on these assignments range from completely trivial to very challenging, particuarly in the graph theory assignment, and they absolutely cannot be rushed. The exam, forming 80% of the module, is once again split into two halves and was, in my opinion, far harder than the assignments.
-        <br/>
-        <br/>
-        Alongside the lectures, there are also 9 weekly seminars covering questions based on the content of the lectures. These were extremely useful, and my largest regret with this module is that I didn't spend more time attempting the questions myself before the seminars. 
-        <br/>
-        <br/>
-        This module is generally considered quite challenging, and it can be tough to get a good mark, particuarly in the exam. I would tentatively recommend this module to anyone interested in algorithms and graph theory, but be prepared to put in the time if you want a high mark, and potentially consider overcatting so that this module's grade is not counted in your year grade.
-      </div>
-    </div>
     <!-- -->
     <div class="card-header" id="headingCS141">
       <h2 class="m-0">
@@ -122,10 +99,10 @@ Note that only the most popular optional external modules have been listed below
       <div class="card-body">
         <large class="text-muted">24/25</large>
         <br/>
-        CS141 is a fun and fast-paced introduction to the functional programming language Haskell. The lectures and labs are all extremly good, and the lecturer is excellent and very willing to answer questions after lectures, during office hours and over email. The courseworks change each year but are always interesting and fun to complete. This year, the first coursework was to produce a simplified version of the popular video game "Balatro", and the second (always parsing related) was to create a parser for files describing a two player grid-based game called Gridlock, created speciffically for the coursework.
+        CS141 is a fun and fast-paced introduction to the functional programming language Haskell. The lectures and labs are all extremely good, and the lecturer is excellent and very willing to answer questions after lectures, during office hours, and over email. The courseworks change each year, but are always interesting and fun to complete. This year, the first coursework was to produce a simplified version of the popular video game "Balatro", and the second (always parsing related) was to create a parser for files describing a two player grid-based game called Gridlock, created specifically for the coursework.
         <br/>
         <br/>
-        In general, the 23/24 review holds up very well. However, it should be noted that the exam format has changed. The first two questions, covering Haskell basics, are now mandatory, and you may then choose 2 questions out of the remaining 3 to answer. The 3 optional questions all cover different aspects of Haskell and functional programming, allowing you to play to your strengths. With sufficient practise at programming in Haskell, it is very possible to score very highly in the exam and the courseworks.
+        In general, the 23/24 review holds up very well. However, it should be noted that the exam format has changed: the first two questions covering Haskell basics are now mandatory, and you may then choose 2 questions out of the remaining 3 to answer. The 3 optional questions all cover different aspects of Haskell and functional programming, allowing you to play to your strengths. With sufficient practice at programming in Haskell, it is very possible to score very highly in the exam and the courseworks.
         <br/>
         <br/>
         Overall, I recommend this module to anyone with an interest in programming. It has changed the way I view programming.
@@ -183,17 +160,34 @@ Note that only the most popular optional external modules have been listed below
     <!-- -->
     <div class="card-header" id="headingPX156">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX156" aria-expanded="false" aria-controls="collapsePX156" id="PX156"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX156" aria-expanded="false" aria-controls="collapsePX156" id="PX156">
           <large><a href="#PX156">PX156 Quantum Phenomena</a></large>
         </button>
       </h2>
     </div>
     <div id="collapsePX156" class="collapse" aria-labelledby="headingPX156" data-parent="#accordionY1misc">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">24/25</large>
         <br/>
-        review here
+        PX156 consists of two halves: Quantum Phenomena (Weeks 1-6) and Particle Physics (Weeks 7-10). This module is 100% assessed by exam, but also has weekly problem sheets available for consolidation of material.
+        <br/>
+        <br/>
+        Quantum Phenomena covers the development of quantum theory by studying experiments such as the Photoelectric and Compton effect, and how observations from these motivated changes to the underlying theory of photons. It then moves on to consider massless particles, including Bohr's model of the atom and de Broglie's hypothesis, before introducing the Schrodinger Equation and Heisenberg's Uncertainty Principle, and applying them to certain situations to model quantum tunnelling.
+        <br/>
+        <br/>
+        Particle Physics covers the basics of particle theory, by first covering the fundamental forces and particles with their conservation laws. It then introduces Feynman diagrams as a way of illustrating particle interactions, before covering symmetries in interactions, as well as the kinematics involved. Finally, it covers sources of particles, as well as particle accelerators and detectors.
+        <br/>
+        <br/>
+        I would not recommend this module to anyone, for a number of reasons. First, while the first part does offer an introduction into the basics of quantum physics, it often does not go into much detail, since this would require mathematical knowledge not covered in the first year. Furthermore, there is little in the way of derivations for any of the equations used in the module, which resulted in many students not developing an intuition for the material. The content of this module also changes drastically year-on-year, which means that past papers offer little help in terms of understanding what material is assessed in exams.
+        <br/>
+        <br/>
+        The second half of the module is a similar story -- to the point where the lecturer themself states that most of the interesting content cannot be covered due to the lack of mathematical knowledge. Unfortunately, this results in the second section consisting entirely of facts that you are expected to memorise and apply for the exam, alongside many equations that have no use/mention in later years.
+        <br/>
+        <br/>
+        Having said all of this, it can be easy to get a reasonably high mark for those who decide to do all of the past papers that are made available by the Physics Department, since the mark schemes and question style remains somewhat constant for each section of the exam, despite the content varying substantially.
+        <br/>
+        <br/>
+        In conclusion, PX156 is a rather poorly-designed module, and for anyone interested in Quantum Physics, it would be more useful to read a textbook from the library than to take this module. Those considering to take this module for the "reasonably high mark" should also consider other options, as there are many other modules which are much easier to do well on than this one.
       </div>
     </div>
     <!-- -->
@@ -206,6 +200,16 @@ Note that only the most popular optional external modules have been listed below
     </div>
     <div id="collapsePX157" class="collapse" aria-labelledby="headingPX157" data-parent="#accordionY1misc">
       <div class="card-body">
+        <large class="text-muted">24/25</large>
+        <br/>
+        The previous review for this module is consistent with the experience I had this year, and I would highly recommend this module to anyone who has a vague interest in this topic, even if they haven't done Physics A level.
+        <br/>
+        <br/>
+        I will, however, say that the usual lecturer for this module went on sabbatical for this year, which meant that the content/focus in parts of the module varied slightly from previous years. However, the exam was well in line with expectations (as said below, there aren't many questions you can ask about this topic), and the previous lecturer is set to return this year.
+        <br/>
+        <br/>
+        <hr/>
+        <br/>
         <large class="text-muted">23/24</large>
         <br/>
         PX157 consists of two parts: Electricity (Weeks 1-6), and Magnetism (Weeks 7-10). The module is 100% assessed by exam, but 10 problem sheets are available for practice. Weeks 1-6 cover elementary electrostatics as well as important results such as electrostatics, surface/volume integrals, Gauss’ Law, Coulomb’s Law, dielectrics, and capacitors. The remaining weeks serve as an introduction to magnetism and ‘fitting it in’ with electricity through concepts like magnetostatics, Ampère’s Law, Faraday’s Law, and LRC circuitry. Any future physics modules reliant on electrodynamics and electromagnetism (such as PX384: Electrodynamics) will naturally require a strong foundation in both electricity and magnetism, making this module an effective prerequisite. The module has strong synergies with Modelling 2 and Classical Mechanics (PX155).
@@ -1702,6 +1706,40 @@ Sections will be added as reviews are submitted, due to the abundance of 4th yea
         review here
       </div>
     </div> -->
+    <!-- -->
+  </div>
+</div>
+
+# Old modules
+
+The modules that these reviews are for no longer exist, but they're kept here in case they're relevant to modules that do still exist, and to show how the course and the modules available have changed over the years.
+
+<div class="accordion" id="accordionold">
+  <div class="card">
+    <!-- -->
+    <div class="card-header" id="headingCS147">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS147" aria-expanded="false" aria-controls="collapseCS147" id="CS147">
+          <large><a href="#CS147">CS147 Discrete Mathematics and its Applications 2</a></large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseCS147" class="collapse" aria-labelledby="headingCS147" data-parent="#accordionold">
+      <div class="card-body">
+        <large class="text-muted">24/25</large>
+        <br/>
+        CS147 can be broadly split into two halves. The first half focusses on algorithms, algorithmic complexity, and discrete probability, while the second half covers introductory graph theory. Each half has a different lecturer.
+        <br/>
+        <br/>
+        Much of the content is very interesting, and I particularly enjoyed the graph theory portions. However, it should be noted that much of the probability content overlaps with ST120, which everyone taking this module will have taken. This module will challenge you to think and problem-solve, perhaps more than other first year modules do. 20% of the grade is formed from two assignments (each covering a different half of the module), and the questions on these assignments range from completely trivial to very challenging -- particularly in the graph theory assignment -- and they absolutely cannot be rushed. The exam, forming 80% of the module, is once again split into two halves and was, in my opinion, far harder than the assignments.
+        <br/>
+        <br/>
+        Alongside the lectures, there are also 9 weekly seminars covering questions based on the content of the lectures. These were extremely useful, and my largest regret with this module is that I didn't spend more time attempting the questions myself before the seminars.
+        <br/>
+        <br/>
+        This module is generally considered quite challenging, and it can be tough to get a good mark, particuarly in the exam. I would tentatively recommend this module to anyone interested in algorithms and graph theory, but be prepared to put in the time if you want a high mark, and potentially consider overcatting so that this module's grade is not counted in your overall year grade.
+      </div>
+    </div>
     <!-- -->
   </div>
 </div>
