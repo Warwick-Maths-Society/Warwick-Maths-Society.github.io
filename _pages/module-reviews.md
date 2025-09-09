@@ -189,6 +189,16 @@ Note that only the most popular optional external modules have been listed below
     </div>
     <div id="collapsePX157" class="collapse" aria-labelledby="headingPX157" data-parent="#accordionY1misc">
       <div class="card-body">
+        <large class="text-muted">24/25</large>
+        <br/>
+        The previous review for this module is consistent with the experience I had this year, and I would highly recommend this module to anyone who has a vague interest in this topic, even if they haven't done Physics A level.
+        <br/>
+        <br/>
+        I will however say that the usual lecturer for this module went on sabbatical for this year, which meant that the content/focus in parts of the module varied slightly from previous years. However, the exam was well in line with expectations (as said below, there aren't many questions you can ask about this topic), and the previous lecturer is set to return this year.
+        <br/>
+        <br/>
+        <hr/>
+        <br/>
         <large class="text-muted">23/24</large>
         <br/>
         PX157 consists of two parts: Electricity (Weeks 1-6), and Magnetism (Weeks 7-10). The module is 100% assessed by exam, but 10 problem sheets are available for practice. Weeks 1-6 cover elementary electrostatics as well as important results such as electrostatics, surface/volume integrals, Gauss’ Law, Coulomb’s Law, dielectrics, and capacitors. The remaining weeks serve as an introduction to magnetism and ‘fitting it in’ with electricity through concepts like magnetostatics, Ampère’s Law, Faraday’s Law, and LRC circuitry. Any future physics modules reliant on electrodynamics and electromagnetism (such as PX384: Electrodynamics) will naturally require a strong foundation in both electricity and magnetism, making this module an effective prerequisite. The module has strong synergies with Modelling 2 and Classical Mechanics (PX155).
