@@ -61,26 +61,20 @@ Note that only the most popular optional external modules have been listed below
       <div class="card-body">
         <large class="text-muted">24/25</large>
         <br/>
-        The 22/23 review for this module still held up well for the 24/25 academic year. In addition to what it says, it's also worth noting that there's an additional, unassessed, "Project 0" assignment, which is worth doing to get used to Java and the submission system, even though it's not for credit. However, it is important to note that the current module leader, Greg Watson, is likely to be revamping much of the module for 25/26 (based on some comments he made in labs), including new (potentially harder) courseworks as the previous ones are very old and the automated marking system used for them has become unmaintainable. 
+        The 22/23 review for this module still held up well for the 24/25 academic year. In addition to what it says, it's also worth noting that there's an additional unassessed "Project 0" assignment, which is worth doing to get used to Java and the submission system, even though it's not for credit. However, it is important to note that the current module leader, Greg Watson, is likely to be revamping much of the module for 25/26 (based on some comments he made in labs), including new (potentially harder) courseworks, as the previous ones are very old and the automated marking system used for them has become unmaintainable. 
         <br/>
         <br/>
         <hr/>
         <br/>
         <large class="text-muted">22/23</large>
         <br/>
-        This is a 100% coursework coding introductory Java course, with a maths module code but taught by the DCS. The module assessment consists of three programming assignments, worth 25%, 35% and 40% of the module mark respectively — these assignments are harder than anything in MA124 Maths by Computer, but are very doable if you put in the time and don't leave them until the night before they are due! The assignments are mainly focused on using Java to solve computational maths problems, rather than programming in Java for its own sake.
+        This is a 100% coursework coding introductory Java course, with a maths module code but taught by the DCS. The module assessment consists of three programming assignments, worth 25%, 35%, and 40% of the module mark respectively — these assignments are harder than anything in MA124 Maths by Computer, but are very doable if you put in the time and don't leave them until the night before they are due! The assignments are mainly focussed on using Java to solve computational maths problems, rather than programming in Java for its own sake.
         <br/>
         <br/>
         For anyone who has already coded in Java (or has any significant programming experience) I would absolutely recommend this module more than any other first year optional: its 100% coursework nature means that it is very possible to get almost all, if not full, marks and it is one less exam to worry about in the summer.
         <br/>
         <br/>
         Second years can also take this module, so if you are confident in Java you might want to save it for then to increase the degree credit you get from it (as second year is worth more than first). I'd still recommend it to anyone who hasn't done much programming but enjoyed MA124 in term 1, provided you are prepared to put in the time to learn Java and do the assignments alongside your other modules. The lectures for this module are entirely online and have PowerPoints that you can read through too, there are also in-person drop in labs run by TAs too — personally I found the latter a lot more helpful, but both are potentially useful resources. In the end though, like maths, coding is not a spectator sport — you'll get the most out of this module by putting in the time and trying the assignments!
-        <!-- <br/>
-        <br/>
-        <hr/>
-        <br/>
-        <small class="text-muted">23/24</small><br/>
-        review 2 -->
       </div>
     </div>
     <!-- -->
@@ -105,10 +99,10 @@ Note that only the most popular optional external modules have been listed below
       <div class="card-body">
         <large class="text-muted">24/25</large>
         <br/>
-        CS141 is a fun and fast-paced introduction to the functional programming language Haskell. The lectures and labs are all extremly good, and the lecturer is excellent and very willing to answer questions after lectures, during office hours and over email. The courseworks change each year but are always interesting and fun to complete. This year, the first coursework was to produce a simplified version of the popular video game "Balatro", and the second (always parsing related) was to create a parser for files describing a two player grid-based game called Gridlock, created speciffically for the coursework.
+        CS141 is a fun and fast-paced introduction to the functional programming language Haskell. The lectures and labs are all extremely good, and the lecturer is excellent and very willing to answer questions after lectures, during office hours, and over email. The courseworks change each year, but are always interesting and fun to complete. This year, the first coursework was to produce a simplified version of the popular video game "Balatro", and the second (always parsing related) was to create a parser for files describing a two player grid-based game called Gridlock, created specifically for the coursework.
         <br/>
         <br/>
-        In general, the 23/24 review holds up very well. However, it should be noted that the exam format has changed. The first two questions, covering Haskell basics, are now mandatory, and you may then choose 2 questions out of the remaining 3 to answer. The 3 optional questions all cover different aspects of Haskell and functional programming, allowing you to play to your strengths. With sufficient practise at programming in Haskell, it is very possible to score very highly in the exam and the courseworks.
+        In general, the 23/24 review holds up very well. However, it should be noted that the exam format has changed: the first two questions covering Haskell basics are now mandatory, and you may then choose 2 questions out of the remaining 3 to answer. The 3 optional questions all cover different aspects of Haskell and functional programming, allowing you to play to your strengths. With sufficient practice at programming in Haskell, it is very possible to score very highly in the exam and the courseworks.
         <br/>
         <br/>
         Overall, I recommend this module to anyone with an interest in programming. It has changed the way I view programming.
