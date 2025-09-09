@@ -172,19 +172,19 @@ Note that only the most popular optional external modules have been listed below
         PX156 consists of two halves: Quantum Phenomena (Weeks 1-6) and Particle Physics (Weeks 7-10). This module is 100% assessed by exam, but also has weekly problem sheets available for consolidation of material.
         <br/>
         <br/>
-        Quantum Phenomena covers the development of quantum theory by studying experiments such as the Photoelectric and Compton effect, and how observations from these motivated changes to the underlying theory of photons. It then moves on to consider massless particles, including Bohr's model of the atom and de Broglie's hypothesis, before introducing the Schrodinger Equation and Heisenburg's Uncertainty Principle, and applying them to certain situations to model quantum tunnelling.
+        Quantum Phenomena covers the development of quantum theory by studying experiments such as the Photoelectric and Compton effect, and how observations from these motivated changes to the underlying theory of photons. It then moves on to consider massless particles, including Bohr's model of the atom and de Broglie's hypothesis, before introducing the Schrodinger Equation and Heisenberg's Uncertainty Principle, and applying them to certain situations to model quantum tunnelling.
         <br/>
         <br/>
-        Particle Physics covers the basics of particle theory, by first covering the fundamental forces and particles, with their conservation laws. It then introduces Feynman diagrams as a way of illustrating particle interactions before covering symmetries in interactions as well as kinematics involved. Finally, it covers sources of particles as well as particle accelerators and detectors.
+        Particle Physics covers the basics of particle theory, by first covering the fundamental forces and particles with their conservation laws. It then introduces Feynman diagrams as a way of illustrating particle interactions, before covering symmetries in interactions, as well as the kinematics involved. Finally, it covers sources of particles, as well as particle accelerators and detectors.
         <br/>
         <br/>
-        I would not recommend this module to anyone, for a number of reasons. First, while the first part does offer an introduction into the basics of quantum physics, it often does not go into much detail since this would require mathematical knowledge not covered in the first year. Furthermore, there is little in the way of derivations for any of the equations used in the module, which resulted in many students not developing an intuition for the material. The content of this module also changes drastically year-on-year, which means that past papers offer little help in terms of understanding what material is assessed in exams.
+        I would not recommend this module to anyone, for a number of reasons. First, while the first part does offer an introduction into the basics of quantum physics, it often does not go into much detail, since this would require mathematical knowledge not covered in the first year. Furthermore, there is little in the way of derivations for any of the equations used in the module, which resulted in many students not developing an intuition for the material. The content of this module also changes drastically year-on-year, which means that past papers offer little help in terms of understanding what material is assessed in exams.
         <br/>
         <br/>
-        The second half of the module is a similar story, to the point where the lecturer themself states that most of the interesting content cannot be covered due to the lack in mathematical knowledge. Unfortunately, this results in the second section consisting entirely of facts that you are expected to memorise and apply for the exam, alongside many equations that have no use/mention in later years.
+        The second half of the module is a similar story -- to the point where the lecturer themself states that most of the interesting content cannot be covered due to the lack of mathematical knowledge. Unfortunately, this results in the second section consisting entirely of facts that you are expected to memorise and apply for the exam, alongside many equations that have no use/mention in later years.
         <br/>
         <br/>
-        Having said all of this, it can be easy to get a reasonably high mark for those who decide to do all of the past papers that are made available by the Physics Department, since the markschemes and question style remains somewhat constant for each section of the exam, despite the content varying substantially.
+        Having said all of this, it can be easy to get a reasonably high mark for those who decide to do all of the past papers that are made available by the Physics Department, since the mark schemes and question style remains somewhat constant for each section of the exam, despite the content varying substantially.
         <br/>
         <br/>
         In conclusion, PX156 is a rather poorly-designed module, and for anyone interested in Quantum Physics, it would be more useful to read a textbook from the library than to take this module. Those considering to take this module for the "reasonably high mark" should also consider other options, as there are many other modules which are much easier to do well on than this one.
@@ -205,7 +205,7 @@ Note that only the most popular optional external modules have been listed below
         The previous review for this module is consistent with the experience I had this year, and I would highly recommend this module to anyone who has a vague interest in this topic, even if they haven't done Physics A level.
         <br/>
         <br/>
-        I will however say that the usual lecturer for this module went on sabbatical for this year, which meant that the content/focus in parts of the module varied slightly from previous years. However, the exam was well in line with expectations (as said below, there aren't many questions you can ask about this topic), and the previous lecturer is set to return this year.
+        I will, however, say that the usual lecturer for this module went on sabbatical for this year, which meant that the content/focus in parts of the module varied slightly from previous years. However, the exam was well in line with expectations (as said below, there aren't many questions you can ask about this topic), and the previous lecturer is set to return this year.
         <br/>
         <br/>
         <hr/>
