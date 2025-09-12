@@ -36,6 +36,12 @@ If you would like to contribute some notes, please get in touch with `.desync` o
 
 <br/>
 
+### Module Reviews
+
+We have reviews of some of the possible optional modules for all years if you need help deciding. We are still actively gathering new reviews, so please email publications@warwickmaths.org if you have one you would like to submit!
+
+<br/>
+
 ### Essay Archive
 
 We have compiled <a href="/essays">a collection</a> of previous essays that you can use for reference. You can use it to see past topics covered; to gauge how difficult or accessible topics should be; how long your essay should be; or just to read at leisure to learn about some new maths from other students -- after all, (second year) essays should be accessible to other second year students.
