@@ -8,28 +8,51 @@ header_type:
 ---
 
 <style>
-  table.uniform {
+table.uniform {
     table-layout: fixed;
     width: 100%;
     margin: 0px auto;
-  }
-  table.uniform col:nth-child(1) { width: 7%; }
-  table.uniform col:nth-child(2) { width: 85%; }
-  table.uniform col:nth-child(3) { width: 8%; }
-  
-  .uniform td:nth-child(3),
-  .uniform th:nth-child(3) {
-    text-align: right;
-  }
+}
+
+table.uniform col:nth-child(1) { width: 7%; }
+table.uniform col:nth-child(2) { width: 85%; }
+table.uniform col:nth-child(3) { width: 8%; }
+
+.uniform td:nth-child(3),
+.uniform th:nth-child(3) {
+text-align: right;
+}
+
+blockquote {
+    padding: 10px 20px 0 0;
+    margin: 0 0 0 0;
+    font-size: 15px;
+}
 </style>
 
 The second year essay is an opportunity to study a topic of your choice, and to gain some experience in mathematical writing.
 
-Most of the advice that can be given about the essay is self evident, but is worth repeating.
+Most of the advice that can be given about the essay is self evident, but is worth repeating:
 
-Choose a subject that you are deeply interested in. If you are invested in your topic, the reading and writing will come much more naturally. Choosing the level of the topic may also take a few tries: if you can understand everything on first reading, then perhaps try and push yourself a bit harder; but conversely, if you are struggling to make it through any given text, then it may be prudent to scale back your topic. In particular, if you are blindly copying from a book because you cannot understand a proof, then it may be best to simply omit the proof.
-
-The essay should be presented clearly and professionally; omit contractions and abbreviations, and consistently adhere to a set style guide.
+<!-- Don't delete the two trailing spaces after each subheading -->
+> **Choose a subject that genuinely interests you.**  
+> If you are invested in your topic, the reading and writing will both come much more naturally. Selecting an appropriate level for your topic may also take a few tries: if you can understand everything on first reading, then perhaps try and push yourself with sligthly more advanced material; but conversely, if you are struggling to make it through any given text, then it may be prudent to scale back your topic.
+>
+> In particular, if you find yourself blindly copying from a book because you cannot understand a proof, then it may be best to simply omit the proof. Don't be afraid to adapt or simplify results -- your goal is to demonstrate understanding, not to produce a verbatim reproduction of a source.
+>
+> **Prioritise clarity.**  
+> Use complete sentences, avoid contractions and (non-mathematical) abbreviations, adhere to a consistent style throughout, and pay careful attention to notation and definitions. In particular, if you deviate from standard convention (or there is no consensus in the area), then you should explain this in detail. This commentary not only clarifies the material for your reader, but also demonstrates to the marker that you have carefully considered existing literature.
+>
+> **Aim for a coherent narrative, not a catalogue of results.**  
+> Your essay should not be a list of definitions, theorems, and proofs; it should have a coherent flow or narrative. Before every definition or result, you should consider whether you have adequately motivated why a result is being proved, or what makes it interesting. The reader should not only understand why something is true, but also why it matters, along with how each piece fits together in the larger context of your exposition.
+>
+> **Allow ample time for revision.**  
+> Allow time for revision. Writing mathematics is a iterative process of refinement: check each argument for correctness, verify that each statement follows logically, and polish your prose for readability. Apart from consulting your supervisor, seeking feedback from other students can be invaluable, as others often spot ambiguities or gaps that you may overlook. In particular, a good exposition should be readable by other second-year students -- if you cannot comprehensibly explain a concept to one of your peers, it may indicate that your grasp of it is incomplete. 
+>
+> **Remember, writing mathematics is a skill in itself.**  
+> An essay is as much about conveying ideas clearly as it is about demonstrating technical mastery. A well-written essay demonstrates not only that you understand the mathematics, but also that you can communicate complex ideas in a structured and accessible way. Treat your exposition as an opportunity to teach the material to your reader.
+>
+> In the long run, the ability to express mathematical ideas effectively is just as valuable as the ability to carry out the computations or proofs themselves, and developing this skill will benefit you in any future research, teaching, or collaborative work.
 
 Below, we have compiled a collection of previous essays that you can use for reference. You can use it to see past topics covered; to gauge how difficult or accessible topics should be; how long the essay should be; or just to read at leisure to learn about some new maths from other students -- after all, second year essays should be accessible to other second year students.
 
