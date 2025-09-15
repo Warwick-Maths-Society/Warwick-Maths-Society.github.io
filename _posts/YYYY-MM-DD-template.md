@@ -6,6 +6,9 @@ tags: [tagme] # events, year, updates, talks
 # Uncomment if post needs to be amended
 # last_modified_at: YYYY-MM-DD
 
+# Uncomment if you want an image. Use paths relative to the root directory.
+# image: 
+
 # Uncomment to show author on post:
 # show_author : true
 # author:

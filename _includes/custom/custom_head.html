@@ -12,4 +12,22 @@
 <meta name="msapplication-config" content="https://Warwick-Maths-Society.github.io/assets/favicon/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
 
+{%- assign meta_title = page.title | default: site.title -%}
+{%- assign meta_description = page.excerpt | default: site.description -%}
+{%- assign meta_url = page.url | absolute_url -%}
+
+{%- if page.image and page.image != "" -%}
+  {%- assign meta_image = page.image -%}
+{%- else -%}
+  {%- assign meta_image = site.og_image -%}
+{%- endif -%}
+
+<!-- Open Graph -->
+
+<meta property="og:title" content="{{ meta_title | escape }}">
+<meta property="og:description" content="{{ meta_description | strip_html | strip_newlines | truncate: 160 }}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ meta_url }}">
+<meta property="og:image" content="{{ meta_image | absolute_url }}">
+
 <!-- end custom head snippets -->
