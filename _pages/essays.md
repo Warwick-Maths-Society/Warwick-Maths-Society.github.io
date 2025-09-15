@@ -144,6 +144,11 @@ Below, we have compiled a collection of previous essays that you can use for ref
   </tr>
   <tr>
     <td>88</td>
+    <td><a target="_blank" href="./assets/essays-2/88 - Noether's Theorem.pdf">Variational Principles and Noether's Theorem</a></td>
+    <td><a target="_blank" href=""></a></td>
+  </tr>
+  <tr>
+    <td>88</td>
     <td><a target="_blank" href="./assets/essays-2/88 - Nowhere Dense Sets.pdf">Nowhere Dense Sets</a></td>
     <td><a target="_blank" href=""></a></td>
   </tr>
