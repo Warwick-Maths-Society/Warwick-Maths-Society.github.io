@@ -5,7 +5,7 @@ subtitle: University of Warwick
 excerpt: 
 header_type: splash
 header_img: "./assets/img/dan-cristian-padure-h3kuhYUCE9A-unsplash.jpg"
-og_image: "./assets/img/banner.png"
+# og_image:
 include_on_search: true
 show_sociallinks: false
 project_links:
