@@ -106,6 +106,8 @@ navbar:
         url   : /exec
       - title : Code of Conduct
         url   : /code-of-conduct
+      - title : Society Constitution
+        url   : /constitution
   - title   : Posts
     url     : /blog
   - title   : Essays
