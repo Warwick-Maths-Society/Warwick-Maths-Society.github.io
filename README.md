@@ -146,7 +146,7 @@ If you would like to use the Tasks feature to build your site, add:
         {
             "label": "Start Jekyll",
             "type": "shell",
-            "command": "bundle exec jekyll serve --host localhost --port 4000",
+            "command": "bundle exec jekyll serve --host localhost --port 4000 --incremental",
             "group": {
             "kind": "build",
             "isDefault": true
