@@ -8,6 +8,8 @@ header_type: hero
 ---
 The mission of WMS is to serve students of all years and departments at Warwick who are interested in mathematics through its academic resources, talks, and social events. We aim to promote the communication and uses of mathematics; support mathematical education at all levels; encourage and facilitate full participation of all individuals; and foster an awareness and appreciation of mathematics and its connections to other disciplines and everyday life.
 
+Our full constitution can be found [here](./constitution.md).
+
 # Contacts
 
 See our other social media listed below:
@@ -68,19 +70,19 @@ Stop by for some hot drinks and snacks at our weekly *Coffee and Cake* welfare e
 
 ### Board Games Night
 
-We run a termly *Board Games Night*, where you meet other members and hustle your new friends at board games. 
+We run a termly *Board Games Night*, where you can meet other members and hustle your new friends at board games. These are sober socials.
 
 <br/>
 
 ### Circles, Bar Crawls and Pub Golf
 
-The society runs drinking socials all through the year, with bar crawls around Leamington Spa and Coventry being favourites. A bar crawl consists of going round several bars and pubs, led by the social secretaries, and spending some time in each before moving on. Generally you have about one drink a bar, but as the night goes on, this is not always the case! A great opportunity to socialise with your coursemates and unwind after a long week of lectures.
+The society runs drinking socials all through the year, with *bar crawls* around Leamington Spa and Coventry being favourites. A bar crawl consists of going around several bars and pubs, led by the social secretaries, and spending some time in each before moving on. Generally you have about one drink a bar, but as the night goes on, this is not always the case! These are great opportunities to socialise with your coursemates and unwind after a long week of lectures.
 
-Pub Golf is a variation on bar crawls where you split into teams and compete with other teams to finish your drinks in the least number of sips possible. There is a set drink to buy at each "hole" (bar), and there are extra challenges you can do to lower your points total. Don't worry if you don't do very well, everyone forgets about the points at the end anyway!
+*Pub Golf* is a variation on bar crawls where you split into teams and compete with other teams to finish your drinks in the least number of sips possible. There is a set drink to buy at each "hole" (bar), and there are extra challenges you can do to lower your points total. Don't worry if you don't do very well, everyone forgets about the points at the end anyway!
 
-Circles are a traditional Warwick drinking event, held on Wednesdays from 7 normally, and sometimes other days as well, where members of the society sit in a circle with the traditional pints of purple and play drinking games with the social secretaries leading everything from the middle. The games are all quite simple, but you must remember the rules of circling: no phones out, the social secretary's word is law, and no explaining the rules of the games! You must work them out for yourself. Make sure you arrive early, there is normally a queue to get drinks, and you don't want to be late! 
+*Circles* are a traditional Warwick drinking event, normally held on Wednesdays from 7pm (though sometimes other days as well), where members of the society sit in a circle with the traditional pints of purple and play drinking games, with the Social Secretaries leading everything from the middle. The games are all quite simple, but you must remember the rules of circling: no phones out, the Social Secretaries' word is law, and no explaining the rules of the games! You must work them out for yourself. Make sure you arrive early as there is normally a queue to get drinks, and you don't want to be late! As always with drinking events, the social secretaries will never force you to do anything.
 
-As always with drinking events, the social secretaries will never force you to do something, and if you have any concerns you should speak with one of our wefare execs.
+We expect all of our members to adhere to our [Code of Conduct](./code-of-conduct.md) at all times at our events; inebriation is not an acceptable excuse for misconduct. If you have any concerns, please speak with one of our wefare execs or contact us privately via email or social media.
 
 <br/>
 
@@ -89,6 +91,5 @@ As always with drinking events, the social secretaries will never force you to d
 Interested in showing off your integration skills? Teams of two or three students can represent Warwick in the annual *UK University Integration Bee*. Round I takes place late in Term 1 here at Warwick, with the best teams moving on to Round II, which is typically hosted at Oxford or Cambridge in Term 2.
 
 We also host a *Drunk Integration Bee* each year, where individual students compete against each other in an MIT-style competition. Bring your own booze!
-
 
 <br/>
