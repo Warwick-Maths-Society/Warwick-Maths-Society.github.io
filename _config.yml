@@ -16,6 +16,7 @@ url                     : //warwickmathssociety.com
 baseurl                 :     #On Github Pages you may leave it blank. Have a look to: https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
 words_per_minute        :     #default[200]
 timezone                : Europe/London    #"Europe/Madrid ,see https://jekyllrb.com/docs/configuration/options/ and https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+github_base_url         : "https://github.com/Warwick-Maths-Society/Warwick-Maths-Society.github.io/blob/main"
 
 # SEO
 og_image                : ./assets/img/banner-large.png    #default[author.avatar (see below)] or [github-avatar]
