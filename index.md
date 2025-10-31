@@ -112,6 +112,20 @@ body {
 
 <br/>
 
+<div class="text-center rounded-lg" style="width:fit-content;background-color:#666666;margin-inline:auto;">
+    <h2 class="font-weight-light py-2 px-2">Silver Tier</h2>
+</div>
+
+<div class="text-center my-4 py-4 px-3 rounded-lg" id="silver-sponsor">
+    <a href="https://sig.com/">
+        <img src="/assets/sponsor logos/Susquehanna-light.png" alt="Susquehanna Logo" style="max-height:100px;width:auto;">
+    </a>
+</div>
+
+<!--Insert Optiver here when we recieve details-->
+
+<br/>
+
 <div class="text-center rounded-lg" style="width:fit-content;background-color:#994d00;margin-inline:auto;">
     <h2 class="font-weight-light py-2 px-2">Bronze Tier</h2>
 </div>
@@ -121,8 +135,8 @@ body {
     </a>
 </div>
 <div class="text-center my-4 py-4 px-3 rounded-lg" id="bronze-sponsor">
-    <a href="https://sig.com/">
-        <img src="/assets/sponsor logos/Susquehanna-light.png" alt="Susquehanna Logo" style="max-height:100px;width:auto;">
+    <a href="https://www.janestreet.com/">
+        <img src="/assets/sponsor logos/Jane Street.png" alt="Jane Street Logo" style="max-height:100px;width:auto;">
     </a>
 </div>
 
@@ -133,13 +147,8 @@ body {
 <br/>
 
 <div class="text-center my-4 px-3">
-    <p class="lead font-weight-light py-2">Special thanks also to <b>Jane Street</b> for sponsoring our <i>Integration Bee</i> and <i>Quant Championship</i>, and to the <b>Institute of Mathematics and its Applications</b> for financially supporting our Society.</p>
+    <p class="lead font-weight-light py-2">Special thanks also to <b>Jane Street</b> for sponsoring our <i>Integration Bee</i> and <i>Quant Championship</i></p>
 </div>
 <div class="text-center my-1 py-4 px-3 rounded-lg">
-    <a href="https://www.janestreet.com/">
-        <img src="/assets/sponsor logos/Jane Street.png" alt="Jane Street Logo" style="max-height:120px;max-width:45%;float:left;padding=10pt;">
-    </a>
-    <a href="https://ima.org.uk/">
-        <img src="/assets/sponsor logos/IMA.png" alt="IMA Logo" style="max-height:120px;max-width:45%;float:right;padding=10pt;">
-    </a>
+    
 </div>
