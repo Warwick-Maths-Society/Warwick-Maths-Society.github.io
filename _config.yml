@@ -113,6 +113,8 @@ navbar:
     url     : /blog
   - title   : Essays
     url     : /essays
+  - title   : Job and Internship Listings
+    url     : /job-listings
   - title   : Revision Guides
     url     : /module-guides
   - title   : Module Reviews
