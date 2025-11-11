@@ -264,7 +264,7 @@ Successful candidates will usually be contacted within two weeks. Please be awar
 
 ## Intern and Graduate Roles
 
-Optiver is a tech-driven trading firm and leading global market maker. As one of the oldest market making institutions, we are a trusted partner of 50+ exchanges across the globe. Our mission is to constantly improve the market by injecting liquidity, providing accurate pricing, increasing transparency and acting as a stabilising force no matter the market conditions. With a focus on continuous improvement, we participate in the safeguarding of healthy and efficient markets for everyone who participates. We are open for our Intern and Graduate roles now – follow the link for more information: https://hubs.li/Q03N3Ck60
+Optiver is a tech-driven trading firm and leading global market maker. As one of the oldest market making institutions, we are a trusted partner of 50+ exchanges across the globe. Our mission is to constantly improve the market by injecting liquidity, providing accurate pricing, increasing transparency and acting as a stabilising force no matter the market conditions. With a focus on continuous improvement, we participate in the safeguarding of healthy and efficient markets for everyone who participates. We are open for our Intern and Graduate roles now – follow the link for more information: [https://hubs.li/Q03N3Ck60](https://hubs.li/Q03N3Ck60)
 
 ## Programs
 Graduating soon, or just starting your university degree? Discover where a career in trading or tech could lead.
