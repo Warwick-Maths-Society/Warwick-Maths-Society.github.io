@@ -258,3 +258,45 @@ Successful candidates will usually be contacted within two weeks. Please be awar
 • AABBBB at Scottish Higher / ABB at Advanced Scottish Higher
 
 • 550/750 or above in Gaokao
+
+
+# Optiver
+
+## Intern and Graduate Roles
+
+Optiver is a tech-driven trading firm and leading global market maker. As one of the oldest market making institutions, we are a trusted partner of 50+ exchanges across the globe. Our mission is to constantly improve the market by injecting liquidity, providing accurate pricing, increasing transparency and acting as a stabilising force no matter the market conditions. With a focus on continuous improvement, we participate in the safeguarding of healthy and efficient markets for everyone who participates. We are open for our Intern and Graduate roles now – follow the link for more information: [https://hubs.li/Q03N3Ck60](https://hubs.li/Q03N3Ck60)
+
+## Programs
+Graduating soon, or just starting your university degree? Discover where a career in trading or tech could lead.
+In 2026, we’re offering immersive five-day, all-expenses-paid student programs in Amsterdam.
+Whether you’re exploring trading or technology, each program gives you the chance to sharpen your skills in real-world scenarios, learn directly from seasoned experts, and experience life inside a leading global trading firm.
+
+- **[Career Kickstarter: Trading](https://optiver.com/recruitment-events/career-kickstarter-trading/)**<br/>
+2-6 March or 9–13 March<br/>
+Suitable for: May 2025 – Feb 2027 graduates<br/>
+Potential career pathways: Full-time Graduate Trader
+
+- **[FutureFocus: Quants](https://optiver.com/recruitment-events/futurefocus-quants/)**<br/>
+23-27 March or 13-17 April<br/>
+Suitable for: 2028 graduates in the UK or Ireland<br/>
+Potential career pathways: Quant Trading Intern or Quant Research Intern
+
+- **[Career Kickstarter: Women In Tech](https://optiver.com/recruitment-events/career-kickstarter-women-in-tech/)**<br/>
+13-17 April<br/>
+Suitable for: female-identifying 2024 - 2027 graduates<br/>
+Potential career pathways: Full-time Graduate Software Engineer
+
+<img src="../assets/jobs/Optiver 25-26 programs poster.jpg" alt="Poster for the above Optiver programs" width="70%"/>
+
+## Company Presentation
+
+Are you curious about how your degree can launch your career in tech, trading or research?
+
+Optiver invites you to their virtual presentation on 2 December, where you'll discover how your passion for problem-solving could make you the perfect candidate for their various roles. Hear firsthand from Optiver's traders and engineers about life in a tech-driven trading firm, gain insightful application tips, and even take part in a market-making game with the chance to win an exciting prize. 
+
+ 
+Register before 28 November to secure your spot!
+
+[Resister Here!](https://optiver.com/recruitment-events/virtual-presentation-discover-tech-driven-trading/)
+
+<img src="../assets/jobs/Optiver 25-26 virtual presentations.jpg" alt="Poster for the above Optiver presentation" width="70%"/>
