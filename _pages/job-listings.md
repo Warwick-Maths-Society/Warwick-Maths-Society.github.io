@@ -13,6 +13,14 @@ Take a look at some job and internship offers by our wonderful sponsors!
 
 # TPP
 
+## Summer Internships
+
+The summer internship is for university students who are in their penultimate year. Working alongside our Software Developers you’ll get the opportunity to work on exciting new projects, developing cutting-edge software. Our interns typically join us for 8 to 12 weeks but we are flexible on duration and start dates.
+
+Our Software Developers work on a wide variety of projects as part of an agile development environment. Interns are involved in the full software cycle and work closely with all teams across the company as they scope out new projects and design, develop and deploy our solutions.
+
+To apply, please visit https://tpp-careers.com/roles/summer-internship-software-developer/.
+
 ## Graduate Software Developer
 
 **No coding experience required.**
