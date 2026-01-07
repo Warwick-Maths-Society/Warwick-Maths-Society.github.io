@@ -181,7 +181,7 @@ tbody{
     <th>Guide</th>
   </tr>
   <tr>
-    <td>MA473</td>
+    <td>MA453</td>
     <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/MA453 Lie Algebras.pdf">MA453 Lie Algebras [Incomplete; missing root systems/Dynkin diagrams]</a></td>
   </tr>
   <tr>
@@ -189,7 +189,7 @@ tbody{
     <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/MA473 Reflection Groups.pdf">MA473 Reflection Groups</a></td>
   </tr>
   <tr>
-    <td>MA473</td>
+    <td>MA4A5</td>
     <td><a target="_blank" href="https://desyncthethird.github.io/Notes-Archive/MA4A5 Algebraic Geometry.pdf">MA4A5 Algebraic Geometry [Incomplete; missing Segre embeddings, Grassmannians]</a></td>
   </tr>
   <!-- <tr>
