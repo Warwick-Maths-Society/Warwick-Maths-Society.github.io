@@ -61,11 +61,6 @@ This page lists the manifestos for the candidates in the upcoming elections as p
 <img src="../assets/posts/2024-2025/AGM-manifestos/Olly_Kerins_Jakob_Wood_social_sec.png" alt="Olly Kerins and Jakob Wood (social secretary)" width="70%"/>
 
 ### Careers Officer
-##### William Cannon
-<img src="../assets/posts/2024-2025/AGM-manifestos/William_Cannon_careers-1.png" alt="William Cannon (careers officer) 1" width="70%"/>
-<img src="../assets/posts/2024-2025/AGM-manifestos/William_Cannon_careers-2.png" alt="William Cannon (careers officer) 2" width="70%"/>
-[PDF download](<../assets/posts/2024-2025/AGM-manifestos/William_Cannon_careers.pdf>)
-
 ##### Zain Lam
 <img src="../assets/posts/2024-2025/AGM-manifestos/Zain_Lam_careers-1.png" alt="Zain Lam (careers officer)" width="70%"/>
 [PDF download](<../assets/posts/2024-2025/AGM-manifestos/Zain_Lam_careers.pdf>)
@@ -109,11 +104,6 @@ Hi, I'm Alfie Giffen, a first year maths student, and I'm running for publicatio
 This year’s academic events have been of exceptional quality—from the Analysis revision lecture in Term 1 to the wide range of maths competitions made easily available. As a society, we’ve had great opportunities to engage with challenging maths, and many of these events have been incredibly useful in improving our understanding and boosting our grades. I want to help us build on that success next year.
 
 I’d like to introduce more problem-solving workshops, as I believe that increased exposure to diverse problem types will boost our performance in competitions. Additionally, I want to bring in more team-based and cross-society events, giving us the chance to collaborate with students from different backgrounds. These initiatives would not only make problem-solving more fun and engaging but also expose us to novel approaches that can develop stronger problem-solving intuition.
-
-##### William Cannon
-<img src="../assets/posts/2024-2025/AGM-manifestos/William_Cannon_academic_events-1.png" alt="William Cannon (academic events officer) 1" width="70%"/>
-<img src="../assets/posts/2024-2025/AGM-manifestos/William_Cannon_academic_events-2.png" alt="William Cannon (academic events officer) 2" width="70%"/>
-[PDF download](<../assets/posts/2024-2025/AGM-manifestos/William_Cannon_academic_events.pdf>)
 
 ### Tour Secretary
 ##### Henry
