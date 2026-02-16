@@ -69,17 +69,10 @@ Lyapunov sensitivity, ergodicity, fractal dimension (observed ≈1.9), Pesin's e
 and variational-ergodic equivalence. Validation across 1000 grandmaster games yields ρ >
 0.78 correlations between complexity metrics and error rates. Langevin dynamics with
 temperature-dependent noise captures human imperfection, harder positions cause more
-blunders across skill levels.What's more, the math extends beyond chess. Markets crash when Lyapunov exponents
+blunders across skill levels. What's more, the math extends beyond chess. Markets crash when Lyapunov exponents
 surge. Evolution alternates between stasis and rapid change. Neural networks generalize
 near intermediate curvature regions. Intelligent systems operate where order meets chaos,
 where structure permits prediction but instability enables adaptation.
-Even beyond chess, the model generalizes to any bounded-rational decision system
-governed by nonlinear feedback and constrained optimization from adaptive learning
-processes to market dynamics. My research also shows that strategic reasoning can be
-viewed through the language of dynamical instability, looking at the analytic precision of
-mathematics with the cognitive depth of decision-making. Not just a method for quantifying
-complexity, but also a conceptual lens on how order and chaos coexist in human and
-algorithmic intelligence.
 
  Jan Birmanns (*Proving the Hairy Ball Theorem*):
 >The goal of the talk would be to follow the book "Topology from the Differentiable
