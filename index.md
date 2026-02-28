@@ -106,7 +106,7 @@ body {
 </div>
 <div class="text-center my-4 py-4 px-3 rounded-lg" id="gold-sponsor">
     <a href="https://www.dorsetsoftware.com/Home">
-        <img src="/assets/sponsor logos/Dorset Software.png" alt="Dorset Software Logo" style="max-height:100px;width:auto;">
+        <img src="/assets/sponsor logos/Dorset Software.jpeg" alt="Dorset Software Logo" style="max-height:100px;width:auto;">
     </a>
 </div>
 
