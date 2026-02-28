@@ -267,6 +267,18 @@ Successful candidates will usually be contacted within two weeks. Please be awar
 
 • 550/750 or above in Gaokao
 
+---
+
+## Business Analyst
+
+We are looking for bright and driven graduates from all disciplines to work on exciting projects in our Analyst team.
+
+You will work across a range of healthcare settings to understand requirements, and then collaborate with Software Developers to design new functionality. The role combines aspects of business analysis, systems analysis, and project management.
+
+The variety of projects means that you will always have something new to learn. Your first project could be working on functionality to help a hospital manage patient flow in a busy emergency department. On the next, you could be designing and deploying an app for patients in rural communities in China.
+
+To apply, please visit [here](https://tpp-careers.com/roles/business-analyst/)
+
 
 # Optiver
 
