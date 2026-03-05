@@ -122,7 +122,13 @@ body {
     </a>
 </div>
 
-<!--Insert Optiver here when we recieve details-->
+<br/>
+
+<div class="text-center my-4 py-4 px-3 rounded-lg" id="silver-sponsor">
+    <a href="https://sig.com/">
+        <img src="/assets/sponsor logos/Optiver.png" alt="Optiver Logo" style="max-height:100px;width:auto;">
+    </a>
+</div>
 
 <br/>
 
