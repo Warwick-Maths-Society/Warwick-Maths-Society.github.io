@@ -1,6 +1,6 @@
 ---
 title: WMS By-Elections
-tags: [2026] # events, year, updates, talks
+tags: [2026, updates] # events, year, updates, talks
 
 # Uncomment if post needs to be amended
 # last_modified_at: YYYY-MM-DD
