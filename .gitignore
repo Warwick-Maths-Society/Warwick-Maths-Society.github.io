@@ -8,3 +8,4 @@ _site
 Gemfile.lock
 .vscode/settings.json
 .jekyll-metadata
+**/.DS_Store
