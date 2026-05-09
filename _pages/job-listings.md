@@ -21,6 +21,8 @@ Our Software Developers work on a wide variety of projects as part of an agile d
 
 To apply, please visit https://tpp-careers.com/roles/summer-internship-software-developer/.
 
+<img src="../assets/jobs/TPP-Internship-Poster.jpeg" alt="Poster for the above TPP internship" width="70%"/>
+
 ## Graduate Software Developer
 
 **No coding experience required.**
