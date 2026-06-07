@@ -756,17 +756,16 @@ Note that, in the interest of space, most optional external modules that do not 
     <!-- -->
     <div class="card-header" id="headingMA359">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA359" aria-expanded="false" aria-controls="collapseMA359" id="MA359"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA359" aria-expanded="false" aria-controls="collapseMA359" id="MA359">
           <large><a href="#MA359">MA359 Measure Theory</a></large>
         </button>
       </h2>
     </div>
     <div id="collapseMA359" class="collapse" aria-labelledby="headingMA359" data-parent="#accordionY3maths">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">25/26</large>
         <br/>
-        review here
+        This module is a must take for those who are interested in probability theory and analysis. Keith Ball taught this module this year and he did a really good job in doing so. In this module, you will first learn what is a measure space and basic properties of a measure. This is then followed by learning about the Lebegsue measure and measurable sets and functions. Which then all builds up to the definition and properties of the Lebegsue integral within both one and higher dimensions (you deal with the product measure when dealing with multiple integration). Finally, there will be small sections covering the Lp space (which you will also see in MA3G7: Functional Analysis 1), approximation of functions and the Radon nikodym theorem (apparently this is important within probability theory). Overall, I enjoyed this module. The assignments were challenging enough and revising the module wasn't too difficult to do. Regarding exam preperation, you can get by with just reading the notes and understanding all of the example sheets (please do them). 
       </div>
     </div>
     <!-- -->
@@ -991,17 +990,16 @@ Note that, in the interest of space, most optional external modules that do not 
     <!-- -->
     <div class="card-header" id="headingMA3G7">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3G7" aria-expanded="false" aria-controls="collapseMA3G7" id="MA3G7"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3G7" aria-expanded="false" aria-controls="collapseMA3G7" id="MA3G7">
           <large><a href="#MA3G7">MA3G7 Functional Analysis I</a></large>
         </button>
       </h2>
     </div>
     <div id="collapseMA3G7" class="collapse" aria-labelledby="headingMA3G7" data-parent="#accordionY3maths">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">25/26</large>
         <br/>
-        review here
+        I enjoyed this module a lot. This lecturer did a good job teaching the module. For the first half of the module, you will pretty much be recapping stuff that you have covered in 2nd year (don't let this fool you) such as norms and topology. Then you will form a stronger basis for this module through learning about Hilbert spaces, the Riez representation theorem and weak convergence. Finally the most crucial topics are covered, those being operators and spectral theory. Please review the Operators and Spectral theory chapters as much as you can before the exam season comes close. These topics are probably the most challenging to understand, due to the large number of properties and definitions you will learn (Bounded operators, Hilbter-schmidt, Compact operators, self adjoint operators the list goes on). The rest of the chapters are rather easy to understand. The example sheets (i.e end of chapter questions in the notes) are extremely useful and I highly reccomend you to revise these before the exam (there are a lot of questions). 
       </div>
     </div>
     <!-- -->
