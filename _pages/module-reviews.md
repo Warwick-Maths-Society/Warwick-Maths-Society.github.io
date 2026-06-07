@@ -765,7 +765,13 @@ Note that, in the interest of space, most optional external modules that do not 
       <div class="card-body">
         <large class="text-muted">25/26</large>
         <br/>
-        This module is a must take for those who are interested in probability theory and analysis. Keith Ball taught this module this year and he did a really good job in doing so. In this module, you will first learn what is a measure space and basic properties of a measure. This is then followed by learning about the Lebegsue measure and measurable sets and functions. Which then all builds up to the definition and properties of the Lebegsue integral within both one and higher dimensions (you deal with the product measure when dealing with multiple integration). Finally, there will be small sections covering the Lp space (which you will also see in MA3G7: Functional Analysis 1), approximation of functions and the Radon nikodym theorem (apparently this is important within probability theory). Overall, I enjoyed this module. The assignments were challenging enough and revising the module wasn't too difficult to do. Regarding exam preperation, you can get by with just reading the notes and understanding all of the example sheets (please do them). 
+        This module is a must take for those who are interested in probability theory and analysis. Keith Ball taught this module this year and he did a really good job in doing so.
+        <br/>
+        <br/>
+        In this module, you will first learn what a measure space is, along with basic properties of measures. This is then followed by learning about the Lebesgue measure, and measurable sets and functions, which then all builds up to the definition and properties of the Lebesgue integral, in both one and higher dimensions (you deal with the product measure when dealing with multiple integration). Finally, there are small sections covering the \(L_p\) space (which you will also see in <it>MA3G7 Functional Analysis I</it>), approximation of functions and the Radon--Nikodym theorem (apparently this is important within probability theory).
+        <br/>
+        <br/>
+        Overall, I enjoyed this module. The assignments were challenging enough and revising the module wasn't too difficult to do. Regarding exam preperation, you can get by with just reading the notes and understanding all of the example sheets (please do them). 
       </div>
     </div>
     <!-- -->
@@ -999,7 +1005,16 @@ Note that, in the interest of space, most optional external modules that do not 
       <div class="card-body">
         <large class="text-muted">25/26</large>
         <br/>
-        I enjoyed this module a lot. This lecturer did a good job teaching the module. For the first half of the module, you will pretty much be recapping stuff that you have covered in 2nd year (don't let this fool you) such as norms and topology. Then you will form a stronger basis for this module through learning about Hilbert spaces, the Riez representation theorem and weak convergence. Finally the most crucial topics are covered, those being operators and spectral theory. Please review the Operators and Spectral theory chapters as much as you can before the exam season comes close. These topics are probably the most challenging to understand, due to the large number of properties and definitions you will learn (Bounded operators, Hilbter-schmidt, Compact operators, self adjoint operators the list goes on). The rest of the chapters are rather easy to understand. The example sheets (i.e end of chapter questions in the notes) are extremely useful and I highly reccomend you to revise these before the exam (there are a lot of questions). 
+        I enjoyed this module a lot. This lecturer did a good job teaching the module.
+        <br/>
+        <br/>
+        For the first half of the module, you will pretty much be recapping stuff that you have covered in 2nd year (don't let this fool you) such as norms and topology. Then you will form a stronger basis for this module by learning about Hilbert spaces, the Riez representation theorem, and weak convergence. Finally the most crucial topics are covered -- those being operators and spectral theory.
+        <br/>
+        <br/>
+        Please review the Operators and Spectral theory chapters as much as you can before the exam season comes close. These topics are probably the most challenging to understand, due to the large number of properties and definitions you will learn (bounded operators, Hilbert-Schmidt operators, compact operators, self adjoint operators, etc., the list goes on). The rest of the chapters are rather easy to understand.
+        <br/>
+        <br/>
+        The example sheets (i.e end of chapter questions in the notes) are extremely useful and I highly recommend that you revise these before the exam (there are a lot of questions). 
       </div>
     </div>
     <!-- -->
