@@ -1382,33 +1382,31 @@ Note that, in the interest of space, most optional external modules that do not 
     <!-- -->
     <div class="card-header" id="headingCS301">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS301" aria-expanded="false" aria-controls="collapseCS301" id="CS301"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS301" aria-expanded="false" aria-controls="collapseCS301" id="CS301">
           <large><a href="#CS301">CS301 Complexity of Algorithms</a></large>
         </button>
       </h2>
     </div>
     <div id="collapseCS301" class="collapse" aria-labelledby="headingCS301" data-parent="#accordionY3misc">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">25/26</large>
         <br/>
-        review here
+        This module is for those whose enjoyed the computational tractability section in CS260 and Cook (Turing) reductions in CS259. Initially, you will cover properties of Turing machines, Cook reductions and NP-Completeness (which most of you will be familiar with given you have done the two modules mentioned here). Then you will look into coNP and PSPACE problems (PSPACE you may have touched the surface on in CS260), which I felt up to this point it was not too difficult to understand. You will then move onto Randomised complexity, where you cover RP, BPP, ZP, and ect. This section in particular will require a lot more focus and understanding. Followed by communication complexity, which acted like a nice change within the enviroment. Finally, we end off with approximation complexity which acts as a nice stepping stone for CS356: Approximation and randomised complexity. Overall, I did find the module quite challenging (especially the tutorial sheets). The exam is half and half. If you have fully enganged with the content and have been practicing the questions during the second term, you will be fine. 
       </div>
     </div>
     <!-- -->
     <div class="card-header" id="headingCS356">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS356" aria-expanded="false" aria-controls="collapseCS356" id="CS356"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseCS356" aria-expanded="false" aria-controls="collapseCS356" id="CS356">
           <large><a href="#CS356">CS356 Approximation and Randomised Algorithms</a></large>
         </button>
       </h2>
     </div>
     <div id="collapseCS356" class="collapse" aria-labelledby="headingCS356" data-parent="#accordionY3misc">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">25/26</large>
         <br/>
-        review here
+        This module is awesome. It is taught in two halves: Approximation algorithms and Randomised algorithms, in which both sections were taught really well. The approximation algorithms section covers approximation ratios for minimisation and maximisation problems. You will also cover dualitiy fitting, which is a technique used when converting a problem into a linear program. You will also dive into asympotic approximation ratios (which is the challenging and fun part of this section). In the randomised algorithm, you will need to use your skills from ST120 given that there will be a huge emphasis on probability (and expectation). This section I felt was more difficult than the previous section, but was very interesting. If you want to ace this module, just keep up with the content as much as you can. Practice the tutorial sheets and attend the seminars, then you will have a nice time regarding exam prep. Highly reccomend people to take this module if they enjoy theoretical computer science. 
       </div>
     </div>
     <!-- -->
