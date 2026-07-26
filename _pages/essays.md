@@ -3,7 +3,7 @@ title: Essays
 subtitle: 
 permalink: /essays
 date: 2024-06-26
-last_modified_at: 2024-07-02
+last_modified_at: 2026-07-26
 header_type:
 ---
 
@@ -90,6 +90,11 @@ Below, we have compiled a collection of previous essays that you can use for ref
   <tr>
     <td>76</td>
     <td><a target="_blank" href="./assets/essays-2/76 - Surfaces and their Geometry.pdf">Surfaces and their Geometry</a></td>
+    <td><a target="_blank" href=""></a></td>
+  </tr>
+  <tr>
+    <td>78</td>
+    <td><a target="_blank" href="./assets/essays-2/78 - Fundamental Groups An Introduction.pdf">Fundamental Groups: An Introduction</a></td>
     <td><a target="_blank" href=""></a></td>
   </tr>
   <tr>
