@@ -1,7 +1,7 @@
 <!-- start custom scripts to be placed at the bottom of the page -->
 
-{% if page.path contains "_pages" %}
-  <a href="{{ site.github_base_url }}/{{ page.path }}" target="_blank" class="github-float-button">
+{% if page.path contains "_pages" or page.path contains "_posts" %}
+  <a href="{{ site.github_base_url }}/{{ page.path | uri_escape }}" target="_blank" class="github-float-button">
     <svg class="github-icon" height="20" width="20" viewBox="0 0 16 16" fill="currentColor">
       <path fill-rule="evenodd"
             d="M8 0C3.58 0 0 3.58 0 8a8 8 0 005.47 7.59c.4.07.55-.17.55-.38
