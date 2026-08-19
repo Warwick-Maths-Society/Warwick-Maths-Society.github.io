@@ -129,7 +129,17 @@ Below, we have compiled a collection of previous essays that you can use for ref
   </tr>
   <tr>
     <td>82</td>
+    <td><a target="_blank" href="./assets/essays-2/82 - Calculus of Variations and Noether’s Theorem.pdf">Calculus of Variations and Noether’s Theorem</a></td>
+    <td><a target="_blank" href=""></a></td>
+  </tr>
+  <tr>
+    <td>82</td>
     <td><a target="_blank" href="./assets/essays-2/82 - Generalised Stokes' Theorem.pdf">Generalised Stokes' Theorem</a></td>
+    <td><a target="_blank" href=""></a></td>
+  </tr>
+  <tr>
+    <td>82</td>
+    <td><a target="_blank" href="./assets/essays-2/82 - Quaternions as Three-Dimensional Rotations.pdf">Quaternions as Three-Dimensional Rotations</a></td>
     <td><a target="_blank" href=""></a></td>
   </tr>
   <tr>
@@ -144,17 +154,22 @@ Below, we have compiled a collection of previous essays that you can use for ref
   </tr>
   <tr>
     <td>88</td>
+    <td><a target="_blank" href="./assets/essays-2/88 - Modelling Epidemics with Cellular Automata.pdf">Modelling Epidemics with Cellular Automata</a></td>
+    <td><a target="_blank" href=""></a></td>
+  </tr>
+  <tr>
+    <td>88</td>
+    <td><a target="_blank" href="./assets/essays-2/88 - Nowhere Dense Sets.pdf">Nowhere Dense Sets</a></td>
+    <td><a target="_blank" href=""></a></td>
+  </tr>
+  <tr>
+    <td>88</td>
     <td><a target="_blank" href="./assets/essays-2/88 - The Elliptic Curve Group.pdf">The Elliptic Curve Group</a></td>
     <td><a target="_blank" href=""></a></td>
   </tr>
   <tr>
     <td>88</td>
     <td><a target="_blank" href="./assets/essays-2/88 - Variational Principles and Noether's Theorem.pdf">Variational Principles and Noether's Theorem</a></td>
-    <td><a target="_blank" href=""></a></td>
-  </tr>
-  <tr>
-    <td>88</td>
-    <td><a target="_blank" href="./assets/essays-2/88 - Nowhere Dense Sets.pdf">Nowhere Dense Sets</a></td>
     <td><a target="_blank" href=""></a></td>
   </tr>
   <tr>
