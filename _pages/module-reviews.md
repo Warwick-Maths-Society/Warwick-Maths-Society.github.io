@@ -754,6 +754,27 @@ Note that, in the interest of space, most optional external modules that do not 
 <div class="accordion" id="accordionY3maths">
   <div class="card">
     <!-- -->
+    <div class="card-header" id="headingMA301">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA301" aria-expanded="false" aria-controls="collapseMA301" id="MA301">
+          <large><a href="#MA301">MA301 Waves and Metamaterials</a></large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseMA301" class="collapse" aria-labelledby="headingMA301" data-parent="#accordionY3maths">
+      <div class="card-body">
+        <large class="text-muted">25/26</large>
+        <br/>
+        The module begins with waves in mass-spring systems, introducing ideas such as phase and group velocity, dispersion, reflection and transmission. Its main focus is the Helmholtz equation, which is used throughout to study waves in one and multiple dimensions. Periodic materials and spectral band gaps are studied using the Floquet-Bloch theorem, before the theory is applied to metamaterials such as lenses and invisibility cloaks.
+        <br/>
+        <br/>
+        The module uses asymptotic techniques, particularly the method of multiple scales and homogenisation. Some functional analysis also appears, but the content is fairly self-contained, with no particular prerequisites and everything required taught within the module. It is especially cool to see how the mathematics connects to physical examples.
+        <br/>
+        <br/>
+        The exam was straightforward, and working through the lecture notes and question sheets was enough preparation.
+      </div>
+    </div>
+    <!-- -->
     <div class="card-header" id="headingMA359">
       <h2 class="m-0">
         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA359" aria-expanded="false" aria-controls="collapseMA359" id="MA359">
@@ -798,17 +819,19 @@ Note that, in the interest of space, most optional external modules that do not 
     <!-- -->
     <div class="card-header" id="headingMA390">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA390" aria-expanded="false" aria-controls="collapseMA390" id="MA390"
-        disabled>
-          <large><a href="#MA390">MA390 Mathematical Biology</a></large>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA390" aria-expanded="false" aria-controls="collapseMA390" id="MA390">
+          <large><a href="#MA390">MA390 Topics in Mathematical Biology</a></large>
         </button>
       </h2>
     </div>
     <div id="collapseMA390" class="collapse" aria-labelledby="headingMA390" data-parent="#accordionY3maths">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">25/26</large>
         <br/>
-        review here
+        The first three weeks of this module cover virus dynamics, focusing on models of HIV and antigenic drift in influenza strains. The module then moves on to small biological circuits, including clocks and Hopf bifurcations, before introducing stochastic circuits, the Poisson process and solving the resulting equations using the method of characteristics. The final sections cover models of gene expression and molecular motors.
+        <br/>
+        <br/>
+        I thought the module was lectured well and the notes were clear, with useful biological background provided throughout. At times, I found the biology more interesting than the mathematics itself. It is also worth bearing in mind that the second half of the module involves a significant amount of stochastic material, so this may affect how much you enjoy the course.
       </div>
     </div>
     <!-- -->
@@ -862,17 +885,22 @@ Note that, in the interest of space, most optional external modules that do not 
     <!-- -->
     <div class="card-header" id="headingMA3D1">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3D1" aria-expanded="false" aria-controls="collapseMA3D1" id="MA3D1"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3D1" aria-expanded="false" aria-controls="collapseMA3D1" id="MA3D1">
           <large><a href="#MA3D1">MA3D1 Fluid Dynamics</a></large>
         </button>
       </h2>
     </div>
     <div id="collapseMA3D1" class="collapse" aria-labelledby="headingMA3D1" data-parent="#accordionY3maths">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">25/26</large>
         <br/>
-        review here
+        The module begins by recapping tensors and tensor calculus before deriving the Navier-Stokes equations, which provide the starting point for the rest of the course. It first covers several one-dimensional solutions, including plane Poiseuille flow, Hagen-Poiseuille flow and Stokes' first problem. This is followed by dimensional analysis and the Bernoulli equations, before moving on to potential flow and flow around an aerofoil. The module concludes with boundary layers and the derivation of the Prandtl boundary layer equations.
+        <br/>
+        <br/>
+        James is a great lecturer and the lectures were engaging. The module also has some crossover with PX285 Hamiltonian and Fluid Mechanics.
+        <br/>
+        <br/>
+        The exam was challenging in places, and working through the lecture notes, question sheets and past papers was useful preparation. Some prior experience with PDEs or fluid mechanics, such as from MA3J4 Mathematical Modelling and PDEs or PX285 Hamiltonian and Fluid Mechanics, would be useful, as some of the techniques are transferable.
       </div>
     </div>
     <!-- -->
@@ -1036,17 +1064,28 @@ Note that, in the interest of space, most optional external modules that do not 
     <!-- -->
     <div class="card-header" id="headingMA3H0">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3H0" aria-expanded="false" aria-controls="collapseMA3H0" id="MA3H0"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3H0" aria-expanded="false" aria-controls="collapseMA3H0" id="MA3H0">
           <large><a href="#MA3H0">MA3H0 Numerical Analysis and PDEs</a></large>
         </button>
       </h2>
     </div>
     <div id="collapseMA3H0" class="collapse" aria-labelledby="headingMA3H0" data-parent="#accordionY3maths">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">25/26</large>
         <br/>
-        review here
+        The module is split into two parts: the first focuses on the finite difference method, while the second covers the finite element method. Despite appearing in older versions of the syllabus, finite volume methods are no longer covered.
+        <br/>
+        <br/>
+        The module begins by introducing finite differences and applying them to boundary value problems, alongside the concepts of stability, consistency and convergence (expect to be sick of seeing &lt; or \(\leq\) symbols). It then considers initial value problems, focusing on the transport and heat equations. The second part introduces finite elements and the Galerkin method. Some tools from functional analysis are used, but no prior knowledge of the subject is required.
+        <br/>
+        <br/>
+        Example problems are used throughout to illustrate the different numerical methods, and further reading is provided on related and interesting topics. The assignments contain a mixture of analytical and computational questions, with the latter completed in Python. They are generally straightforward and follow the ideas in the lecture notes closely.
+        <br/>
+        <br/>
+        This module pairs well with MA3J4 Mathematical Modelling and PDEs, providing the theory needed to solve its models numerically. It also provides useful theoretical background for PX390 Scientific Computing, although unfortunately MA3H0 takes place after PX390.
+        <br/>
+        <br/>
+        The exam was challenging and contained a mixture of bookwork and unseen problems. Completing the question sheets and past papers was useful revision.
       </div>
     </div>
     <!-- -->
@@ -1191,17 +1230,22 @@ Note that, in the interest of space, most optional external modules that do not 
     <!-- -->
     <div class="card-header" id="headingMA3J4">
       <h2 class="m-0">
-        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3J4" aria-expanded="false" aria-controls="collapseMA3J4" id="MA3J4"
-        disabled>
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseMA3J4" aria-expanded="false" aria-controls="collapseMA3J4" id="MA3J4">
           <large><a href="#MA3J4">MA3J4 Mathematical Modelling and PDEs</a></large>
         </button>
       </h2>
     </div>
     <div id="collapseMA3J4" class="collapse" aria-labelledby="headingMA3J4" data-parent="#accordionY3maths">
       <div class="card-body">
-        <large class="text-muted">YY/YY</large>
+        <large class="text-muted">25/26</large>
         <br/>
-        review here
+        The module begins by recapping techniques from previous modules before moving on to linear and nonlinear diffusion. It then covers reaction-diffusion equations, including travelling wave solutions and Turing instabilities, followed by the Fokker-Planck equation and chemotaxis. Later sections introduce Burgers' equation, models of traffic flow and pedestrian dynamics, and finally dispersive waves.
+        <br/>
+        <br/>
+        The module builds on MA265 Methods of Mathematical Modelling 3 and introduces a range of techniques that are useful in other applied modules, while applying them to a variety of interesting models.
+        <br/>
+        <br/>
+        The module was well lectured and the notes were good. Overall, I found it enjoyable.
       </div>
     </div>
     <!-- -->
@@ -1473,6 +1517,30 @@ Note that, in the interest of space, most optional external modules that do not 
         <br/>
         <br/>
         This module is also done in C, rather than Python as in previous modules. However, minimal memory allocation and pointer management is required in the assignments, so prior experience with C is not required. The first few assignments are also very easy; but the final project, weighted to be worth the majority of the module, is extremely difficult, with many people barely getting any outputs at all from their program. Overall, I would only recommend this module to those already interested in numerical PDE theory. Not also that this module will not teach you C in a meaningful way, outside of the absolute basics in memory allocation.
+      </div>
+    </div>
+    <!-- -->
+    <div class="card-header" id="headingPX399">
+      <h2 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapsePX399" aria-expanded="false" aria-controls="collapsePX399" id="PX399">
+          <large><a href="#PX399">PX399 The Earth and Its Atmosphere</a></large>
+        </button>
+      </h2>
+    </div>
+    <div id="collapsePX399" class="collapse" aria-labelledby="headingPX399" data-parent="#accordionY3misc">
+      <div class="card-body">
+        <large class="text-muted">25/26</large>
+        <br/>
+        The module is split into two halves taught by different lecturers. The first covers the solid Earth, including radiometric dating, plate tectonics, heat, geomagnetism, gravity anomalies and seismology.
+        <br/>
+        <br/>
+        Lecture notes for this half were handwritten during lectures, although the course closely followed chapters of the recommended textbook. Weekly questions were also selected from the textbook. I found some of the topics interesting, but opportunities to explore more mathematical modelling were unfortunately omitted.
+        <br/>
+        <br/>
+        The second half covers the atmosphere, beginning with its structure, radiation balance, the greenhouse effect and atmospheric optics. It then considers how pressure and temperature vary with height, atmospheric stability, clouds and precipitation, before introducing atmospheric dynamics, weather systems, hurricanes, global circulation, jet streams and ocean circulation. The provided lecture notes were clear, although not comprehensive.
+        <br/>
+        <br/>
+        The exam contained a mixture of seen material and unseen applications. It felt quite short, making it easy to miss out on marks. Although the content is sometimes interesting and often feels straightforward, it is easy to underestimate the exam. Overall, I would not recommend this module unless you have a keen interest in the material and are willing to teach yourself from the textbook.
       </div>
     </div>
     <!-- -->
