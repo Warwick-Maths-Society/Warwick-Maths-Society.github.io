@@ -179,7 +179,7 @@ Below, we have compiled a collection of previous essays that you can use for ref
   </tr>
   <tr>
     <td>100</td>
-    <td><a target="_blank" href="https://desyncthethird.github.io/Archive/The%20Yoneda%20Lemma.pdf">The Yoneda Lemma</a></td>
+    <td><a target="_blank" href="https://desyn.cc/Archive/The%20Yoneda%20Lemma.pdf">The Yoneda Lemma</a></td>
     <td><a target="_blank" href="https://www.youtube.com/watch?v=AUD2Rpoy6O4">Link</a></td>
   </tr>
 </table>
@@ -208,7 +208,7 @@ Below, we have compiled a collection of previous essays that you can use for ref
   </tr>
   <tr>
     <td>82</td>
-    <td><a target="_blank" href="https://desyncthethird.github.io/Archive/Structural%20Foundations%20in%20Topoi.pdf">Structural Foundations in Topoi</a></td>
+    <td><a target="_blank" href="https://desyn.cc/Archive/Structural%20Foundations%20in%20Topoi.pdf">Structural Foundations in Topoi</a></td>
     <td><a target="_blank" href="https://www.youtube.com/watch?v=XHwPHNtKRQ4">Link</a></td>
   </tr>
   <tr>
@@ -255,7 +255,7 @@ Below, we have compiled a collection of previous essays that you can use for ref
   </tr>
   <tr>
     <td>90</td>
-    <td><a target="_blank" href="https://desyncthethird.github.io/Archive/Constructivism%20in%20Mathematics.pdf">I can't believe you just excluded the middle</a></td>
-    <td><a target="_blank" href="https://desyncthethird.github.io/Archive/Constructivism%20Presentation.pdf">Link</a></td>
+    <td><a target="_blank" href="https://desyn.cc/Archive/Constructivism%20in%20Mathematics.pdf">I can't believe you just excluded the middle</a></td>
+    <td><a target="_blank" href="https://desyn.cc/Archive/Constructivism%20Presentation.pdf">Link</a></td>
   </tr>
 </table>

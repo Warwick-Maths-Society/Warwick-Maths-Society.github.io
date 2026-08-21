@@ -11,7 +11,7 @@ header_type:
     <strong>Reference Book</strong>
     <br/>
     <span class="text-muted">Kit Liu</span>
-    <a href="https://desyncthethird.github.io/">Online link</a>
+    <a href="https://desyn.cc/">Online link</a>
     <br/>
     <span class="text-muted"><i>Prerequisites: None.</i></span>
 </p>
