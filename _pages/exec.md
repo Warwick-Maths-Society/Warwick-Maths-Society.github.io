@@ -3,7 +3,7 @@ title: Exec
 subtitle: 
 permalink: /exec
 date: 2024-06-26
-last_modified_at: 2025-04-22
+last_modified_at: 2026-09-09
 header_type:
 ---
 
@@ -14,7 +14,7 @@ The archive of exec from previous years may be found [here](exec/overview.md).
 ---
 
 ### President
-<p class="text-muted" style="font-size: 18px;">Ingrid Loynes</p>
+<p class="text-muted" style="font-size: 18px;">Jakob Wood</p>
 
 The President is the overall leader of the society, and is in charge of:
 
@@ -25,7 +25,7 @@ The President is the overall leader of the society, and is in charge of:
 ---
 
 ### Vice-President
-<p class="text-muted" style="font-size: 18px;">Carmel West</p>
+<p class="text-muted" style="font-size: 18px;">Oliver Kerins</p>
 
 The Vice-President is to assist the President with the general running of the society, including:
 
@@ -36,7 +36,7 @@ The Vice-President is to assist the President with the general running of the so
 ---
 
 ### Treasurer
-<p class="text-muted" style="font-size: 18px;">Zain Lam</p>
+<p class="text-muted" style="font-size: 18px;">Yuliia Illiushchenko</p>
 
 The Treasurer is to handle the finances of the society. This involves:
 
@@ -47,14 +47,14 @@ The Treasurer is to handle the finances of the society. This involves:
 ---
 
 ### Equal Opportunities & Welfare
-<p class="text-muted" style="font-size: 18px;">Charlotte Hegarty and Dori Suntornsuk</p>
+<p class="text-muted" style="font-size: 18px;">Manav Desai and Abhir Verma</p>
 
 The Equal Opportunities & Welfare officers are responsible for planning and hosting events for underrepresented groups in Maths. This involves running the weekly **Coffee and Cake** welfare event. The Equal Opportunities & Welfare officers are also responsible for coordinating and planning the annual Ada Lovelace day, celebrating women and non-binary mathematicians.
 
 ---
 
 ### Social Secretaries
-<p class="text-muted" style="font-size: 18px;">Kai Gentzel and Will Hesslefors</p>
+<p class="text-muted" style="font-size: 18px;">Jonah Crouch and Lola Holle</p>
 
 The Social Secretaries work together to organise and run a variety of social events for the society. This involves:
 
@@ -65,7 +65,7 @@ The Social Secretaries work together to organise and run a variety of social eve
 ---
 
 ### Talks Coordinators
-<p class="text-muted" style="font-size: 18px;">Kasim Ahmed and Clara Winne</p>
+<p class="text-muted" style="font-size: 18px;">Benjamin Bevan and Antoni Tworkowski</p>
 The Talks Coordinators organise the weekly academic talks. This involves:
 
 * Contacting potential speakers;
@@ -77,21 +77,23 @@ The Talks Coordinators are also responsible for organising the Warwick-Imperial 
 ---
 
 ### Academic Support
-<p class="text-muted" style="font-size: 18px;">Roy Rice Guisado and Sean Tan</p>
+<p class="text-muted" style="font-size: 18px;">Benjamin Bevan, Lihu Salomon-Bar and Charlie Yau</p>
 
-The two Academic Supports organise and run the weekly **Maths Café** event where they assist other students with their academic studies. They are also responsible for organising the revision lectures later in the year.
+The Academic Support Officers organise and run the weekly **Maths Café** event where they assist other students with their academic studies. They are also responsible for organising the revision lectures later in the year. 
+
+Ordinarily, there are two roles available. However, due to a draw in the byelection, there are three officers for the 26/27 year.
 
 ---
 
 ### Academic Events
-<p class="text-muted" style="font-size: 18px;">Joseph Baptist</p>
+<p class="text-muted" style="font-size: 18px;">Christina Kavouriadou</p>
 
 The Academic Events Coordinator organises academic collaborations with other societies, as well as overseeing several annual maths competitions.
 
 ---
 
 ### Publications Officers
-<p class="text-muted" style="font-size: 18px;">Alfie Giffen and Jakob Wood</p>
+<p class="text-muted" style="font-size: 18px;">Elliott Doolan and Liam Logue</p>
 
 The Publications Officers are in charge of the general maintenance and upkeep of the society webpage. This involves:
 
@@ -102,7 +104,7 @@ The Publications Officers are in charge of the general maintenance and upkeep of
 ---
 
 ### Careers Officer
-<p class="text-muted" style="font-size: 18px;">Zain Lam</p>
+<p class="text-muted" style="font-size: 18px;">Freddie Cove</p>
 
 The Careers Officer is to promote awareness of career options amongst members. This includes:
 
@@ -113,28 +115,28 @@ The Careers Officer is to promote awareness of career options amongst members. T
 ---
 
 ### Sports Officer
-<p class="text-muted" style="font-size: 18px;">Amin Batley</p>
+<p class="text-muted" style="font-size: 18px;">Zezi Li</p>
 
 The Sports Officer manages the sports teams of the WMS. This includes ensuring that the teams have captains and are signed up to leagues, as well as managing any necessary equipment and publicising on the society sports Facebook page.
 
 ---
 
 ### Marketing Officer
-<p class="text-muted" style="font-size: 18px;">Carmel West</p>
+<p class="text-muted" style="font-size: 18px;">MT Li</p>
 
 The Marketing Officer is responsible for the effective marketing of the society, mainly through Facebook, Instagram, and Discord. This involves creating graphic resources and scheduling posts for events to ensure information is clearly transmitted to society members.
 
 ---
 
 ### Tour Secretary
-<p class="text-muted" style="font-size: 18px;">Charlie Bryant</p>
+<p class="text-muted" style="font-size: 18px;">Brian Makawana</p>
 
 The Tour Secretary is to plan and run any society trips abroad.
 
 ---
 
 ### Ball Secretary
-<p class="text-muted" style="font-size: 18px;">Alex Funnell</p>
+<p class="text-muted" style="font-size: 18px;">Ng Man Fei</p>
 
 The Ball Secretary is to plan and run the society's annual winter ball. This involves:
 
