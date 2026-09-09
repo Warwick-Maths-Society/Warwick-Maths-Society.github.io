@@ -77,7 +77,7 @@ The Talks Coordinators are also responsible for organising the Warwick-Imperial 
 ---
 
 ### Academic Support
-<p class="text-muted" style="font-size: 18px;">Benjamin Bevan, Lihu Salomon-Bar and Charlie Yau</p>
+<p class="text-muted" style="font-size: 18px;">Benjamin Bevan, Lihu Salomon-Bar, and Charlie Yau</p>
 
 The Academic Support Officers organise and run the weekly **Maths Café** event where they assist other students with their academic studies. They are also responsible for organising the revision lectures later in the year. 
 
