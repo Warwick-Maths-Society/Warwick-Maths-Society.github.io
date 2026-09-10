@@ -438,7 +438,37 @@ Note that, in the interest of space, most optional external modules that do not 
     </div>
     <div id="collapseMA257" class="collapse" aria-labelledby="headingMA257" data-parent="#accordionY2maths">
       <div class="card-body">
-        <large class="text-muted">23/24</large>
+        <large class="text-muted">25/26</large>
+        <br/>
+        <span class="text-muted"><i>Lecturer: Sam Chow</i></span>
+        <br/>
+        Enjoyment: 5/5
+        <br/>
+        Conceptual difficulty: 3/5
+        <br/>
+        Problem-sheet difficulty: 4/5
+        <br/>
+        Workload: 2/5
+        <br/>
+        <br/>
+        One of my favourite modules of the year, even though I am more inclined towards applied maths. Some of the proofs were just beautiful. There are challenging ideas, but I found the content very manageable overall. This was one of my lighter modules in terms of workload, though I still spent plenty of time on it simply because I enjoyed it. The first two or three weeks felt largely like revision of the number theory in <i>Foundations</i>/<i>Numbers and Sets</i>. Students with an olympiad number theory background will probably recognise quite a few ideas, especially early on, and may even find the content a bit dull; I am not an olympiad student, so most of the ideas were fairly new to me. There are many satisfying connections between this module and <i>Algebra 3</i>, namely Gaussian integers, Euclidean algorithms, Bézout’s identity, primes versus irreducibles, and unique factorisation. The overlap is particularly helpful during revision, as work for one module reinforces the other.
+        <br/>
+        <br/>
+        The lecture notes cover all the lecture content, and the lectures follow them closely. <strong>The problem sheets and homework are crucial.</strong> They are central to understanding the content and scoring well in the exam. Keep up with the intended fortnightly schedule for the problem sheets if you can.
+        <br/>
+        <br/>
+        Our exam contained a substantial amount of bookwork and previously seen material, including material from the problem sheets. The unseen questions felt like variations on the problem-sheet questions. I achieved a high first mainly by working through the lecture notes and attempting the sheets multiple times. One minor detail is that we were asked to derive the upper bound for Waring’s problem for 5 marks, even though this was given as a side remark during the lectures. Engaging closely with the content is therefore crucial, although this is not too difficult as the notes are quite short.
+        <br/>
+        <br/>
+        I also found engaging with the proofs to be an important part of revision. In the last week or so before the exam, I tried to reconstruct proofs for each major theorem or proposition with minimal help. Once you start the module, you will realise that each proof has an “aha” moment or a trick that needs to be remembered.
+        <br/>
+        <br/>
+        I also used the recommended textbook, <i>The Higher Arithmetic</i>, for extra exercises, although it was far from necessary.
+        <br/>
+        <br/>
+        I would strongly recommend this module to anyone who enjoys clever arguments and wants a module with a lighter workload.
+        <br/>
+        <br/>        <large class="text-muted">23/24</large>
         <br/>
         This optional module continues directly on from the number theory seen in Foundations, but without the focus on cryptography and more that of a general introduction. The first half mostly recaps number theory seen in Foundations, so joint degree students who did Sets & Numbers will not be at a disadvantage. There is some non-Foundations content on quadratic residues and Legendre notation towards the end of this half. The second half is about Diophantine equations, introducing results like Minkowski's theorem and the two, three and four square theorems. There is also some overlap with Algebra 3 with Gaussian primes and unique factorisation in the Gaussian integers. The end of the module also looks at Waring's problem and results in Diophantine approximation such as the Dirichlet approximation theorem, which you may have seen in Analysis 1.
         <br/>
