@@ -154,6 +154,11 @@ Below, we have compiled a collection of previous essays that you can use for ref
   </tr>
   <tr>
     <td>88</td>
+    <td><a target="_blank" href="./assets/essays-2/88 - Brownian Motion, Martingales, and Markov Processes.pdf">Brownian Motion, Martingales, and Markov Processes</a></td>
+    <td><a target="_blank" href=""></a></td>
+  </tr>
+  <tr>
+    <td>88</td>
     <td><a target="_blank" href="./assets/essays-2/88 - Modelling Epidemics with Cellular Automata.pdf">Modelling Epidemics with Cellular Automata</a></td>
     <td><a target="_blank" href=""></a></td>
   </tr>
