@@ -17,9 +17,59 @@ This page lists the manifestos for 2026-27 Freshers Representative candidates.
 
 **Candidates are ordered by those who submitted a graphical manifesto, followed by those who submitted a textual manifesto, followed by those who submitted no manifesto, then in alphabetical order.**
 
-##### Jakob Wood
-<img src="..\assets\posts\2025-2026\Manifestos\Jakob_President.png" alt="Jakob Wood (President)" width="70%"/>
-[PDF download](<..\assets\posts\2025-2026\Manifestos\Jakob_President.png>)
+#### Jason Kwok
+
+<a href="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Jason_Kwok.pdf">
+  <img src="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Jason_Kwok.jpg"
+       alt="Jason Kwok" width="70%">
+</a>
+<br/>
+<a href="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Jason_Kwok.pdf">PDF Download</a>
+
+#### Ruby Leung
+
+<a href="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Ruby_Leung.png">
+  <img src="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Ruby_Leung.png"
+       alt="Ruby Leung" width="70%">
+</a>
+<br/>
+<a href="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Ruby_Leung.png">PNG Download</a>
+
+#### Jyotiraditya Padhi
+
+<a href="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Jyotiraditya_Padhi.pdf">
+  <img src="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Jyotiraditya_Padhi.jpg"
+       alt="Jyotiraditya Padhi" width="70%">
+</a>
+<br/>
+<a href="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Jyotiraditya_Padhi.pdf">PDF Download</a>
+
+#### Isabelle Salway
+
+<a href="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Isabelle_Salway.pdf">
+  <img src="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Isabelle_Salway.jpg"
+       alt="Isabelle Salway" width="70%">
+</a>
+<br/>
+<a href="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Isabelle_Salway.pdf">PDF Download</a>
+
+#### Nobuki Smolders
+
+<a href="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Nobuki_Smolders.pdf">
+  <img src="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Nobuki_Smolders.jpg"
+       alt="Nobuki Smolders" width="70%">
+</a>
+<br/>
+<a href="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Nobuki_Smolders.pdf">PDF Download</a>
+
+#### Jamie Villacis Lara 
+
+<a href="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Jamie_VL.pdf">
+  <img src="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Jamie_VL.jpg"
+       alt="Jamie V.L." width="70%">
+</a>
+<br/>
+<a href="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Jamie_VL.pdf">PDF Download</a>
 
 #### Tessa Connel
 
@@ -138,10 +188,31 @@ Ways this could be actioned include fresher-specific feedback forms for various 
 
 I was the vice-president of my sixth form's maths society in Year 13, organising sessions and giving talks. I also mentored maths to GCSE students during sixth form, so I have experience with planning things for people and explaining maths.
 
+#### Chloe Rew
+
+Hi I’m Chloe and I would love to be one of this year's freps for maths society!
+
+I love maths (even when I’m exceptionally lost in lectures) and I would really like the opportunity to see behind the scenes of Warwick’s best society and bring in even more events to liven up the freshers’ social calendar.
+
+I’m organised and a friendly face for anybody to speak to if you need help or have an idea for how to make maths society even better.
+
+Vote for Chloe!
+
 #### Emanuela Verovic
 
 Hi, I’m Emanuela, and I’d love to help make Maths Society events even more fun and create lots of great university memories together aside from proofs and theorems 😉
 
+#### Arnav Kachia
+
+#### Umair Malik
+
+#### Sho Narahashi
+
+#### Haruki Noonan
+
+#### Sam Rodi
+
+#### Sergios Sakellaropoulos
 ---
 
 
