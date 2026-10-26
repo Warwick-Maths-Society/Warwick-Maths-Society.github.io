@@ -100,13 +100,18 @@ body {
     <h2 class="font-weight-light py-2 px-2">Gold Tier</h2>
 </div>
 <div class="text-center my-4 py-4 px-3 rounded-lg" id="gold-sponsor">
-    <a href="https://tpp-uk.com/">
-        <img src="/assets/sponsor logos/TPP.png" alt="TPP Logo" style="max-height:100px;width:auto;">
+    <a href="https://brevanhoward.com/">
+        <img src="/assets/sponsor logos/Brevan_howard_icon.jpeg" alt="Brevan Howard Logo" style="max-height:100px;width:auto;">
     </a>
 </div>
 <div class="text-center my-4 py-4 px-3 rounded-lg" id="gold-sponsor">
-    <a href="https://www.dorsetsoftware.com/Home">
-        <img src="/assets/sponsor logos/Dorset Software.jpeg" alt="Dorset Software Logo" style="max-height:100px;width:auto;">
+    <a href="https://tpp-uk.com/">
+        <img src="/assets/sponsor logos/CapitalOne.svg.webp" alt="Capital One Logo" style="max-height:100px;width:auto;">
+    </a>
+</div>
+<div class="text-center my-4 py-4 px-3 rounded-lg" id="gold-sponsor">
+    <a href="https://tpp-uk.com/">
+        <img src="/assets/sponsor logos/TPP.png" alt="TPP Logo" style="max-height:100px;width:auto;">
     </a>
 </div>
 
@@ -118,17 +123,13 @@ body {
 
 <div class="text-center my-4 py-4 px-3 rounded-lg" id="silver-sponsor">
     <a href="https://sig.com/">
-        <img src="/assets/sponsor logos/Susquehanna-light.png" alt="Susquehanna Logo" style="max-height:100px;width:auto;">
+        <img src="/assets/sponsor logos/Susquehanna-dark.png" alt="Susquehanna Logo" style="max-height:100px;width:auto;">
     </a>
 </div>
 
 <br/>
 
-<div class="text-center my-4 py-4 px-3 rounded-lg" id="silver-sponsor">
-    <a href="https://optiver.com/">
-        <img src="/assets/sponsor logos/Optiver.png" alt="Optiver Logo" style="max-height:100px;width:auto;background-color:white;">
-    </a>
-</div>
+
 
 <br/>
 
