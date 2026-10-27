@@ -20,7 +20,7 @@ This page lists the manifestos for 2026-27 Freshers Representative candidates.
 #### Jason Kwok
 
 <a href="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Jason_Kwok.pdf">
-  <img src="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Jason_Kwok.jpg"
+  <img src="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Jason_Kwok.png"
        alt="Jason Kwok" width="70%">
 </a>
 <br/>
@@ -38,7 +38,7 @@ This page lists the manifestos for 2026-27 Freshers Representative candidates.
 #### Jyotiraditya Padhi
 
 <a href="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Jyotiraditya_Padhi.pdf">
-  <img src="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Jyotiraditya_Padhi.jpg"
+  <img src="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Jyotiraditya_Padhi.png"
        alt="Jyotiraditya Padhi" width="70%">
 </a>
 <br/>
@@ -47,7 +47,7 @@ This page lists the manifestos for 2026-27 Freshers Representative candidates.
 #### Isabelle Salway
 
 <a href="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Isabelle_Salway.pdf">
-  <img src="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Isabelle_Salway.jpg"
+  <img src="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Isabelle_Salway.png"
        alt="Isabelle Salway" width="70%">
 </a>
 <br/>
@@ -56,7 +56,7 @@ This page lists the manifestos for 2026-27 Freshers Representative candidates.
 #### Nobuki Smolders
 
 <a href="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Nobuki_Smolders.pdf">
-  <img src="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Nobuki_Smolders.jpg"
+  <img src="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Nobuki_Smolders.png"
        alt="Nobuki Smolders" width="70%">
 </a>
 <br/>
@@ -65,7 +65,7 @@ This page lists the manifestos for 2026-27 Freshers Representative candidates.
 #### Jamie Villacis Lara 
 
 <a href="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Jamie_VL.pdf">
-  <img src="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Jamie_VL.jpg"
+  <img src="../assets/posts/2026-2027/Freshers%20Rep%20Manifestos/Jamie_VL.png"
        alt="Jamie V.L." width="70%">
 </a>
 <br/>
